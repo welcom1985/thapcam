@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 21:00 Lebanon vs Syria 89 _ 64 [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/rxZCSyxUcLUx5YOlbjS7rg/Fv2lucGIbhPi2caWYvF5Lg/1732588204132/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 21:00 Lebanon vs Syria 89 _ 64 [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1ODgyMDQsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMjU2NjYwNH0.RsNY3766uaq7Ikl4obNv6Tv8Blu8HVgyI3u1i09MDWs-/luaHD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 21:00 Lebanon vs Syria 89 _ 64 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/33fd1de4c546dbb4e77ed21b87a69802/1732588204132/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 21:00 Lebanon vs Syria 89 _ 64 [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/f0xESM9eol2VXrOBNAHbdw/74b8773ecaa9df430432c2bf2b6bd9e0/1732588204/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 21:00 Lebanon vs Syria 89 _ 64 [HD nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=a6f182d7bb42e68f6e10525f6d850a7b&wsTime=1732566604&keeptime=21600
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Luknj7r5HlP-DuQvgwyH2A/Fv2lucGIbhPi2caWYvF5Lg/1732589404660/live/may1HD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1ODk0MDQsInVyaSI6Ii9tYXkxSEQiLCJpYXQiOjE3MzI1Njc4MDR9.mO5I5eD3dEqah0uwT7gH7_NsI6LSncV-Y_kZGmT_tNU-/may1HD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a948e868f40c50b242072e5be030f129/1732589404660/live/may1SD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/lOS9uOzixiAZr2mIzTbVwA/a75e9b78c79480f30c7ea83b12c71e42/1732589404/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [HD nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may1HD.flv?wsSecret=721a691e04b843d99abe08f43ec0f660&wsTime=1732567804&keeptime=21600
-#EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",25-11 21:00 Al Ain vs Al Ahli 1 _ 2 [Nhà đài]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/XuuSfe-oMtN4G4om4RDqTQ/Fv2lucGIbhPi2caWYvF5Lg/1732589404661/live/may10/playlist.m3u8
 #EXTINF:0 group-title="25-11" tvg-logo="https://img.thesports.com/football/competition/dee29297a999c65352448cf08461e9b9.png",25-11 22:20 Oman Club vs Sohar Club 2 _ 1 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -254,31 +210,31 @@ https://obevcimanyd179591709.thapcam.link/0oO0PD7YZQ-eTig8KW-s-w/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/vuuaJAnu69wn_nUcSdwF9g/Fv2lucGIbhPi2caWYvF5Lg/1732585805064/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/7aez_rF9KBaAiolLTAuV8A/Fv2lucGIbhPi2caWYvF5Lg/1732584422199/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1ODU4MDUsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI1NjQyMDV9.dSrmSMI-2T1MKBsUOWAOckSJbijQPEYTY8zWQ8a-ZFM-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1ODQ0MjIsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI1NjI4MjJ9.YMz21KGPZEIqnDJ_TuJtgoV6abVJwCPzYo3W6tMc_2I-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7e6daa4a646398db111583e64529dd6f/1732585805065/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3ef9b4b5c544b6f625f43e390ef95437/1732584422199/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/oTNEzUK2-hHKKmqltaRBWg/6b78b4ff262c15bca3bdb372d5d5d695/1732585805/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/98_oClX-h2_pSldSoXvvMA/6b78b4ff262c15bca3bdb372d5d5d695/1732584422/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [HD nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=3ac4fc9c5339f2efc0464ae6980466df&wsTime=1732564205&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=8cc64384f2459b450994c85eac05f7fa&wsTime=1732562822&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png",26-11 01:30 UTA Arad vs CS Universitatea Craiova 0 _ 0 [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/S7GS-NTJ_jOtfTH7ILkcLA/Fv2lucGIbhPi2caWYvF5Lg/1732585805065/live/sd-6MsGeDKyz3iPMoqau1/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/ifQxMWZD_UYt5t9nSCbeMQ/Fv2lucGIbhPi2caWYvF5Lg/1732584422199/live/sd-6MsGeDKyz3iPMoqau1/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://i.imgur.com/hZNRca8.png",26-11 02:30 Cuprum vs Norwid Czestochowa 1 _ 1 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/zdGRDFu_HnP_DglNC1NSPQ/Fv2lucGIbhPi2caWYvF5Lg/1732583114787/live/may61/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/YoENeXEHmxqWYHWy3ZgI2g/Fv2lucGIbhPi2caWYvF5Lg/1732584422267/live/may61/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",26-11 02:45 Venezia vs Lecce 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
