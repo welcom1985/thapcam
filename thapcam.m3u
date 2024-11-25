@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="25-11" tvg-logo="https://i.imgur.com/hZNRca8.png",25-11 23:30 Gdansk vs Projekt Warszawa 1 _ 3 [HD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/oM2zKkMQI9MXF8jAFKYHRA/Fv2lucGIbhPi2caWYvF5Lg/1732588810154/live/may61/playlist.m3u8
 #EXTINF:0 group-title="25-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",25-11 23:45 Saudi Arabia vs Iraq 66 _ 58 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -199,23 +195,43 @@ https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=c5c29605753172d722922
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179591709.thapcam.link/iPO6hKv73NhE8arbLfOh3w/Fv2lucGIbhPi2caWYvF5Lg/1732582214598/live/may71/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/uLW1dvQUiER2Qi9zIMIySg/Fv2lucGIbhPi2caWYvF5Lg/1732599608298/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD2	]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTk2MDgsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTczMjU3ODAwOH0.Z7gwFkK0diLdHaf6QIPOK9PqmF71zcIY3ka-ANw0GSM-/gayHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/gayHD.flv?wsSecret=98cd64e04318d1f9cd6cffef219d22ac&wsTime=1732578008&keeptime=21600
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/32cec6165a7fe0e4fc170486db6183f3/1732599608298/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/9MA3uHq4PgWmgN3BQzISsg/84da5215d1a1dcfaac34c074325b27a0/1732599608/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/xljZtT2fEzknuVSBAgZnfQ/Fv2lucGIbhPi2caWYvF5Lg/1732599010277/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/VO9AFkTAbn3Fas1GEq1rKA/Fv2lucGIbhPi2caWYvF5Lg/1732598852724/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD2	]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTkwMTAsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI1Nzc0MTB9.D4r0o-Ql7OVzkCUKq-PUJYTrFfJlf9RzaPv1jmiwy2g-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTg4NTIsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI1NzcyNTJ9.R9fr_7NmYNBOGKoc6zYZ-aju7Y7_d3SelgARV6Q94hQ-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=1deda32dd578cc59e047ce04a74a91ab&wsTime=1732577410&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=aa82653500d396ce3d172452f62d9827&wsTime=1732577252&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b0608a39aef3aa390aafb005344a2425/1732599010278/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e45283df69939b24da126bacefb60142/1732598852724/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/A8mayz4q15A4GI50RfDiAw/847878fb5be3ca4c0539d0883bc5274a/1732599010/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/ZcDR9vjbczrkMxuDqka_rA/847878fb5be3ca4c0539d0883bc5274a/1732598852/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
