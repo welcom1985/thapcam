@@ -142,7 +142,7 @@ https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=8dcbcc6719d0e2fa5bb519
 #EXTINF:0 group-title="26-11" tvg-logo="https://i.imgur.com/hZNRca8.png",26-11 02:30 Cuprum vs Norwid Czestochowa 3 _ 2 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/Lqz1V3mAGI8Tc4sVrGCKcw/Fv2lucGIbhPi2caWYvF5Lg/1732578012706/live/may61/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/LQ5w-XzKWYpxXeEkdxtgrw/Fv2lucGIbhPi2caWYvF5Lg/1732599008300/live/may61/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",26-11 02:45 Venezia vs Lecce 0 _ 1 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -199,3 +199,23 @@ https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=c5c29605753172d722922
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179591709.thapcam.link/iPO6hKv73NhE8arbLfOh3w/Fv2lucGIbhPi2caWYvF5Lg/1732582214598/live/may71/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/xljZtT2fEzknuVSBAgZnfQ/Fv2lucGIbhPi2caWYvF5Lg/1732599010277/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD2	]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTkwMTAsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI1Nzc0MTB9.D4r0o-Ql7OVzkCUKq-PUJYTrFfJlf9RzaPv1jmiwy2g-/trauHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=1deda32dd578cc59e047ce04a74a91ab&wsTime=1732577410&keeptime=21600
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/b0608a39aef3aa390aafb005344a2425/1732599010278/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/A8mayz4q15A4GI50RfDiAw/847878fb5be3ca4c0539d0883bc5274a/1732599010/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
