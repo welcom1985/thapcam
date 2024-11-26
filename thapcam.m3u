@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="26-11 08_00 Grizzlies vs Blazers 123 | 98" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",HD1 Grizzlies vs Blazers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/iIT93xNqSICXqHG8n-YlrQ/Fv2lucGIbhPi2caWYvF5Lg/1732613410481/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 08_00 Grizzlies vs Blazers 123 | 98" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",HD2	 Grizzlies vs Blazers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MTM0MTAsInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczMjU5MTgxMH0.vydZw90W3uUV1MMQZRLapSgynVy_7k4fN3NvcBx_guI-/oldHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 08_00 Grizzlies vs Blazers 123 | 98" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",HD Nhanh Grizzlies vs Blazers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=af8fbed7f39fb885002019c645b24b27&wsTime=1732591810&keeptime=21600
-#EXTINF:0 group-title="26-11 08_00 Grizzlies vs Blazers 123 | 98" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",SD Grizzlies vs Blazers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b75c6b99ae0fcc6d36fa4253bf4e9571/1732613410481/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="26-11 08_00 Grizzlies vs Blazers 123 | 98" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",FullHD Grizzlies vs Blazers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/6vGOxhttLvfadjUrxWElfQ/e56ce8a755cda33e7f050da0b700d013/1732613410/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 08_00 Raw 0 | 0" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",nhà đài Raw
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/lC9r16iezDUEL6LSAfjkTQ/Fv2lucGIbhPi2caWYvF5Lg/1732613411372/live/may24/playlist.m3u8
 #EXTINF:0 group-title="26-11 08_15 Los Angeles Chargers vs Baltimore Ravens 0 | 0" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",HD1 Los Angeles Chargers vs Baltimore Ravens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
