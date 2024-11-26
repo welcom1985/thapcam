@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 Qatar vs Iran 78 _ 77 [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/8ZUXKWpBcGPEJPeBEcXsaQ/Fv2lucGIbhPi2caWYvF5Lg/1732596605712/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 Qatar vs Iran 78 _ 77 [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTY2MDUsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMjU3NTAwNX0.jpmZi8MYEWCVvkqUyjIyzsPM_PIsPntbh3QD22ViBF0-/luaHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 Qatar vs Iran 78 _ 77 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/3a2029da858a1b9deb0aca2768dbe95b/1732596605713/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 Qatar vs Iran 78 _ 77 [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/GvrihJTPaBGUIwnpeEeGxQ/74b8773ecaa9df430432c2bf2b6bd9e0/1732596605/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 Qatar vs Iran 78 _ 77 [HD nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=28c1bdfaaab720394002f708e1748fcb&wsTime=1732575005&keeptime=21600
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 United Arab Emirates vs Bahrain 90 _ 77 [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/4wt8WALH9jeMb5MhvcMfnw/Fv2lucGIbhPi2caWYvF5Lg/1732597205447/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 United Arab Emirates vs Bahrain 90 _ 77 [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI1OTcyMDUsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI1NzU2MDV9.EYAxL_TrfdKRpS9_hAGSl082NfbAd-JRgTJ2l7QZlIk-/phepHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 United Arab Emirates vs Bahrain 90 _ 77 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/fd2b8e37f80d314c090847d2807667ae/1732597205448/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 United Arab Emirates vs Bahrain 90 _ 77 [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/DHS1OPfNTrmJ_cU7Y4TmoA/bb30dc1883f5f92057cd67eec640c4d0/1732597205/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="26-11" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/14712/image/dark",26-11 00:00 United Arab Emirates vs Bahrain 90 _ 77 [HD nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=f6ce01c84f7204c24c58f0b86093aa93&wsTime=1732575605&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",26-11 00:30 Empoli vs Udinese 1 _ 1 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -178,63 +138,71 @@ https://obevcimanyd179591709.thapcam.link/iPO6hKv73NhE8arbLfOh3w/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/oQqhPJM1H4IilkAxcFDKBQ/Fv2lucGIbhPi2caWYvF5Lg/1732600308223/live/gayHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/7YlSB8j9DBlxgNAZaQBxEQ/Fv2lucGIbhPi2caWYvF5Lg/1732601339821/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD2	]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDAzMDgsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTczMjU3ODcwOH0.S5YmLhwn6hzApnLlrS906SHUskgadVVF6flVoNJYkuU-/gayHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDEzMzksInVyaSI6Ii9nYXlIRCIsImlhdCI6MTczMjU3OTczOX0.FIX6kb7CQ7ThFgz_vmMbIK1U62wx3V1JN5g5wGJit00-/gayHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/gayHD.flv?wsSecret=b15c4cbaa01815e2a60da12d1847cae8&wsTime=1732578708&keeptime=21600
+https://fdcdn.livestreameuro.live/live/gayHD.flv?wsSecret=dd8726637a671288203592180f6e7bc1&wsTime=1732579739&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/3d653abc65cd167e229f629b4e14a421/1732600308224/live/gaySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/863bde8fdb9174d828e0beb8bf0eb765/1732601339821/live/gaySD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Hornets vs Magic 0 _ 0 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/nnmU9TSt4gomSaMQ8KgMLw/84da5215d1a1dcfaac34c074325b27a0/1732600308/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/gNx6R0ERXmnjvsDKDPO4cg/84da5215d1a1dcfaac34c074325b27a0/1732601339/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pistons vs Raptors 0 _ 0 [NHÀ ĐÀI]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179591709.thapcam.link/uU0bgG9aFew-1tg_q8LK9g/Fv2lucGIbhPi2caWYvF5Lg/1732601339896/live/may21/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pacers vs Pelicans 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/WZ1jomTOPFnJX7Ip1stamw/Fv2lucGIbhPi2caWYvF5Lg/1732600308293/live/luaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/pznQMTwk-1vSZRTO2_rq2w/Fv2lucGIbhPi2caWYvF5Lg/1732601339979/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pacers vs Pelicans 0 _ 0 [HD2	]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDAzMDgsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMjU3ODcwOH0.XchtAmWt_pwk0qHHYmeXdGY5i-gK-QTN4ZBFryEpLDU-/luaHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDEzMzksInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMjU3OTczOX0.x7YO0Lr5c3N5zsQS_kEP1RCext9VwVIcZsJExWgQS9Q-/luaHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pacers vs Pelicans 0 _ 0 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=749fe8fa60265bb6954b275483541205&wsTime=1732578708&keeptime=21600
+https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=243bb900f29da3d0d62481f6d7241c32&wsTime=1732579739&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pacers vs Pelicans 0 _ 0 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7d0567914193cf4bfaa4d0cf54649917/1732600308294/live/luaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/9aebe0dbfd567a075525a0e213e7063e/1732601339980/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:00 Pacers vs Pelicans 0 _ 0 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/iLheJM8756rTY60IoOiejQ/74b8773ecaa9df430432c2bf2b6bd9e0/1732600308/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/T2F3Iya8BI4RDhO1_lCgfw/74b8773ecaa9df430432c2bf2b6bd9e0/1732601339/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/xAp9VSBuhS14SUxoRdw1CQ/Fv2lucGIbhPi2caWYvF5Lg/1732600806870/live/dungHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/0hkwh4arS2ZloeuhXRwe-g/Fv2lucGIbhPi2caWYvF5Lg/1732601414495/live/dungHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [HD2	]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDA4MDYsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzI1NzkyMDZ9.j69hxaRKDEkCnvFzbAU5nZddC3RR2SlTUpPKADYNwN0-/dungHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDE0MTQsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzI1Nzk4MTR9.Zj9-NstxVreu2Xcnx37alhwghxPKjCPDkBggTYhoA_Q-/dungHD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=d859a0eac1d0a1d4b0484fb8da95b1f2&wsTime=1732579206&keeptime=21600
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=9c41e34a2f944c30c19eaa066efac46b&wsTime=1732579814&keeptime=21600
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/bc7733ef58fd84ef693790ad720c71da/1732600806871/live/dungSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/6a9e71012c7ad4dc7673a287c823ae9c/1732601414496/live/dungSD/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/aeMNL7ziRfxjX12XBj4saA/09b8150fd09801bcc1dbb7e4e226d0e0/1732600806/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/XdAjoXw_1V0H6QfsKGYUMg/09b8150fd09801bcc1dbb7e4e226d0e0/1732601414/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Argentinos juniors vs Barracas Central 0 _ 0 [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/gvKhpQWgZWP1SfQBnYMC8w/Fv2lucGIbhPi2caWYvF5Lg/1732601414496/live/sd-6MrARXZZLCbfPmX4KV/playlist.m3u8
 #EXTINF:0 group-title="26-11" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",26-11 07:15 Belgrano vs Independiente Rivadavia 0 _ 0 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -255,3 +223,23 @@ https://live-eu-pzybaks9eeliv.thapcam.link/cd80ae11245016d569696be1b585417b/1732
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://vb90xltcvg-secure.nsnd.live/-crQBHJDHlnCakXGVBI3nw/847878fb5be3ca4c0539d0883bc5274a/1732600807/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:30 Hawks vs Mavericks 0 _ 0 [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/jxSn-11GVApYD0jBMo6ajQ/Fv2lucGIbhPi2caWYvF5Lg/1732601339886/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:30 Hawks vs Mavericks 0 _ 0 [HD2	]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2MDEzMzksInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMyNTc5NzM5fQ.vzJYOLReVQ1xeWhC01eb6QXKTMgVDCvJ_Q2CfkKGVTw-/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:30 Hawks vs Mavericks 0 _ 0 [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=4520a25e1eb1f7bdfacf91ba3a8d6396&wsTime=1732579739&keeptime=21600
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:30 Hawks vs Mavericks 0 _ 0 [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/da327cd9c5b6945eb37e5e58622d82ed/1732601339887/live/Z3SD/playlist.m3u8
+#EXTINF:0 group-title="26-11" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",26-11 07:30 Hawks vs Mavericks 0 _ 0 [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/y2SIXIREI8UHl-gwJDT7IQ/fc724b392eb664de8f0b54609b1e66f5/1732601339/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
