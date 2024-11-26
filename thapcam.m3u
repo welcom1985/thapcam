@@ -171,26 +171,6 @@ https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=29afa3c0120435a36a3e05e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179591709.thapcam.link/h7xWSjcDmhXArB_B9HTpVQ/Fv2lucGIbhPi2caWYvF5Lg/1732669208307/live/may11/playlist.m3u8
-#EXTINF:0 group-title="26-11 23_30 Barkom vs Olsztyn 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",HD1 Barkom vs Olsztyn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/NoT1dHO2CnSzZ3CYbGl_hw/Fv2lucGIbhPi2caWYvF5Lg/1732669773132/live/chimHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 23_30 Barkom vs Olsztyn 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",HD2 Barkom vs Olsztyn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2Njk3NzMsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzI2NDgxNzN9.FEUeNHrVegVWRy4kmE1L5xjXTpyhZk3s9Au6Op3oH4A-/chimHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 23_30 Barkom vs Olsztyn 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",SD Barkom vs Olsztyn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/bb62503e468dda032473a985b0e7b45d/1732669773132/live/chimSD/playlist.m3u8
-#EXTINF:0 group-title="26-11 23_30 Barkom vs Olsztyn 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",FullHD Barkom vs Olsztyn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/e60Ul09HDgL7yQjuPjOyVg/bee03a114a12e586ce1aa6c439f97251/1732669773/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
-#EXTINF:0 group-title="26-11 23_30 Barkom vs Olsztyn 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",HD Nhanh Barkom vs Olsztyn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=c69c14c330dcfdfa061ae73230f8a6fb&wsTime=1732648173&keeptime=21600
 #EXTINF:0 group-title="27-11 00_30 CSKA Moscow vs Rubin Kazan 3 | 0" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",HD1 CSKA Moscow vs Rubin Kazan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -215,102 +195,114 @@ https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=e8f9cd6967ead9dcf3710b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://apisportvb90xltcbk-secure.nsnd.live/KEQyOKwVTfslcSg8vjjwvg/Fv2lucGIbhPi2caWYvF5Lg/1732663812659/live/sd-6MtLtZv6zVap3BtdEs/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Slovan Bratislava vs AC Milan
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/62ZGWwhoS2LPsLebRhQslA/Fv2lucGIbhPi2caWYvF5Lg/1732666809745/live/cunHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Slovan Bratislava vs AC Milan
+https://obevcimanyd179569584.thapcam.link/FFReTWHzGdi3Jb3qt_4jOQ/Fv2lucGIbhPi2caWYvF5Lg/1732664765019/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NjY4MDksInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMjY0NTIwOX0.Gj3LPwdTxIOcFXE2PXjxC-AgBMeUOzoiv6Za9Gx7JMU-/cunHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Slovan Bratislava vs AC Milan
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NjQ3NjUsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMjY0MzE2NX0.I5gwd5uPujDBegygdzxupMIXr54NzxCeVqmNUrAkFBY-/cunHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/188607ea1f94f00ce680ae76fba6374c/1732666809745/live/cunSD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Slovan Bratislava vs AC Milan
+https://live-eu-pzybaks9eeliv.thapcam.link/4333bc6ef917ffef7073e282f1842fbd/1732664765019/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/uznx3XvGP-ViH-qDxrJYJg/317070d9a306b71c37e6ea9e37f2842f/1732666809/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD nhanh Slovan Bratislava vs AC Milan
+http://vb90xltcvg-secure.nsnd.live/XfYm4Vor-Eac2dYGuR_TBQ/317070d9a306b71c37e6ea9e37f2842f/1732664765/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD nhanh Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=44de6306680b37946782676f2ec81847&wsTime=1732645209&keeptime=21600
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Slovan Bratislava vs AC Milan
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=7460c7bdd12ad3e54c45d079bc2c4632&wsTime=1732643165&keeptime=21600
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/xEVL3P5FroFvp1PKmFlTBw/Fv2lucGIbhPi2caWYvF5Lg/1732666809745/live/may61/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 1 Slovan Bratislava vs AC Milan
+https://obevcimanyd179591709.thapcam.link/adg_XSP1wlplGSnSYK400g/Fv2lucGIbhPi2caWYvF5Lg/1732664765020/live/may61/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 1 Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/8zAMODmx8tRSBOJFjTpmRw/Fv2lucGIbhPi2caWYvF5Lg/1732666809745/live/sd-6MtLeBmSCenwSp8zou/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 1 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 2 Slovan Bratislava vs AC Milan
+https://apisportvb90xltcbk-secure.nsnd.live/lP1vaBg4tJnw65yDXRwesA/Fv2lucGIbhPi2caWYvF5Lg/1732664765020/live/sd-6MtLeBmSCenwSp8zou/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Slovan Bratislava vs AC Milan 2 | 3" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 2 Slovan Bratislava vs AC Milan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/ScB7oME12Ha0Hsh34--dtg/Fv2lucGIbhPi2caWYvF5Lg/1732666809746/live/hd-en-6MtLeBmSCenwSp8zou/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Sparta Praha vs Atletico Madrid
+https://apisportvb90xltcbk-secure.nsnd.live/evUQdbFVnSVgAcicHDLr2Q/Fv2lucGIbhPi2caWYvF5Lg/1732664765020/live/hd-en-6MtLeBmSCenwSp8zou/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/fM-GJVQsGRiWkQH2pauDjw/Fv2lucGIbhPi2caWYvF5Lg/1732661109166/live/trauHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Sparta Praha vs Atletico Madrid
+https://obevcimanyd179569584.thapcam.link/3sRiUr5tosqbmj7hwIdtxA/Fv2lucGIbhPi2caWYvF5Lg/1732664765109/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NjExMDksInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI2Mzk1MDl9.TC4W74TXwwcHlAi807JgXOirEbCNpJUGVaaofBYMjuY-/trauHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Sparta Praha vs Atletico Madrid
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NjQ3NjUsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI2NDMxNjV9.EH5yEx93xLb8hl3SqlKdOaDgNyOlTEmH6xYhvUgFLJM-/trauHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b63064b1f1db28fefb1ce10827d8c890/1732661109167/live/trauSD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Sparta Praha vs Atletico Madrid
+https://live-eu-pzybaks9eeliv.thapcam.link/b876cc7f239f8fc7735f64b95a349e73/1732664765109/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/IcL5sOtklyeyiVEZFBHnNQ/847878fb5be3ca4c0539d0883bc5274a/1732661109/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD nhanh Sparta Praha vs Atletico Madrid
+http://vb90xltcvg-secure.nsnd.live/WHJAH51-FG4BNyGnaEZIvQ/847878fb5be3ca4c0539d0883bc5274a/1732664765/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD nhanh Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=24e9e5aa287116e9e9165e8c757be249&wsTime=1732639509&keeptime=21600
-#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 4" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Sparta Praha vs Atletico Madrid
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=ea18c10316aa70cf6cc6281c07b3730a&wsTime=1732643165&keeptime=21600
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Sparta Praha vs Atletico Madrid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/bLZVXXr72xFMZZwZHxYArQ/Fv2lucGIbhPi2caWYvF5Lg/1732661109167/live/may101/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/mcpQSnDNUwf11zM3YopWeA/Fv2lucGIbhPi2caWYvF5Lg/1732664765109/live/may101/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 1 Sparta Praha vs Atletico Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/TbGge-5JF5u9SGryonVAOQ/Fv2lucGIbhPi2caWYvF5Lg/1732664765110/live/sd-6MtLeBmSCCRB14Dzy9/playlist.m3u8
+#EXTINF:0 group-title="27-11 00_45 Sparta Praha vs Atletico Madrid 0 | 5" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Backup 2 Sparta Praha vs Atletico Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/WG7PMDXqFPv2RDZoBcV1YA/Fv2lucGIbhPi2caWYvF5Lg/1732664765110/live/hd-en-6MtLeBmSCCRB14Dzy9/playlist.m3u8
 #EXTINF:0 group-title="27-11 01_00 CP Parla vs Valencia 0 | 0" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png",HD1 CP Parla vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/licNJFETIpRXFpi-1aBxDA/Fv2lucGIbhPi2caWYvF5Lg/1732670408095/live/daHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/YPPAwqtE8TPRPueSDapkOQ/Fv2lucGIbhPi2caWYvF5Lg/1732669703230/live/daHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 01_00 CP Parla vs Valencia 0 | 0" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png",HD2 CP Parla vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NzA0MDgsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMyNjQ4ODA4fQ.afylBvULdsOsJvE9VP1cEyCURVAhXbTCeCq3QrL7wJA-/daHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2Njk3MDMsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMyNjQ4MTAzfQ.TxHYpx3XvC7LhzFBFebarjbP23CkQTVka3KrqKP7JCA-/daHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 01_00 CP Parla vs Valencia 0 | 0" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png",SD CP Parla vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b66da4a5f1ae643a1c020adcf594d4e6/1732670408095/live/daSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/c3d7bc1ca771971209cddc1bf30608c6/1732669703231/live/daSD/playlist.m3u8
 #EXTINF:0 group-title="27-11 01_00 CP Parla vs Valencia 0 | 0" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png",FullHD CP Parla vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/xGXFL1c0SbjzeL5KYpbfcQ/216a439451ab4126df1eead1ba49bd50/1732670408/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/sxx5zwlS0-fT1BjypQZSlA/216a439451ab4126df1eead1ba49bd50/1732669703/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 01_00 CP Parla vs Valencia 0 | 0" tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png",HD nhanh CP Parla vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=6e65cd2c2c7aaf00ba6ced180c731736&wsTime=1732648808&keeptime=21600
+https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=a6992494c4e9206db523177ecadc7c43&wsTime=1732648103&keeptime=21600
 #EXTINF:0 group-title="27-11 02_00 Paris W vs Eczacibasi W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",HD1 Paris W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/hvXqT9DlpD7vOH2HnNDl2Q/Fv2lucGIbhPi2caWYvF5Lg/1732669810953/live/chimHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/VpphCo6UUupOvvDqnqiwoA/Fv2lucGIbhPi2caWYvF5Lg/1732669703300/live/chimHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 02_00 Paris W vs Eczacibasi W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",HD2 Paris W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2Njk4MTAsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzI2NDgyMTB9.1Kj_Zdbh3guZ7XieWyts1W5opsqm4jnUC57Fw7hdtio-/chimHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2Njk3MDMsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzI2NDgxMDN9.ICN7pL3vxGYgsYTAfzYDLOGmBI9QPJvfb603wXuruRI-/chimHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 02_00 Paris W vs Eczacibasi W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",SD Paris W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/2be723e73938794f217929504e0b6871/1732669810954/live/chimSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/23c5e6659382b3268ccc8c9fe26fa59c/1732669703301/live/chimSD/playlist.m3u8
 #EXTINF:0 group-title="27-11 02_00 Paris W vs Eczacibasi W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",FullHD Paris W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/HAepxV55i4g_IIPi3J3CiQ/bee03a114a12e586ce1aa6c439f97251/1732669810/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/TOGVxjXutiKrLdg70Le5Xw/bee03a114a12e586ce1aa6c439f97251/1732669703/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 02_00 Paris W vs Eczacibasi W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",HD Nhanh Paris W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=4857cfb8c622322d8ba5f75f445a2a04&wsTime=1732648210&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=834a33597d189d383c03a7d2a9b3e431&wsTime=1732648103&keeptime=21600
+#EXTINF:0 group-title="27-11 02_30 LKS Lodz Women vs Novara W 0 | 0" tvg-logo="https://img.thesports.com/volleyball/competition/2147b4ac0435e6e9ddcac7f62fca22fa.png",HD LKS Lodz Women vs Novara W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179591709.thapcam.link/tjTnpNpRNQQxQfM-gzDVUg/Fv2lucGIbhPi2caWYvF5Lg/1732671006412/live/may24/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Barcelona vs Stade Brestois 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Barcelona vs Stade Brestois
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -386,27 +378,27 @@ https://live-eu-pzybaks9eeliv.thapcam.link/7f36a18450d6fed8cc8c47ec74593865/1732
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Ymb62j59R75QeIk68c3bDQ/Fv2lucGIbhPi2caWYvF5Lg/1732668606077/live/cuonHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/YRk9df12oxvakw-2FnflZA/Fv2lucGIbhPi2caWYvF5Lg/1732669212565/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2Njg2MDYsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI2NDcwMDZ9.cYLEtW90Di808hv4tfILQdbHqdEKCrvnpOLmdD6ZCY0-/cuonHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NjkyMTIsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI2NDc2MTJ9._fJydwoUYctB-1UpmLabPy1FmlcVmON3FtnlDZVACtU-/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0498d3802d52db4e03d75e80492eccc7/1732668606078/live/cuonSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e1d3f8d4f41f5828d4494ba0c0b5ca3d/1732669212566/live/cuonSD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/7moWMSLMLwcP4k05P80Kbw/ecdd2fe3d570b8f38d7664bb44af6d73/1732668606/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/SbUpntodQfWRzXplI3ZJzw/ecdd2fe3d570b8f38d7664bb44af6d73/1732669212/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD Nhanh Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=67bab95c68c6e008cc38fe2d797ecfb7&wsTime=1732647006&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=0da2b0bcd8fb8ef5464ea5054c1dad41&wsTime=1732647612&keeptime=21600
 #EXTINF:0 group-title="27-11 03_00 Inter Milan vs RB Leipzig 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Inter Milan vs RB Leipzig
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/RZhCYBCm93ekqFFqx_ZeRQ/Fv2lucGIbhPi2caWYvF5Lg/1732668606078/live/may101/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/JyN4ohJLMVU3facnSTsyWQ/Fv2lucGIbhPi2caWYvF5Lg/1732669212566/live/may101/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -475,30 +467,54 @@ http://vb90xltcvg-secure.nsnd.live/FFqIDTtQcyTZi4ohxR1pqQ/aa2414c41b563aa2e0f4a2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=21bf46587bed58d1e069a0963f46d39f&wsTime=1732648809&keeptime=21600
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/Er2ymz4feEMdRAXTo17Z7Q/Fv2lucGIbhPi2caWYvF5Lg/1732670709820/live/satHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NzA3MDksInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI2NDkxMDl9.KmwF9XngxDNEBZ0S8iNgtOKqvsd7YkwACuTgW_zTRes-/sat1HD/playlist.m3u8
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/4ea5310db7dd7b3f8dea0c46f8de42fa/1732670709820/live/satSD/playlist.m3u8
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/FXSKG3K0TwwZvBoTfW_G5A/6b78b4ff262c15bca3bdb372d5d5d695/1732670709/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD Nhanh Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=961a38e10105d4d49f5c5be301f45dda&wsTime=1732649109&keeptime=21600
+#EXTINF:0 group-title="27-11 03_00 Sporting CP vs Arsenal 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Sporting CP vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/b116883307a479cafe67b2579ad87042/1732670709820/live/may111/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/0TtXBhczHZ98OaJkyqiIGA/Fv2lucGIbhPi2caWYvF5Lg/1732670418194/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/8m-z20sCGyKN6gI7PA-4Ig/Fv2lucGIbhPi2caWYvF5Lg/1732670108512/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD2 Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NzA0MTgsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjY0ODgxOH0.gaAkSQOsLFRWmwR8Kaa_3IWRl4DykucLQPZYGtiZPLw-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI2NzAxMDgsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjY0ODUwOH0.lv88aXCXnQnCaE8orzzriWK4EQmIb-0J-OHSdU-Pzuc-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",SD Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/e8cd75419c8ae21725ddf0d721ea1011/1732670418195/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/07263689527a71491c5d0379063632c6/1732670108512/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",FullHD Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/9aFKCwyosevACiBy38mYwg/955439f202db20328214344ad740cd5d/1732670418/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/1DAcuDQUPGgTl2KUNwisdg/955439f202db20328214344ad740cd5d/1732670108/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD Nhanh Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=36496b0b43f7cc6c8dcff2a2fc95f7b6&wsTime=1732648818&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=e63d6dd9cdc09992cdc66b7fd141001e&wsTime=1732648508&keeptime=21600
 #EXTINF:0 group-title="27-11 03_00 Manchester City vs Feyenoord 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",Nhà đài Manchester City vs Feyenoord
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/aEul8WdVc-GLvpLWcWyoXw/Fv2lucGIbhPi2caWYvF5Lg/1732670418195/live/may61/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/MVziJg3TaH5DvQdUm-X72Q/Fv2lucGIbhPi2caWYvF5Lg/1732670108512/live/may61/playlist.m3u8
 #EXTINF:0 group-title="27-11 03_00 Bayern Munchen vs Paris Saint Germain (PSG) 0 | 0" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png",HD1 Bayern Munchen vs Paris Saint Germain (PSG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
