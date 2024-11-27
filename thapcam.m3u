@@ -1,56 +1,56 @@
 #EXTM3U
-#EXTINF:0 group-title="[volleyball] 27-11 20:00 Halkbank vs Altekma" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Halkbank vs Altekma [HD1]
+#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/PQh4w2-EsPRFVJQrVBPs0g/Fv2lucGIbhPi2caWYvF5Lg/1732738503211/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="[volleyball] 27-11 20:00 Halkbank vs Altekma" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Halkbank vs Altekma [HD2]
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=cad7a6f87c509857ae2a64c4a538fc1f&wsTime=1732721402&keeptime=21600
+#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3Mzg1MDMsInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczMjcxNjkwM30.9Pzepxz4NtaM4-OMgteGCy5h9tzCtQgodAxg9kWjo6c-/oldHD/playlist.m3u8
-#EXTINF:0 group-title="[volleyball] 27-11 20:00 Halkbank vs Altekma" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Halkbank vs Altekma [SD]
+https://obevcimanyd179569584.thapcam.link/GjR4upqb_y445yT5dPEXkw/Fv2lucGIbhPi2caWYvF5Lg/1732743002620/live/hawHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/6f5c4eb15eada58ed88bef0a1dcf98fa/1732738503212/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="[volleyball] 27-11 20:00 Halkbank vs Altekma" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Halkbank vs Altekma [FullHD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDMwMDIsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjcyMTQwMn0.tzk-Cq4WIwtD64IEYDZNCx373W88B32umrNYHJTC-b8-/hawHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/wBPae4uDDYA3rT2-QxOqhA/e56ce8a755cda33e7f050da0b700d013/1732738503/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
-#EXTINF:0 group-title="[volleyball] 27-11 20:00 Halkbank vs Altekma" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Halkbank vs Altekma [HD Nhanh]
+https://live-eu-pzybaks9eeliv.thapcam.link/f3cf6967dea6aba2ff70953f41f50d24/1732743002626/live/hawSD/playlist.m3u8
+#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=5127d9656607aecd27100c43af984d59&wsTime=1732716903&keeptime=21600
+http://vb90xltcvg-secure.nsnd.live/E0UCI6L5YBKL4FHj66iPFQ/955439f202db20328214344ad740cd5d/1732743002/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=938f9970b604a9598c5bf8953b0a46c8&wsTime=1732720503&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=4a020b2c34817f5bbbdc42f40a122082&wsTime=1732721403&keeptime=21600
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Sc5RsvrFvKsT6vR8vyZTdg/Fv2lucGIbhPi2caWYvF5Lg/1732742103271/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/sJ0BVTXmWbHN8ju5FYrUtA/Fv2lucGIbhPi2caWYvF5Lg/1732743003275/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDIxMDMsInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzI3MjA1MDN9.GPHnoKljqnHezqWmtXdb3YI-hkSBx01HLJ8x7eVmP_k-/meo1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDMwMDMsInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzI3MjE0MDN9.OExHUi7MG7t8duhW4A-9H9ufOXASWQvq3AOJJx9ocEw-/meo1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/882d2e21e9ce6e77aee835ce08eb8ed1/1732742103272/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/0fb09f19463f15a79976c79a53ff7925/1732743003275/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/qTpjFzyMx84FsUnPGFf21g/aa2414c41b563aa2e0f4a276a0f50172/1732742103/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/s0XqI20eca88TDQ4aUnqeg/aa2414c41b563aa2e0f4a276a0f50172/1732743003/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/_Vhe40VXofplqI0EycWlwQ/Fv2lucGIbhPi2caWYvF5Lg/1732742103272/live/may61/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/ZZaSmD--8GZDQhnK8q7wbA/Fv2lucGIbhPi2caWYvF5Lg/1732743003275/live/may61/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/hupgOfz9xffDcbu2krpeAQ/Fv2lucGIbhPi2caWYvF5Lg/1732742103272/live/sd-6MsCw32JMXcigHTTVV/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/6cGvu1c0572QUsQ7_qtcXQ/Fv2lucGIbhPi2caWYvF5Lg/1732743003276/live/sd-6MsCw32JMXcigHTTVV/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 21:00 FC Altyn Asyr vs Al Quwa Al Jawiya" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",FC Altyn Asyr vs Al Quwa Al Jawiya [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/MtcaWSbVOjU6IZ5wLJp5RA/Fv2lucGIbhPi2caWYvF5Lg/1732742103272/live/hd-en-6MsCw32JMXcigHTTVV/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/riB1QoJ_Vksh422oZriD8Q/Fv2lucGIbhPi2caWYvF5Lg/1732743003276/live/hd-en-6MsCw32JMXcigHTTVV/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 22:00 Liverpool U19 vs Real Madrid U19" tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png",Liverpool U19 vs Real Madrid U19 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -98,71 +98,75 @@ http://vb90xltcvg-secure.nsnd.live/LBRRvdyYnRL0SiZR5BM1oQ/216a439451ab4126df1eea
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=7e54e5c2c8e03522a99840e4620de3a8&wsTime=1732716911&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=ed47bb3841a0ee52b415dd90fcf734cc&wsTime=1732721407&keeptime=21600
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/BXG1LVJ9fK95TX9nW-U48w/Fv2lucGIbhPi2caWYvF5Lg/1732738511018/live/may2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/FwkocOLS8_goT3wO-SYzxQ/Fv2lucGIbhPi2caWYvF5Lg/1732743007297/live/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3Mzg1MTEsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI3MTY5MTF9.1BHLxH-Hh4xS-WPJro7GgYUx5HY66NMVTbxa32WxoQk-/may2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDMwMDcsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI3MjE0MDd9.2hJUritklQu9XlafEanmCuIDcEB98-ffuuVVYwxYyME-/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/9df0119379f032c0510825127310216e/1732738511019/live/may2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/5310f5ca58816c514981d6668cc30af8/1732743007298/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/0Fp0XvXzRL1Bcb8yEICYMg/d5b200387e6a5a1b18e0bf7cbe2d7615/1732738511/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/HYQc3p5kjTwEhoPR87RmTA/d5b200387e6a5a1b18e0bf7cbe2d7615/1732743007/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/7tN9juQeGDc9SXiTyl2G_A/Fv2lucGIbhPi2caWYvF5Lg/1732738511019/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/YFdUkUXLC8jKqIPArwtmww/Fv2lucGIbhPi2caWYvF5Lg/1732743007298/live/may10/playlist.m3u8
+#EXTINF:0 group-title="[football] 27-11 22:30 Istanbul Buyuksehir Belediyesi vs CS Petrocub" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Istanbul Buyuksehir Belediyesi vs CS Petrocub [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/oJEBrzbdHaTW9mSYmRrDAA/Fv2lucGIbhPi2caWYvF5Lg/1732743007298/live/sd-6MtLeBpPJaYQnjp3fH/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=529f54c39e0cdb4b169c11f1c6b9d10c&wsTime=1732719737&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=402405cc705d038c49aeffae64db28cc&wsTime=1732719906&keeptime=21600
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/6okrTghbgalxsrqzH4-SDQ/Fv2lucGIbhPi2caWYvF5Lg/1732741337721/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/EhGpJJuRNvl6Vn_tx8paZA/Fv2lucGIbhPi2caWYvF5Lg/1732741506756/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDEzMzcsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI3MTk3Mzd9.xHS0DUm4ldJ9e8lbmpsYvz8yp0e9E54LN7Hqjhp4ZpE-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDE1MDYsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI3MTk5MDZ9.mG7wvjjZB-VV-Ovba33cuzYqOLAWPIGnb_3ttX9idwE-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/909d7dbcfb43dacfb45251bc14cb9b27/1732741337721/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3d5bedfad9225b15d9ac7621a794bd64/1732741506756/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/kEjW9w2C8UP4Ye0Pzcx8YA/847878fb5be3ca4c0539d0883bc5274a/1732741337/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/CD1bZgGDCtPnVygYm-rJgg/847878fb5be3ca4c0539d0883bc5274a/1732741506/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 27-11 23:00 Al Hussein Irbid vs Al Ahli(UAE)" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",Al Hussein Irbid vs Al Ahli(UAE) [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/OpyuzP7DS7EXZVyeF9hrQg/Fv2lucGIbhPi2caWYvF5Lg/1732741337721/live/may20/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/ZjXGAtttWPh3KBiRSOBTzg/Fv2lucGIbhPi2caWYvF5Lg/1732741506756/live/may20/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 27-11 23:00 Ziraat Bankasi vs Spor Toto" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Ziraat Bankasi vs Spor Toto [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=ff7bb45bf82dcd148ce1850c7802e797&wsTime=1732720503&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=4008b20cad062af28414b36ff58b9c78&wsTime=1732721413&keeptime=21600
 #EXTINF:0 group-title="[volleyball] 27-11 23:00 Ziraat Bankasi vs Spor Toto" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Ziraat Bankasi vs Spor Toto [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/58Pn7kUMrkLjc9q4n2YjUg/Fv2lucGIbhPi2caWYvF5Lg/1732742103788/live/phoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/K5OjM4fXjRmV2q9aFmg-Yw/Fv2lucGIbhPi2caWYvF5Lg/1732743013216/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 27-11 23:00 Ziraat Bankasi vs Spor Toto" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Ziraat Bankasi vs Spor Toto [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDIxMDMsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjcyMDUwM30._k-04GO0bCqAajWMa8S_y8q_tftNYdROBGltxiUDQLU-/phoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NDMwMTMsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjcyMTQxM30.pECLhFUtSuI3DKgaoTADxiUH4S4AuChzVvyEoCXpFb8-/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 27-11 23:00 Ziraat Bankasi vs Spor Toto" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Ziraat Bankasi vs Spor Toto [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/513f252fcbe8c2174ad4f3316f98ec2c/1732742103788/live/phoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/82a05f919658eccd5e0771a502ec5225/1732743013217/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 27-11 23:00 Ziraat Bankasi vs Spor Toto" tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png",Ziraat Bankasi vs Spor Toto [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/qjK2w_qKbw-m2QE2PAs65Q/4f331a41223542c17c4032aeaac138d5/1732742103/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/X3EEklmtAXFPx70QvJMuVA/4f331a41223542c17c4032aeaac138d5/1732743013/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 27-11 23:30 Bedzin vs Slepsk Suwalki" tvg-logo="https://i.imgur.com/hZNRca8.png",Bedzin vs Slepsk Suwalki [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
