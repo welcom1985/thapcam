@@ -1,56 +1,36 @@
 #EXTM3U
-#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=0c67fff682bf7434b9d481df5f61db2a&wsTime=1732735584&keeptime=21600
-#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/rNoNihxyqZxH_q_Ez9a_Hg/Fv2lucGIbhPi2caWYvF5Lg/1732757184658/live/hawHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTcxODQsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjczNTU4NH0.eUH8K-ZLOS4p7HKyqS_c-KN-kYEcVHaz44Iz7HsFY78-/hawHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ded9155f625b58755767993e022386c8/1732757184658/live/hawSD/playlist.m3u8
-#EXTINF:0 group-title="[football] 27-11 20:00 Ural Sverdlovsk Oblast vs Khimki" tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png",Ural Sverdlovsk Oblast vs Khimki [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/dzriRNdEqNwyc53_9nRMEQ/955439f202db20328214344ad740cd5d/1732757184/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:00 Nantes W vs Fenerbahce W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Nantes W vs Fenerbahce W [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/4pvs2RBVEvGVQVhQE_6qVA/Fv2lucGIbhPi2caWYvF5Lg/1732755242597/live/may20/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/6A9qOmlYtgdAxHCwDtfmeg/Fv2lucGIbhPi2caWYvF5Lg/1732758614372/live/may20/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Grottazzolina vs Lube Civitanova" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",Grottazzolina vs Lube Civitanova [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/BPZEXCE3pBbGWC5FwHfXEg/Fv2lucGIbhPi2caWYvF5Lg/1732757222671/live/may26/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/Jk1GK3KM8MltF_YhSCcsZw/Fv2lucGIbhPi2caWYvF5Lg/1732758614375/live/may26/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Trentino vs Padova" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",Trentino vs Padova [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/gZEr3mhNCUogLKE4zCTX_A/Fv2lucGIbhPi2caWYvF5Lg/1732757222669/live/may71/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/fuN9sMQP_9sUuFqNnRQQ5g/Fv2lucGIbhPi2caWYvF5Lg/1732758614382/live/may71/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Rzeszow W vs Conegliano W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Rzeszow W vs Conegliano W [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=702cc930f8e0a272ddd7baf756d4fccf&wsTime=1732735525&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=eadbc6af825ba6a1240e315db776d903&wsTime=1732737934&keeptime=21600
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Rzeszow W vs Conegliano W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Rzeszow W vs Conegliano W [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Y2qavCqv3-MW1o4Q8rAcMQ/Fv2lucGIbhPi2caWYvF5Lg/1732757125426/live/chimHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/RP9e3KJAflyKQCxqZvpSfQ/Fv2lucGIbhPi2caWYvF5Lg/1732759534950/live/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Rzeszow W vs Conegliano W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Rzeszow W vs Conegliano W [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTcxMjUsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzI3MzU1MjV9.zv9F_oSVyOY2oQEZCKropVprdwNZSzaIO0UyiKup1KQ-/chimHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTk1MzQsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzI3Mzc5MzR9.dKcFUbSB9qk-q4Aof_de5qmGRef7QT2cxE6WveL8n0k-/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Rzeszow W vs Conegliano W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Rzeszow W vs Conegliano W [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/66226ab81bc90af2168b29881ef9ee59/1732757125427/live/chimSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/cb2a8f6df31655869144d8adb70988ff/1732759534950/live/chimSD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 28-11 02:30 Rzeszow W vs Conegliano W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",Rzeszow W vs Conegliano W [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/O3WbzkM9IoeV0_RhVQnxgA/bee03a114a12e586ce1aa6c439f97251/1732757125/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/TWjKJicOlLH2NfLgMOmuKA/bee03a114a12e586ce1aa6c439f97251/1732759534/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Derby County vs Swansea City" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png",Derby County vs Swansea City [Cá Mập]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -58,244 +38,284 @@ https://f4.cakeo2.info/truc-tiep/derby-county-vs-swansea-city-ikv9q0t9il-rid-z2m
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=4f5943a6b946a3e78d5f10d03449d55e&wsTime=1732737242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=bf40685f735038ea80104ad7aa56a347&wsTime=1732738475&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/JFyyaa_fpVmrLjpoln8iQA/Fv2lucGIbhPi2caWYvF5Lg/1732758842543/live/cunHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/7JFTOg-mXMFUHwTKTHoEmQ/Fv2lucGIbhPi2caWYvF5Lg/1732760075656/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg4NDIsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMjczNzI0Mn0.2sESQlKEMUCUwtVe4pN3eapFaTUBo8J1lxXeoA7ux0Y-/cunHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAwNzUsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMjczODQ3NX0.TnkbsenSo-oGZZi1yYwYGvjty9_p1LKg8clGEpKr6Oc-/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/431b52601bc31ab48971295ecdadf0a5/1732758842544/live/cunSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/43e0c8f0cb2c37cf85681649dcb21517/1732760075657/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/F1QK8DZu6Rjah-Mag7aRWQ/317070d9a306b71c37e6ea9e37f2842f/1732758842/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/50M9yda3coxcpJOkgqKlIw/317070d9a306b71c37e6ea9e37f2842f/1732760075/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/vabjg0GbIE9pz6deujck7Q/Fv2lucGIbhPi2caWYvF5Lg/1732758842544/live/may101/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/l_-qgnozw0eChQMvPpt8DA/Fv2lucGIbhPi2caWYvF5Lg/1732760075657/live/may101/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/KSDGTAPtk8FwDKZ_ywWjIQ/Fv2lucGIbhPi2caWYvF5Lg/1732760075657/live/sd-6MtLeBkgNjZtbsn6wu/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 Bologna vs Lille" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Bologna vs Lille [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/PGnaNz5BP_rwyZbJHDt6Cw/Fv2lucGIbhPi2caWYvF5Lg/1732760075657/live/hd-en-6MtLeBkgNjZtbsn6wu/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=65345e2cb28dc331d360469892f3d8b9&wsTime=1732734307&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=c62e715f01d6930d8b2ff5726a598a72&wsTime=1732737995&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/akAxpe3nouHuhDpMJR0A-w/Fv2lucGIbhPi2caWYvF5Lg/1732755907623/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/qaSgy5UfBuxPxEkZ1MCQgA/Fv2lucGIbhPi2caWYvF5Lg/1732759595775/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTU5MDcsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjczNDMwN30.CzyPKHVN797sT1C3mjaGXymkNxFQWCUaXtCKA7STURk-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTk1OTUsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjczNzk5NX0.06lq7WG4pNRJfwCx-szIUGmX124NC17SmrlUIVMJrWY-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b29d1177ae090e34576a3313f0b74eb9/1732755907623/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/25f1608a3b1099eae0938f4e30927a03/1732759595775/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/G10fwTsCG6otmZwm62VOsA/955439f202db20328214344ad740cd5d/1732755907/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/NGDcEAD7bpsUpyGCpFmjpw/955439f202db20328214344ad740cd5d/1732759595/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/935e05fbc78be032eb8998830e1f9d27/1732755907623/live/may11/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/546dd9c7ae73fa5e34ceb2e7231df150/1732759595775/live/may11/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/0ZaGOYrrW0J21OF0tzx6hg/Fv2lucGIbhPi2caWYvF5Lg/1732759595775/live/sd-6MtLeBkgNUBXWWzgsd/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 Celtic FC vs Club Brugge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Celtic FC vs Club Brugge [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/WPVcNkolDNI3URxj-TXg5w/Fv2lucGIbhPi2caWYvF5Lg/1732759595775/live/hd-en-6MtLeBkgNUBXWWzgsd/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=dfe2c607a100912dab5f5448c851ef48&wsTime=1732737603&keeptime=21600
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=df493f38552f0facaa52223bff189a05&wsTime=1732737964&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/OHwP8wwDZ_7YN275oWUyRg/Fv2lucGIbhPi2caWYvF5Lg/1732759203094/live/myHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/ZXacZ7dMqcEpl807Ee6-rg/Fv2lucGIbhPi2caWYvF5Lg/1732759564558/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTkyMDMsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyNzM3NjAzfQ.y6wIPSKwn0AViSxDvg4s6M8cnaVfOVHIZd1wsYTCmts-/myHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTk1NjQsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyNzM3OTY0fQ.FZNocm-9k1HPXKD0o-r-cJaUXUeZc62vxEUZVTeHHgo-/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ed58500758c83a04192c83f5c15fa23e/1732759203096/live/mySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3dc6680bea04995040f7a5ee2c6cbf43/1732759564559/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/97AnSbuQZCIM4KvB5NVWYg/37c56eb4aaf958eda25bed5c53705fc2/1732759203/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/-edq2CGdGVY4s2FUyc84tg/37c56eb4aaf958eda25bed5c53705fc2/1732759564/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ec89337581cd61cb5eaae7ffdb8a9b24/1732759203096/live/may112/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/43e5af4bc1fd01e3c419d84e925483a0/1732759564559/live/may112/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/8WCuaC9RGhUZKZmmanypAw/Fv2lucGIbhPi2caWYvF5Lg/1732759203096/live/sd-6MtLeBmSXyk1KVUP39/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/AigF9-WRpaJFyEBU8ZmaPw/Fv2lucGIbhPi2caWYvF5Lg/1732759564559/live/sd-6MtLeBmSXyk1KVUP39/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 Dinamo Zagreb vs Borussia Dortmund" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Dinamo Zagreb vs Borussia Dortmund [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/yP_EmK-vY2UM0dhtWhciKw/Fv2lucGIbhPi2caWYvF5Lg/1732759203096/live/hd-en-6MtLeBmSXyk1KVUP39/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/_Xa2B58MlxkmFZSzl_Sc8w/Fv2lucGIbhPi2caWYvF5Lg/1732759564559/live/hd-en-6MtLeBmSXyk1KVUP39/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=b9ecfc5a62223da2e722d6dafe291b54&wsTime=1732737242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=daec18519a035cebc9a5cb28513c216c&wsTime=1732737995&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/87wY_qHt9AS4HfCe7nXagg/Fv2lucGIbhPi2caWYvF5Lg/1732758842542/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/5xZDVWfMUvo8Ba3r-f34Uw/Fv2lucGIbhPi2caWYvF5Lg/1732759595833/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg4NDIsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI3MzcyNDJ9.IGtvvXrDP5PBRNjLbEVzGehMxmT9EI0UDonGrc4v2DA-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTk1OTUsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI3Mzc5OTV9.xn6uWW_eyhEWgKkq2zfmuYne6o5iLZa94shroRte0NY-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/3ee16f1ebb334dc2dec3c082386f84a4/1732758842543/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/8e91faa974b6d685c7d375d051ba02ab/1732759595834/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/5IphQ-MIlByiW-zW2JhDIg/847878fb5be3ca4c0539d0883bc5274a/1732758842/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/VLBvOSJg6rY4ezIvuU59IA/847878fb5be3ca4c0539d0883bc5274a/1732759595/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/ldFKKfOCJc_m71RGTSj9DA/Fv2lucGIbhPi2caWYvF5Lg/1732759595834/live/sd-6MtLeBmRsKqsa8ocaf/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:00 PSV Eindhoven vs FC Shakhtar Donetsk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",PSV Eindhoven vs FC Shakhtar Donetsk [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/U1f4q5EV-e165h-y1v2xHA/Fv2lucGIbhPi2caWYvF5Lg/1732759595834/live/hd-en-6MtLeBmRsKqsa8ocaf/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=035b809dc5178a371883a889ff20b649&wsTime=1732737242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=8cf68f2f7177d610ba82d5a202255521&wsTime=1732738504&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/INSN3h4jmmUYZgR9OaNh-w/Fv2lucGIbhPi2caWYvF5Lg/1732758842567/live/chaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/zoWfCC64FAI4_cAYT-nuWQ/Fv2lucGIbhPi2caWYvF5Lg/1732760104023/live/chaHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg4NDIsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzI3MzcyNDJ9.J3X-sY2sAkbnyvfYMgkG37B9oZH7Ev-p9st9Iifrz8Q-/cha1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAxMDQsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzI3Mzg1MDR9.JxwJDzZZdCOggnGghK030tp4c7V7KM_pKZPftiEHTfo-/cha1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/c8f33a1289c6ac0f418f124ea81e79e8/1732758842568/live/chaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/65913ae3b33d75aef74405d7a79debf9/1732760104023/live/chaSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/9hCv6EywhepbxaQHPCDUpA/c30c788ad0707c1b9d75449bd5366f27/1732758842/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/QFIZVAjfkgkjNBjhmLBqIA/c30c788ad0707c1b9d75449bd5366f27/1732760104/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Liverpool vs Off fan Real" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Liverpool vs Off fan Real [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/12b6438290a068aa6eebe7093b0d2a71/1732758842568/live/may111/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/c730e9fee358472a050378db478e7ee4/1732760104024/live/may111/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=74bc07d3a44c1bd369f445a3a4a508a1&wsTime=1732737349&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=555ffb6386322b49650ada545503e9ed&wsTime=1732737813&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/S7WeI7y48a6K0-KjBWr_QQ/Fv2lucGIbhPi2caWYvF5Lg/1732758949008/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/5FyyLwEeMB6s6IO0FVL6WQ/Fv2lucGIbhPi2caWYvF5Lg/1732759413585/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg5NDksInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI3MzczNDl9.zaScOzpKQCFyOgZWqRHZgLQX6PxzJcoglwWc8WsaVpA-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTk0MTMsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI3Mzc4MTN9.0-AwD6CBgHFA22BEy7SRTyWP_Gd4PvRrv6mxYARKuHo-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/3a863a8903d0acd00e2fecd2ffdcb373/1732758949009/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/1930bd8c7678812c867a274f3c0b4889/1732759413586/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/p5_8NJD496fBD6g15QwcqQ/6b78b4ff262c15bca3bdb372d5d5d695/1732758949/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/tMnxw36l1SCpVikkXrQQnw/6b78b4ff262c15bca3bdb372d5d5d695/1732759413/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:01 Off fan Liverpool vs Real Madrid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Off fan Liverpool vs Real Madrid [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b3833a8962b070c8f75517b04cfdd45f/1732758949009/live/may111/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/b25fe26b5c1b6a20d32a2e6630e60ce2/1732759413586/live/may111/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=4ead938aee1d9777808cd462c973e896&wsTime=1732737349&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=aebec39d8cc7e38bd53e3251b9b0064e&wsTime=1732738508&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/ewwQpnb-NPT6rgJsSNulZA/Fv2lucGIbhPi2caWYvF5Lg/1732758949013/live/may2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/f02yLVkQcRjPKok3KjRsbQ/Fv2lucGIbhPi2caWYvF5Lg/1732760108060/live/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg5NDksInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI3MzczNDl9.Q9lMblGIydD2fvAKbaxuxVkJWq8ZEWJ5BGi0-qRHcqg-/may2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAxMDgsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI3Mzg1MDh9.6lVdRcdZxeIJcIuuiYKojzic5ayJb7DKXIGxOTnwnGo-/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0a6be3f201fb49ddf2933bd540dbebfe/1732758949013/live/may2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/1525dcf071964c72613290f1c2e72d8c/1732760108060/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/Lo6K9ttJFLP4VQ8fxnyWxg/d5b200387e6a5a1b18e0bf7cbe2d7615/1732758949/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/BJVZ2-vuIy0jf-38urH-DA/d5b200387e6a5a1b18e0bf7cbe2d7615/1732760108/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/mvgUkWqWeZ0vjjSRCeBtSA/Fv2lucGIbhPi2caWYvF5Lg/1732758949014/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/rSJRALgI200oths1S1PccA/Fv2lucGIbhPi2caWYvF5Lg/1732760108060/live/may10/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/_I4xGKYuljixImtsQy_IxA/Fv2lucGIbhPi2caWYvF5Lg/1732760108061/live/sd-6MtLeBkgszNrWFZbN3/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/BXAx38pr1mFtcm8T9rNQlQ/Fv2lucGIbhPi2caWYvF5Lg/1732760108061/live/hd-en-6MtLeBkgszNrWFZbN3/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=15408631e6c0cf3af11c6709ac973ff1&wsTime=1732737242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=4c5a50a5b7a90d974fc6fe74c0a6f119&wsTime=1732738504&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/OEqV0upFy_CcLIIJdq1iLg/Fv2lucGIbhPi2caWYvF5Lg/1732758842569/live/phoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/29omH0v1v6L34hzbR95MNw/Fv2lucGIbhPi2caWYvF5Lg/1732760104522/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg4NDIsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjczNzI0Mn0.6Noxz5SSsk5GrWEOy2sXw0KltoH6_yMXuKuc-xhDD6A-/phoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAxMDQsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjczODUwNH0.TsPhU1OjtXmk8nk8zRYoQRGArOebr2YYoFsXVEujt88-/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/e515b2ed4bbaa4aa5e35daf797522edf/1732758842569/live/phoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/d1539d856006e55dbb19754d07f9884e/1732760104522/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/JhLIidfWI0MY9JnUbkwWhw/4f331a41223542c17c4032aeaac138d5/1732758842/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/HaMxyR2n_IL1Xl9bMKTbBg/4f331a41223542c17c4032aeaac138d5/1732760104/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:02 Aston Villa vs Juventus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Aston Villa vs Juventus [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/ilHEIhPjsm6-jydQXB1t1g/Fv2lucGIbhPi2caWYvF5Lg/1732758842569/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/gjqEKKRSDHiy0FYDHFKsnA/Fv2lucGIbhPi2caWYvF5Lg/1732760104522/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=a1bcc4ad8e9097f5803096b0ba105ac0&wsTime=1732737349&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=f71fe9b5bcb4d99d2c53b234aa94c068&wsTime=1732738482&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/H_t_rke9vaGDaG5aDfMUBw/Fv2lucGIbhPi2caWYvF5Lg/1732758949008/live/may3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/48Pv3K7gsgIhr3SNUe683Q/Fv2lucGIbhPi2caWYvF5Lg/1732760082394/live/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg5NDksInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzI3MzczNDl9.NgfkJS0JSjHOOzl_5NzLrwktmW7x5OrlPW-HwAR8xok-/may3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAwODIsInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzI3Mzg0ODJ9.jb1vAly_llVlWPMQReyqroqbdi4RIFHRoxeG45QEhZ0-/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/cee09d783ea1636775612fce7980596c/1732758949009/live/may3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/d9026689ed57a4d619056a69567f8de9/1732760082394/live/may3SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/QlMx7MPBXKRIcAeg0_UQ8w/134f6a1c41770169e638f6127af8a455/1732758949/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/DEFj_n2fXfzS0cqWe2h1TQ/134f6a1c41770169e638f6127af8a455/1732760082/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/adcO-6UOdLfADKa5YoetqQ/Fv2lucGIbhPi2caWYvF5Lg/1732758949009/live/may7/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/ojhdf373hdPl1FRXQrxJbg/Fv2lucGIbhPi2caWYvF5Lg/1732760082394/live/may7/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/c3zp6oyMHwwn_OxabIkyrw/Fv2lucGIbhPi2caWYvF5Lg/1732760082394/live/sd-6MtLeBmShqCwcEGevF/playlist.m3u8
+#EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/60tZUN_mUis-1VFVcwgPPg/Fv2lucGIbhPi2caWYvF5Lg/1732760082394/live/hd-en-6MtLeBmShqCwcEGevF/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=11f9dcb6c0117d51b0da12d13b852755&wsTime=1732737242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=b6789179711629c994b9c9862fe6b59e&wsTime=1732738504&keeptime=21600
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/EHFf6ibffzekh8IqUnRONg/Fv2lucGIbhPi2caWYvF5Lg/1732758842579/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/Ya6XyixqVCJnWN4TDQL_5A/Fv2lucGIbhPi2caWYvF5Lg/1732760104274/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NTg4NDIsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjczNzI0Mn0.HF3spbrsHtbpKs3Jp_K5uzMaYFRVUTzuqiM2KQMls7A-/meoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3NjAxMDQsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjczODUwNH0.DN-c5ruZXZEoGJqWvrbXf2wie4p__YV-LRsF_3IKX0s-/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/c720058da47a22b5c12766016cb5cd1f/1732758842579/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/c6a47ba53efcee09d9d3591f67586072/1732760104274/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/DWzrh0XGlIu6i9PldmZQIQ/aa2414c41b563aa2e0f4a276a0f50172/1732758842/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/GAx3_aPFawZlfh7zM_1_qA/aa2414c41b563aa2e0f4a276a0f50172/1732760104/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 28-11 03:03 Monaco vs Benfica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s",Monaco vs Benfica [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/pBmL9gVh8l-TYbkz_6vM6A/Fv2lucGIbhPi2caWYvF5Lg/1732758842580/live/may7/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/niqx5FNNFRM8CAdP3rFKBA/Fv2lucGIbhPi2caWYvF5Lg/1732760104274/live/may7/playlist.m3u8
