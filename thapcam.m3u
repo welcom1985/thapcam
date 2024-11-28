@@ -1,41 +1,17 @@
 #EXTM3U
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=0c74041399f609035c2bfeb3c80aabed&wsTime=1732771801&keeptime=21600
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/ihcMFCnxRvR6gVXIyUYg5g/Fv2lucGIbhPi2caWYvF5Lg/1732793401612/live/cuonHD/playlist.m3u8
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI3OTM0MDEsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI3NzE4MDF9.aL7tY0uxjARZM5In-1AcQcSye0cLQFShgDUeiy3RSu0-/cuonHD/playlist.m3u8
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a5c9dde9f5bf9ed478926641a2d4a9d3/1732793401612/live/cuonSD/playlist.m3u8
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/kQ-utjTm5yPnOBEkVeFnxQ/ecdd2fe3d570b8f38d7664bb44af6d73/1732793401/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
-#EXTINF:0 group-title="[basketball] 28-11 10:00 Warriors vs Thunder" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Warriors vs Thunder [Tiếng Anh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/pd4FClwNsbyP8fTJXt-KfQ/Fv2lucGIbhPi2caWYvF5Lg/1732793401612/live/may21/playlist.m3u8
 #EXTINF:0 group-title="[badminton] 28-11 11:30 Syed Modi India 2024" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",Syed Modi India 2024 [Sân 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/RQU3O5UXdY0tOTWf7O69mw/Fv2lucGIbhPi2caWYvF5Lg/1732789803504/live/may24/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/SRHxYLpd36Wi-OWo9BiD_w/Fv2lucGIbhPi2caWYvF5Lg/1732789622257/live/may24/playlist.m3u8
 #EXTINF:0 group-title="[badminton] 28-11 11:30 Syed Modi India 2024" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",Syed Modi India 2024 [Sân 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/SEtMk5L0M5U5zx3IfWbRSA/Fv2lucGIbhPi2caWYvF5Lg/1732789803504/live/may25/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/cKMPCE1cgwnpDbZCuVgiHw/Fv2lucGIbhPi2caWYvF5Lg/1732789622257/live/may25/playlist.m3u8
 #EXTINF:0 group-title="[badminton] 28-11 11:30 Syed Modi India 2024" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",Syed Modi India 2024 [Sân 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/0b3wnUi_dkfpCSwkyhluyA/Fv2lucGIbhPi2caWYvF5Lg/1732789803504/live/may26/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/eTnk6ZisTf5xJPC_UGHESA/Fv2lucGIbhPi2caWYvF5Lg/1732789622257/live/may26/playlist.m3u8
 #EXTINF:0 group-title="[badminton] 28-11 11:30 Syed Modi India 2024" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",Syed Modi India 2024 [Sân 4]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/dYFg6SAwhwJLMk4ZvV4DEg/Fv2lucGIbhPi2caWYvF5Lg/1732789803504/live/may27/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/CQFQMz57AB2kZpYR_agjBQ/Fv2lucGIbhPi2caWYvF5Lg/1732789622257/live/may27/playlist.m3u8
