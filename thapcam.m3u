@@ -1,164 +1,144 @@
 #EXTM3U
-#EXTINF:0 group-title="[other] 29-11 00:30 Detroit Lions vs Chicago Bears" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Detroit Lions vs Chicago Bears [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=cdc9cc063776c8b5e19817ce040d491b&wsTime=1732828502&keeptime=21600
-#EXTINF:0 group-title="[other] 29-11 00:30 Detroit Lions vs Chicago Bears" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Detroit Lions vs Chicago Bears [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/lZy7RnGHmW45Ca-_y2M7YQ/Fv2lucGIbhPi2caWYvF5Lg/1732850102279/live/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 00:30 Detroit Lions vs Chicago Bears" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Detroit Lions vs Chicago Bears [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAxMDIsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMjgyODUwMn0.xHIuq8LRrDuZ8eJ-SbGytqNzkV5J8CaTxUXrO7_6pDA-/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 00:30 Detroit Lions vs Chicago Bears" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Detroit Lions vs Chicago Bears [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a9be6985d4b272709b6078ab67536e77/1732850102280/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 00:30 Detroit Lions vs Chicago Bears" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Detroit Lions vs Chicago Bears [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/jY-wHBR-GZMHQPJNpQ6u_Q/f13af37e22c82318c65a375473fc75f2/1732850102/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Paris Basketball vs Virtus Pallacanestro Bologna [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=33f10edd2c4e501473683b00477ce7d4&wsTime=1732821749&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=4b199e5024d0dfac906e6fc11e15abcf&wsTime=1732829402&keeptime=21600
 #EXTINF:0 group-title="[basketball] 29-11 02:30 Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Paris Basketball vs Virtus Pallacanestro Bologna [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/kQS2ygBWeeZAuyl1cPYqoA/Fv2lucGIbhPi2caWYvF5Lg/1732843349766/live/phepHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/b6cjGR-PC2XhP3c0vqwPPg/Fv2lucGIbhPi2caWYvF5Lg/1732851002342/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Paris Basketball vs Virtus Pallacanestro Bologna [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDMzNDksInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI4MjE3NDl9.3JgU0nsoPH76D4aCS7h60g82p0Fcjtg6WjARUlEcEEs-/phepHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDIsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI4Mjk0MDJ9.YjyogX5ulGYdRZS7K4yRN-tWwZXk8Z3zVDPjm7RkyjM-/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Paris Basketball vs Virtus Pallacanestro Bologna [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0250cf10e215572584fb191a92affb21/1732843349766/live/phepSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3ac73024839c96e807b5ccf52797613e/1732851002342/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 Paris Basketball vs Virtus Pallacanestro Bologna" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Paris Basketball vs Virtus Pallacanestro Bologna [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/WjpzSHPNUrHiqZElDbBkSA/bb30dc1883f5f92057cd67eec640c4d0/1732843349/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/0BfZNpq43Q5aBHGf93LUvg/bb30dc1883f5f92057cd67eec640c4d0/1732851002/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 KK Partizan vs Olympiacos Piraeus" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",KK Partizan vs Olympiacos Piraeus [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=f1f9612f3cc0524a1fd1a921fde9e997&wsTime=1732821650&keeptime=21600
+https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=d846325ceb23bc5248edcef506b60328&wsTime=1732828573&keeptime=21600
 #EXTINF:0 group-title="[basketball] 29-11 02:30 KK Partizan vs Olympiacos Piraeus" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",KK Partizan vs Olympiacos Piraeus [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/5yviTEDnnndQBCfR442zAw/Fv2lucGIbhPi2caWYvF5Lg/1732843250463/live/caoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/KM6lBzPS2HTy4glvn4e1eA/Fv2lucGIbhPi2caWYvF5Lg/1732850173022/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 KK Partizan vs Olympiacos Piraeus" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",KK Partizan vs Olympiacos Piraeus [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDMyNTAsInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczMjgyMTY1MH0.QOs-kXnBUkwLAWID9lR7iWInTB0raqF74iEioKKdQTo-/caoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAxNzMsInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczMjgyODU3M30.QUBvViOt-GcYmSwJ3Yb1n_ObPpj-sbwJH54_Bdm4TYQ-/caoHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 KK Partizan vs Olympiacos Piraeus" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",KK Partizan vs Olympiacos Piraeus [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/15d55e0aa339e47ae2e89158a4b77213/1732843250464/live/caoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/f6e21078089f1510ea1e40b7a3d790f0/1732850173022/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:30 KK Partizan vs Olympiacos Piraeus" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",KK Partizan vs Olympiacos Piraeus [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/jvzWwC1PYgGICt0mhPFsqw/0027e56455a2e21d4e9af4c00853528e/1732843250/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/wAWbsbIAE2UjdK0c4F0IBQ/0027e56455a2e21d4e9af4c00853528e/1732850173/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 29-11 02:30 Projekt Warszawa vs Belchatow" tvg-logo="https://i.imgur.com/hZNRca8.png",Projekt Warszawa vs Belchatow [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/NCfkBVDUrGN6HNSh7_X-ew/Fv2lucGIbhPi2caWYvF5Lg/1732841118674/live/may11/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/rdgwmV1Ej_c108FFkvfExA/Fv2lucGIbhPi2caWYvF5Lg/1732845783246/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:45 Winterthur F.C. Barcelona vs Real Madrid Baloncesto" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Winterthur F.C. Barcelona vs Real Madrid Baloncesto [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/G5idEoY_ds8XjX0WkSXRPQ/Fv2lucGIbhPi2caWYvF5Lg/1732843916481/live/Z2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/7Pb5RgrSJPWy-6eyaFMhJw/Fv2lucGIbhPi2caWYvF5Lg/1732850980090/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:45 Winterthur F.C. Barcelona vs Real Madrid Baloncesto" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Winterthur F.C. Barcelona vs Real Madrid Baloncesto [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDM5MTYsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMyODIyMzE2fQ.p9ejjYqxcaGtqby3zdj9u682mJ6FsE7wSnh80Xf2rkc-/Z2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTA5ODAsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMyODI5MzgwfQ.PMtYc7orU3_3E8nTVimvo2ehQDkZaoVCzo7bhXv3Su4-/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:45 Winterthur F.C. Barcelona vs Real Madrid Baloncesto" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Winterthur F.C. Barcelona vs Real Madrid Baloncesto [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/d0186bbb629e90ebd308cad68790391f/1732843916481/live/Z2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/9dead547a98948d47fef6e64d702b6a6/1732850980091/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:45 Winterthur F.C. Barcelona vs Real Madrid Baloncesto" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Winterthur F.C. Barcelona vs Real Madrid Baloncesto [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/KxXcsYdD2lXF1294AyJiYw/2f5c86e8dcb258706feb1f79081dd77d/1732843916/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/bVbIDV7vENL30IngnBtThQ/2f5c86e8dcb258706feb1f79081dd77d/1732850980/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 29-11 02:45 Winterthur F.C. Barcelona vs Real Madrid Baloncesto" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Winterthur F.C. Barcelona vs Real Madrid Baloncesto [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=3546445867f782dae7a26040f4e6a286&wsTime=1732822316&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=c943b08efd696547dde53606292a2496&wsTime=1732829380&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=dcb35a40846286e96c57ea9935a8ba88&wsTime=1732824316&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=7e005563f79c0a8fe4cac6e9677e0866&wsTime=1732819811&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Wi6TFnVJ4cxDIoURghRLww/Fv2lucGIbhPi2caWYvF5Lg/1732845916425/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/QNZ7Q7iD3m2ljYqJonm4eA/Fv2lucGIbhPi2caWYvF5Lg/1732841411137/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDU5MTYsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjgyNDMxNn0.IX3CP4aXFrYM920ZkXrFa5V-iEg_ecvcfJJiaHyLO3g-/meoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDE0MTEsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjgxOTgxMX0.2N5udtCrXVWYAQmeg5AwPH2HtuMB4pCClAGCyZY_cwc-/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/aa0d9fab4a362743a376e770c939cde8/1732845916426/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/bd3de1fb3e97db8ab929f1e448a0c68d/1732841411138/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/dcb50nKOFrMJWF6WJPQpHg/aa2414c41b563aa2e0f4a276a0f50172/1732845916/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 29-11 03:00 Sporting Braga vs TSG Hoffenheim" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Sporting Braga vs TSG Hoffenheim [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/BJ5RhfFFS_qgpGtMxowl_g/Fv2lucGIbhPi2caWYvF5Lg/1732845916426/live/sd-6MtLeBoe9vPBcqLai7/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/A2uInZeaqEH8K0lxGJVT_w/aa2414c41b563aa2e0f4a276a0f50172/1732841411/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=8bde2ffbd70352d6e12ed402efbb2d38&wsTime=1732826916&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=6c569605dbd0045b77be8defd77e19a4&wsTime=1732828822&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/_7jVzl7mZnFZs7tAZ75vVQ/Fv2lucGIbhPi2caWYvF5Lg/1732848516230/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/ynwFRjeBiutZZAZyWEcwCQ/Fv2lucGIbhPi2caWYvF5Lg/1732850422266/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDg1MTYsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI4MjY5MTZ9.dJ95IU0Ul0oJLW-0vCl7RhIJKt9hR37HSQ6TaNJVZq0-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTA0MjIsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI4Mjg4MjJ9.xMqxlD56_SvV9Ircv6lN4VvftJkFx30POqDDbCSdFK4-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b60a6b95d7e8d2a7d24b08fecb4975bd/1732848516230/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/0f7d5df4eb9bef95ab2f8278a456eb58/1732850422267/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/Hrt7F-mSqNP4mB6jtyf4UQ/6b78b4ff262c15bca3bdb372d5d5d695/1732848516/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/7bpvsM9mW58hUCkjVGtvUQ/6b78b4ff262c15bca3bdb372d5d5d695/1732850422/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Steaua Bucuresti vs Olympiakos Piraeus" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Steaua Bucuresti vs Olympiakos Piraeus [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Wi1AnNPcxKTyLSrQ11SXVg/Fv2lucGIbhPi2caWYvF5Lg/1732848516230/live/sd-6MtLeBoeVQ8AyRydYw/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/0pvmoVSOrc5jlUKDV2ziiw/Fv2lucGIbhPi2caWYvF5Lg/1732850422267/live/sd-6MtLeBoeVQ8AyRydYw/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Ferencvarosi TC vs Malmo FF" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Ferencvarosi TC vs Malmo FF [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/vsUNSobyehHKQm_qgr_q8w/Fv2lucGIbhPi2caWYvF5Lg/1732846507402/live/may25/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/JUx4-HathkVXp0hJRHsWAw/Fv2lucGIbhPi2caWYvF5Lg/1732846207768/live/may25/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Ferencvarosi TC vs Malmo FF" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Ferencvarosi TC vs Malmo FF [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/CxArOi5TxhEZSMDjBSDnOA/Fv2lucGIbhPi2caWYvF5Lg/1732846507402/live/sd-6MtLeBodf1MYYmzLg3/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/yTAdmpghH8hueHWBSedZKQ/Fv2lucGIbhPi2caWYvF5Lg/1732846207768/live/sd-6MtLeBodf1MYYmzLg3/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=5e5059c333136ca56859894f892ceaf9&wsTime=1732819520&keeptime=21600
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=561d12ed6cb52bf59cdad2bb85c37864&wsTime=1732824040&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/fJeBs1Wq-egnzd--VdgeGw/Fv2lucGIbhPi2caWYvF5Lg/1732841120338/live/myHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/KgDtIVJIkIhVl2t_kytRmA/Fv2lucGIbhPi2caWYvF5Lg/1732845640553/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDExMjAsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyODE5NTIwfQ.hhGEN25k2o1bm1dLvxlE6JwpW6A0GILBEMCb-T7WC3A-/myHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDU2NDAsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyODI0MDQwfQ.HIH7GfpWmjVqK1cYXJevAWmehcLiRxqIs8c5DtO2lxY-/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/14ede3570cdd65cb2a75e1b0140278b4/1732841120338/live/mySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/0a92a4a1db6dcbdf4c35782f57d33168/1732845640554/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/qFxhKyKqUeVqXR_b2VHHFg/37c56eb4aaf958eda25bed5c53705fc2/1732841120/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/_6WHX-kNH2nU6914Vxq4kw/37c56eb4aaf958eda25bed5c53705fc2/1732845640/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 29-11 03:00 Midtjylland vs Eintracht Frankfurt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Midtjylland vs Eintracht Frankfurt [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/UPitV4H1KyCBunXzVJ18ag/Fv2lucGIbhPi2caWYvF5Lg/1732845640554/live/sd-6MtLeBpQ9PVKnftRE3/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Nice vs Glasgow Rangers" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Nice vs Glasgow Rangers [Voi Biển]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -166,91 +146,91 @@ https://g2.cakeo2.fyi/truc-tiep/nice-vs-glasgow-rangers-ipuuqabew3-rid-gzl7kqfgm
 #EXTINF:0 group-title="[football] 29-11 03:00 Nice vs Glasgow Rangers" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Nice vs Glasgow Rangers [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/sjwz_3vQhWbUzo1Loz0wDg/Fv2lucGIbhPi2caWYvF5Lg/1732846611047/live/sd-6MtLeBpQ9W5mQ7NAgj/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/2-n3BmcEQkwhF2urHi_Vug/Fv2lucGIbhPi2caWYvF5Lg/1732851004221/live/sd-6MtLeBpQ9W5mQ7NAgj/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=fa27d2a503e3d8890ef58dd6d9b2c6b1&wsTime=1732824884&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=d7e2213c2845f8228b05e7aa8cdd59de&wsTime=1732829404&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Tmx9OuEn60FSog9fnWSUMQ/Fv2lucGIbhPi2caWYvF5Lg/1732846484376/live/may2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/Y2wRxOPmGPSG5gRcxqMzCA/Fv2lucGIbhPi2caWYvF5Lg/1732851004360/live/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDY0ODQsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI4MjQ4ODR9.8j1AJktbxn497LpJ-JePYjDWSpDN-pJdEO0-MUo1RrE-/may2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDQsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzI4Mjk0MDR9.xH10000WuYBQKlS-eyNUy9b_PhTHGsfHUnmxB8sV9ro-/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/281b9ed531340e9dcb47d3079b0f5cb8/1732846484376/live/may2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/67c5406bca7d89f6fc416e03fdc487aa/1732851004360/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/DkmrTk918Cbj2k6jcH-RYQ/d5b200387e6a5a1b18e0bf7cbe2d7615/1732846484/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/ih4CFv9gl6xRGxQuUzoi0g/d5b200387e6a5a1b18e0bf7cbe2d7615/1732851004/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ba47cfead9b87ad93d13e1d621e1683c/1732846484376/live/may10/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/282a9ca5e3b56c9e03a22937e66e383b/1732851004361/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Real Sociedad vs AFC Ajax" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Real Sociedad vs AFC Ajax [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/qq9RsIhP9ZKlIP6ERyYsSA/Fv2lucGIbhPi2caWYvF5Lg/1732846484376/live/sd-6MtLeBpNyUnE8wSAMR/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/1CG9Kibn2WmUeYkRp-DzTg/Fv2lucGIbhPi2caWYvF5Lg/1732851004361/live/sd-6MtLeBpNyUnE8wSAMR/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=a61fdd7d2ea585054025a787b2ec5734&wsTime=1732824316&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=70efb820f84d149d5b49a68e7d16f50b&wsTime=1732829404&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/EqWVyz6dyWFa3iV-_aW3sQ/Fv2lucGIbhPi2caWYvF5Lg/1732845916939/live/cuonHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/e9ykZjesKNTR-L8Jyh6BaQ/Fv2lucGIbhPi2caWYvF5Lg/1732851004595/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDU5MTYsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI4MjQzMTZ9.z0psW8_GfNS39u9I_W5JuZ3nQYL_fwv9HQyxyUUepJ0-/cuonHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDQsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI4Mjk0MDR9.Mgw8KU9cWhYrOJ32gCUVGaQa-HzTgUpebrjRwhdFKFY-/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/27a1c9292b49b76630a188cb63843d1d/1732845916939/live/cuonSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/a13b0dc1357389c57eb7ae7091c780e7/1732851004596/live/cuonSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/_CHftq0pgHY-8CjDJ6ez0g/ecdd2fe3d570b8f38d7664bb44af6d73/1732845916/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/7b0vftS0KZjd4V0YtKc6SA/ecdd2fe3d570b8f38d7664bb44af6d73/1732851004/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Slavia Praha vs Fenerbahce" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Slavia Praha vs Fenerbahce [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/WU0VEFy1n3eaOw4SxWb5-A/Fv2lucGIbhPi2caWYvF5Lg/1732845916939/live/sd-6MtLeBpPUjbC3KDemZ/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/0VWA94V4Xmwo47G9-Ppv6Q/Fv2lucGIbhPi2caWYvF5Lg/1732851004596/live/sd-6MtLeBpPUjbC3KDemZ/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=8d1cb2f17e1fc2457812da9566754167&wsTime=1732824316&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=7ba97baae15fd35cd8f741b6c01b1b84&wsTime=1732829404&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Sn-TGc1KC8y_JbU1Ny0STw/Fv2lucGIbhPi2caWYvF5Lg/1732845916668/live/phoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/mWzGsYzLgoKfHy1DuoxJTg/Fv2lucGIbhPi2caWYvF5Lg/1732851004794/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDU5MTYsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjgyNDMxNn0.CHZF8hbZBB2VVXHk_8g9Dso-Lyjmx5a2SwRlfdY09jc-/phoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDQsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjgyOTQwNH0.vj7B2da_oJyoh4CxXEmrrBx1mwiiuYLkF0kKtPYofLY-/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/f0cf47c1fea95eaa87e06e483ad8dd6a/1732845916668/live/phoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/a69bd320ab12024cb202daed909e5352/1732851004795/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/-jovnDeroM9xuGfOy_h7uw/4f331a41223542c17c4032aeaac138d5/1732845916/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/eWzt4yUP2xsWJhCIoLcsmQ/4f331a41223542c17c4032aeaac138d5/1732851004/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/Cl7tkSSUnwg7AoE88j58rQ/Fv2lucGIbhPi2caWYvF5Lg/1732845916668/live/may61/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/OiDjJYGv-4QFbNPGjxtNhQ/Fv2lucGIbhPi2caWYvF5Lg/1732851004795/live/may61/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/pLD14CBgBLRLgaq3iRyNuA/Fv2lucGIbhPi2caWYvF5Lg/1732845916668/live/sd-6MtLeBpPUoz9nGsV5M/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/zGbiPP02KxZvqKbfkznfPw/Fv2lucGIbhPi2caWYvF5Lg/1732851004795/live/sd-6MtLeBpPUoz9nGsV5M/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Tottenham Hotspur vs AS Roma" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Tottenham Hotspur vs AS Roma [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/FfBxdDfAJEVZVQaYtx8rfw/Fv2lucGIbhPi2caWYvF5Lg/1732845916668/live/hd-en-6MtLeBpPUoz9nGsV5M/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/9WkbWynB1DBGDNFRbyVeDg/Fv2lucGIbhPi2caWYvF5Lg/1732851004795/live/hd-en-6MtLeBpPUoz9nGsV5M/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 FC Twente Enschede vs Saint Gilloise" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",FC Twente Enschede vs Saint Gilloise [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -266,7 +246,7 @@ https://g2.cakeo2.fyi/truc-tiep/omonia-nicosia-fc-vs-legia-warszawa-ao49dbh7tt-r
 #EXTINF:0 group-title="[football] 29-11 03:00 Omonia Nicosia FC vs Legia Warszawa" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Omonia Nicosia FC vs Legia Warszawa [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/m61uwUtM7_w4oponoEEa-g/Fv2lucGIbhPi2caWYvF5Lg/1732848944855/live/sd-6MtLe8TVWDvqx6zg8b/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/ks57vJ1T1ZXOl2vUtkoLaQ/Fv2lucGIbhPi2caWYvF5Lg/1732846505591/live/sd-6MtLe8TVWDvqx6zg8b/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 NK Olimpija Ljubljana vs Larne FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",NK Olimpija Ljubljana vs Larne FC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -279,126 +259,130 @@ https://apisportvb90xltcbk-secure.nsnd.live/ZnuQQmpbAevFj_gzH-FYAA/Fv2lucGIbhPi2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://g2.cakeo2.fyi/truc-tiep/mlada-boleslav-vs-real-betis-x4hcjvwuhf-rid-9t7ptezq47
+#EXTINF:0 group-title="[football] 29-11 03:00 Mlada Boleslav vs Real Betis" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Mlada Boleslav vs Real Betis [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/emmWtPtYidUdyd8onZYg3g/Fv2lucGIbhPi2caWYvF5Lg/1732851005113/live/sd-6MtLe8TVqtfEf6mJju/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=2ad6b4f945d36099bb91e17eac5b5113&wsTime=1732824884&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=8368bfaba0f5e946a6305317944c8c0e&wsTime=1732829421&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/su1RbDjAvPUFhd0t_iM7SQ/Fv2lucGIbhPi2caWYvF5Lg/1732846484662/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/fZTAKo1DsdurkOyoN3asKQ/Fv2lucGIbhPi2caWYvF5Lg/1732851021531/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDY0ODQsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjgyNDg4NH0.-vIhw-V5x-2TO3lWR25EC-PtO4CtHCF5DEcFfMvuZIY-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMjEsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjgyOTQyMX0.8XGvQNEX4_BXw3xqPSnnHnRp1heUSr4NUJyhtdyHz1M-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0bb40612ad2b3a0cc879f4ae020bf8eb/1732846484662/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/027d64fc50e1fc72512b8046fa3c7739/1732851021532/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/MznaACo03JvONI454K4omQ/955439f202db20328214344ad740cd5d/1732846484/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/bKfwvUFH_lXGAlLNayP1dA/955439f202db20328214344ad740cd5d/1732851021/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Fiorentina vs Pafos FC" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Fiorentina vs Pafos FC [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/3yeQYwTKU4bRFWzm4VuOxQ/Fv2lucGIbhPi2caWYvF5Lg/1732846484662/live/sd-6MtLe8TVrA3bkTYipB/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/YDeyxdvosV4LwCyurJ1ZhQ/Fv2lucGIbhPi2caWYvF5Lg/1732851021532/live/sd-6MtLe8TVrA3bkTYipB/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Lugano vs KAA Gent" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Lugano vs KAA Gent [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/B68AUmceSxUOv-oB7si4vA/Fv2lucGIbhPi2caWYvF5Lg/1732846511563/live/may7/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/7b20nFBo73rpa89Et8tJXw/Fv2lucGIbhPi2caWYvF5Lg/1732848321757/live/may7/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Lugano vs KAA Gent" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Lugano vs KAA Gent [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/xUaqb9aNPzdXxm-w_dzNpA/Fv2lucGIbhPi2caWYvF5Lg/1732846511564/live/sd-6MtLe8TUg6YaconoKy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/DkFHs-u3g9QcvtrMWv3_Gw/Fv2lucGIbhPi2caWYvF5Lg/1732848321757/live/sd-6MtLe8TUg6YaconoKy/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Rapid Wien vs Shamrock Rovers" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Rapid Wien vs Shamrock Rovers [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/OmfZ0HOk6Uq3c4zh6ykyFw/Fv2lucGIbhPi2caWYvF5Lg/1732846511763/live/may24/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/xdxqrJzDwZ3k3LMATWFB8A/Fv2lucGIbhPi2caWYvF5Lg/1732851023418/live/may24/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:00 Rapid Wien vs Shamrock Rovers" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png",Rapid Wien vs Shamrock Rovers [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/MzCXQ69KQTI9lb4N9i7zUg/Fv2lucGIbhPi2caWYvF5Lg/1732846511764/live/sd-6MtLe8TVB8AfJJcnpj/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/r2Fe06ZycXvVKyL0VuSeIA/Fv2lucGIbhPi2caWYvF5Lg/1732851023418/live/sd-6MtLe8TVB8AfJJcnpj/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z1HD.flv?wsSecret=26bf7702ad408da3f4ee69fbdaae2102&wsTime=1732828511&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z1HD.flv?wsSecret=87c2d5e6f55dc24d3961d548695fec6b&wsTime=1732828288&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/feCvmhO4aq6ZQT1jElKgaw/Fv2lucGIbhPi2caWYvF5Lg/1732850111955/live/Z1HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/EAhIJmu6_qzjOnQcSnKu1Q/Fv2lucGIbhPi2caWYvF5Lg/1732849888025/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAxMTEsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzMyODI4NTExfQ.sCQ3SVnUYFlO3uGZDLEPFH1mtZqe_L8d7OhmpUQUH1Y-/Z1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDk4ODgsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzMyODI4Mjg4fQ.NWprlf49k2JWeRcEGSVm0OOm93DFXfxW5LKqj5hXxkU-/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a60364bfc7d9a33eaef0f183ece33fcf/1732850111956/live/Z1SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/b7af36cecbd1532e33329aa3e26622e8/1732849888025/live/Z1SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/r72NgL_eRFomGvhUcKq1PA/bf44ba621235a4936d4c6ae6054d551e/1732850111/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/WvM05W8oOTzba3Uwp3QHMg/bf44ba621235a4936d4c6ae6054d551e/1732849888/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/BpRvVDDdmOddH_alkgKwPg/Fv2lucGIbhPi2caWYvF5Lg/1732850111956/live/may6/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/o30QMVJJQHVBVZZASmcISA/Fv2lucGIbhPi2caWYvF5Lg/1732849888025/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Q3WC3kLBptxVobCNkmHTaA/Fv2lucGIbhPi2caWYvF5Lg/1732850111956/live/sd-6MtLeBpPeWfAb6N6Ls/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/2eK-7PIfvYr3AsrAIKpUZQ/Fv2lucGIbhPi2caWYvF5Lg/1732849888025/live/sd-6MtLeBpPeWfAb6N6Ls/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/hURf8SRfW7IlObV5JrE7uw/Fv2lucGIbhPi2caWYvF5Lg/1732850111956/live/hd-en-6MtLeBpPeWfAb6N6Ls/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/H1aPTlu0OZpDl0IlA8hHAA/Fv2lucGIbhPi2caWYvF5Lg/1732849888025/live/hd-en-6MtLeBpPeWfAb6N6Ls/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=d652aa226c579de13156fa294190030e&wsTime=1732828441&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=af2675a754d9d47fc8b28e27d58cd0cc&wsTime=1732829405&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/eO2k0yH3T6OHIOUV5gzmCg/Fv2lucGIbhPi2caWYvF5Lg/1732850041987/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/0LgpNxk_PcHSHbeVUqwb7Q/Fv2lucGIbhPi2caWYvF5Lg/1732851005622/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAwNDEsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI4Mjg0NDF9.XtTtKa6kPQ8mjBQDWQOyj684a-jeH4-MbQsOqW2gHhs-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDUsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI4Mjk0MDV9.AekOj2LJyHwrg0Q7t_c37hKhTBpZauSmkcq6TFWBZmI-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/eac06e809b0b0d105554b25d64421e6c/1732850041988/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/4ae054a1468ae09bc85866399c8d9fac/1732851005623/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ITkqjsMTcvTrYZ1JjaOU_A/847878fb5be3ca4c0539d0883bc5274a/1732850041/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/p-5yM22IAXEct6MDEkr0qQ/847878fb5be3ca4c0539d0883bc5274a/1732851005/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Anti Mân" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Anti Mân [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/7ES5MgZnYI5R-o5MVXoqYQ/Fv2lucGIbhPi2caWYvF5Lg/1732850041988/live/may6/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/7n0rWUXcnUP-4NYi2M48dA/Fv2lucGIbhPi2caWYvF5Lg/1732851005623/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=b66cd52e7d731cd2202185001c98206c&wsTime=1732828512&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=8d2ad96f5d9c2fc04fbffc78435a7f3f&wsTime=1732828505&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/zbDKm7QICoUPsEdYIdqw0Q/Fv2lucGIbhPi2caWYvF5Lg/1732850112958/live/chaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/QJzmIN0ZpeYWRzohzKqnpg/Fv2lucGIbhPi2caWYvF5Lg/1732850105461/live/chaHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAxMTIsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzI4Mjg1MTJ9.8o5ukDXFYe2mtzgkCsSe8TOLG-vcbx1r_2ToBIqfM_c-/cha1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTAxMDUsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzI4Mjg1MDV9.vN0rkjPyuQLrgybtLQZEdFx5RauVCdcF0bJToPAv5PI-/cha1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/8908d95eb8f879255ea7bacd144d660c/1732850112958/live/chaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/9169acef3e72f1a83f94a5e07b84874a/1732850105461/live/chaSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/5MEL6rbkhcjTsLN2BqaKJQ/c30c788ad0707c1b9d75449bd5366f27/1732850112/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/FrojtMu5DihpEwohpP0gZQ/c30c788ad0707c1b9d75449bd5366f27/1732850105/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 03:01 Manchester United vs Bodo Glimt" tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png",Manchester United vs Bodo Glimt [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/4r89QKMaAFUdQsnDuiyX8g/Fv2lucGIbhPi2caWYvF5Lg/1732850112958/live/may6/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/9g4STeQZe0hiJe5SfgEfHQ/Fv2lucGIbhPi2caWYvF5Lg/1732850105462/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[volleyball] 29-11 03:30 FC Porto W vs Calcit Kamnik W" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",FC Porto W vs Calcit Kamnik W [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -406,20 +390,20 @@ https://obevcimanyd179591709.thapcam.link/2dk8075mziFOSluN6sRCcg/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=49fba6d758db2c968516c1db1b7c4bad&wsTime=1732824015&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=48abe22362d963f743d01d677ef88731&wsTime=1732829406&keeptime=21600
 #EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/SGBg-ZsHmQi3Fa_I8mGpZA/Fv2lucGIbhPi2caWYvF5Lg/1732845615376/live/phepHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/La8LBpoWKEIa7208mPQ3MQ/Fv2lucGIbhPi2caWYvF5Lg/1732851006043/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NDU2MTUsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI4MjQwMTV9.kNGy8xL806xCoG8Rhvf4T1HJPpQS_5LelHr8ioHi8Cg-/phepHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTEwMDYsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI4Mjk0MDZ9.hIOx_3QzH-9cFr1mp0pAWNn4_g7Gp66g2Qoyq1Ww6Gc-/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/dd6c214c1ec378c5336a72da2b352d75/1732845615376/live/phepSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/bdca565e95df8b98627cabbaba7f6ccc/1732851006043/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/qXViI9bqFC0TeqVX6xajtw/bb30dc1883f5f92057cd67eec640c4d0/1732845615/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/rEYAUbkNajgQTRslyy1k2Q/bb30dc1883f5f92057cd67eec640c4d0/1732851006/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
