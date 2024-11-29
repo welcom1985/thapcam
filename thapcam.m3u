@@ -1,61 +1,45 @@
 #EXTM3U
-#EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=98dbbdf9dbcb185c4b453eb970d4da36&wsTime=1732832281&keeptime=21600
-#EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/S5e632pawyu7kFoxCVl0YQ/Fv2lucGIbhPi2caWYvF5Lg/1732853881919/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NTM4ODEsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI4MzIyODF9.GZ4RA1vyF6G4MIDVJOQf11vDqn79MaN-yNMGmq0pXT8-/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/bc5d33c44b9b031625c4cc4d86104fd6/1732853881919/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="[other] 29-11 04:30 Dallas Cowboys vs New York Giants" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Dallas Cowboys vs New York Giants [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/11iBJH3D9f0WmBgDwL7QPg/bb30dc1883f5f92057cd67eec640c4d0/1732853881/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=22cc28e4ae17d359ff919bd9f7b02caf&wsTime=1732841642&keeptime=21600
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=b0a8a345fc0f0350fa75197ba78bd96c&wsTime=1732842903&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/pGgomCaniJYD0Nk1ob6LDg/Fv2lucGIbhPi2caWYvF5Lg/1732863242403/live/dungHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/WIEy0wdncGo6VSB34llAww/Fv2lucGIbhPi2caWYvF5Lg/1732864503085/live/dungHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NjMyNDIsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzI4NDE2NDJ9.nVodpR1aHx4Q1T19l_QHso-8D4aminb0rewBXg8OoeE-/dungHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NjQ1MDMsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzI4NDI5MDN9.BQpg37MlLQ8zvpidjogdRo4M7msEXOqlcOfz8VakOK0-/dungHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/29fe81663e65196841c2f27ff526e315/1732863242404/live/dungSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3c7c862ae0e5190d9bbe478acb9cd037/1732864503090/live/dungSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/KhVzZxllT3eRTJ9w2YR7IA/09b8150fd09801bcc1dbb7e4e226d0e0/1732863242/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/A9F-3JfsPKae9bEs7cn0jw/09b8150fd09801bcc1dbb7e4e226d0e0/1732864503/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/NrUl4yW5liCFnSsO-rEyHg/Fv2lucGIbhPi2caWYvF5Lg/1732864503090/live/sd-6MtMdVTVmMwdm9VYod/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=1fc323612f1879ca2470e049418577cf&wsTime=1732841992&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=8c4e80c82ecc245f45a4e28bb46940fe&wsTime=1732842903&keeptime=21600
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/oSgscsL46p_GmUWyE7AYUQ/Fv2lucGIbhPi2caWYvF5Lg/1732863592411/live/hucHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/3gGLCBVSWdZ0CLXCg-tKxw/Fv2lucGIbhPi2caWYvF5Lg/1732864503526/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NjM1OTIsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMjg0MTk5Mn0.RP0q37pn_5mifRZseg1Od5-k9gEAxawB49gOBDfgmG8-/hucHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NjQ1MDMsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMjg0MjkwM30.-dBHCmr4G6Q0FTx7OAubHg4ZDRUjym6rvlX15-fjJGc-/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/154b05a46a3720bd7d6bdba759743cab/1732863592412/live/hucSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/0584cb65b0d5182f4b0e683c0fc20992/1732864503527/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/B9CUOcUCqWW7Ustloxog9w/f13af37e22c82318c65a375473fc75f2/1732863592/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/7rwOmY05U4xC7q4Fg0h7PQ/f13af37e22c82318c65a375473fc75f2/1732864503/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
