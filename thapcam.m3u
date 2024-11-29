@@ -1,65 +1,45 @@
 #EXTM3U
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=9ad54cf314399e561d11fe76246c3292&wsTime=1732844702&keeptime=21600
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/6FSVq6e4AvmlejZZYoJXvw/Fv2lucGIbhPi2caWYvF5Lg/1732866302946/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NjYzMDIsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzI4NDQ3MDJ9.tp8g2qgPd6UdiuPQLBOjjr_6Vd8L7_CJM4y93niPt2k-/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/e8ac2d5d9be5489c978c0318af7feb2a/1732866302947/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/t5ommllI6T_neOQzOC6MiA/09b8150fd09801bcc1dbb7e4e226d0e0/1732866302/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 29-11 08:00 Atletico San Luis vs Tigres UANL" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Atletico San Luis vs Tigres UANL [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/_lAG86_Kbrr1ZTFPLIKMNw/Fv2lucGIbhPi2caWYvF5Lg/1732866302947/live/sd-6MtMdVTVmMwdm9VYod/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=69e5293d41c78d793ccf07b4bc28bcfd&wsTime=1732849203&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=67b667fde32f71efcb3a59db451a03b2&wsTime=1732847220&keeptime=21600
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/CiiDObE36_inDMvCpCndyw/Fv2lucGIbhPi2caWYvF5Lg/1732870803572/live/hucHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/CI55jHumoVq12ROl24oUcQ/Fv2lucGIbhPi2caWYvF5Lg/1732868820903/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NzA4MDMsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMjg0OTIwM30.-ncMCnHJsQolcUY0kxAMfxfNSuOEeHuhEndaUUS75RY-/hucHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4Njg4MjAsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMjg0NzIyMH0.YrywA2GTf7uXRSXDdYMJIRwc6N-eVQ_f-duYfgQrT98-/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/d39090f260b97de66ab98e293c6b4b77/1732870803573/live/hucSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e2c11ed6362ce4d9f2811fb47fecbf1a/1732868820904/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="[other] 29-11 08:20 Green Bay Packers vs Miami Dolphins" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Green Bay Packers vs Miami Dolphins [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/pf40mVFooU2eFB9OREWVBg/f13af37e22c82318c65a375473fc75f2/1732870803/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/gcv9GXlc-lA89JclJliUSA/f13af37e22c82318c65a375473fc75f2/1732868820/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=cf7c8189d5a324d7045b692ebf9de435&wsTime=1732848604&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=d8fc4a8efcc1ecbe5cab0ad23ff1171d&wsTime=1732849843&keeptime=21600
 #EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/y-6mdiiJpkOVC_ofi0Ffcg/Fv2lucGIbhPi2caWYvF5Lg/1732870204368/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/g-0mlHpoScoyqv1YOrzKRQ/Fv2lucGIbhPi2caWYvF5Lg/1732871443299/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NzAyMDQsInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzI4NDg2MDR9.AWxgyztZhk12hiN_K7SG5Xq7KS-doxDDbFqRnISWlEE-/meo1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI4NzE0NDMsInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzI4NDk4NDN9.2FcP2xNGoaQYVEBTijeZ-IpjGh5pnKAYlu0RdtLahaE-/meo1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/4d678bd013244b09ef079bcf21172098/1732870204369/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/f59af307a8e75aedb9f58e261e358f5e/1732871443300/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/CIRfJ-JDV_QGj02gOnVZkg/aa2414c41b563aa2e0f4a276a0f50172/1732870204/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/n54Tc8mg1dW5bq4a79eq3g/aa2414c41b563aa2e0f4a276a0f50172/1732871443/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 29-11 10:10 Monterrey vs Pumas U.N.A.M." tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",Monterrey vs Pumas U.N.A.M. [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/1I3eoLcsMbs3DEegUcvmkw/Fv2lucGIbhPi2caWYvF5Lg/1732871443300/live/sd-6MtMdVTVmSLbW79P7R/playlist.m3u8
