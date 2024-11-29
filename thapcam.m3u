@@ -1,197 +1,177 @@
 #EXTM3U
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=6789b2b9ede49909e609e62b1f38ce4e&wsTime=1732899602&keeptime=21600
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/VsLHZF1FQeB9y4xPVFn8_w/Fv2lucGIbhPi2caWYvF5Lg/1732921202520/live/satHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjEyMDIsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI4OTk2MDJ9.fBZarsih0grHfK5_gkQzJoFjOg2pbg0XoX7T9D8nqag-/sat1HD/playlist.m3u8
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/61cd860ed9feffa8649e46b6922c9b44/1732921202520/live/satSD/playlist.m3u8
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/5Fn0us0PpmHtkdwUx7wyrw/6b78b4ff262c15bca3bdb372d5d5d695/1732921202/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 30-11 00:00 Al Ahli vs Al Wehda Mecca" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al Ahli vs Al Wehda Mecca [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/GU03VTZejnBXDe7Dm1pWHw/Fv2lucGIbhPi2caWYvF5Lg/1732921202520/live/sd-6MsGPwgaMtExNCpycP/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:00 Hornets vs Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Knicks [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z1HD.flv?wsSecret=2db8198f6fcf26e77c13a1976859ae3b&wsTime=1732905264&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z1HD.flv?wsSecret=cfc7774ec143b461a98453370404191c&wsTime=1732904103&keeptime=21600
 #EXTINF:0 group-title="[basketball] 30-11 00:00 Hornets vs Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Knicks [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/jSKNlNyqyw2JRk1XNT-b6g/Fv2lucGIbhPi2caWYvF5Lg/1732926864493/live/Z1HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/auXBPfrO2qzV_VsS4xgKuA/Fv2lucGIbhPi2caWYvF5Lg/1732925703750/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:00 Hornets vs Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Knicks [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjY4NjQsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzMyOTA1MjY0fQ.di6EjXJ0WEcKRGrhovdNXVzJjcMYm0apHXW2eMlF_Zs-/Z1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjU3MDMsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzMyOTA0MTAzfQ.ehG_7Kq0-8Q4ooPQw7nR3xzFDPLOIrJJCzfOR8eI4YM-/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:00 Hornets vs Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Knicks [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/49a1ba3603a380ffe7f66fd14032b3d2/1732926864493/live/Z1SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/40fd14ef68ba1a627c4284e728b07a0c/1732925703751/live/Z1SD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:00 Hornets vs Knicks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Knicks [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/PYi3rHlI_CTjWDghnym2Hg/bf44ba621235a4936d4c6ae6054d551e/1732926864/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/mJOgBZ1L2K1utXwcvMYZJg/bf44ba621235a4936d4c6ae6054d551e/1732925703/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=4ac942b058dbdf6535c28d73383878fc&wsTime=1732901411&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=cfa56564107d76bb052c97eb2bdef09a&wsTime=1732898706&keeptime=21600
 #EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/0jjWT2UCHl5122ul3dER-A/Fv2lucGIbhPi2caWYvF5Lg/1732923011403/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/snb4ocW8_jdjdCITfVn-fw/Fv2lucGIbhPi2caWYvF5Lg/1732920306086/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjMwMTEsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMyOTAxNDExfQ.pdrSZin7_us3LFc24svAAFYV89wpu40Xa6VRo84Saac-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjAzMDYsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMyODk4NzA2fQ.BWBtAQurIKbN6YIIzHr2xNS5XpchjlQV4CBg9OlCsrI-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/84ff61a285e6502f0dffb11e288d51ae/1732923011404/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/de74bdad46e0439e1d2a99ef8d7857b9/1732920306087/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/itxDHK__4aHsuleGXneCDg/fc724b392eb664de8f0b54609b1e66f5/1732923011/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 30-11 00:30 Magdeburg vs Hertha Berlin" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Magdeburg vs Hertha Berlin [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/emee2DgnSe4X4mPC6Lu-pA/Fv2lucGIbhPi2caWYvF5Lg/1732923011404/live/sd-6MsGeqBgLi5t5orJU3/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/GYqNcdyn2CQD5TV1PTELfA/fc724b392eb664de8f0b54609b1e66f5/1732920306/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=324e48bf8703eb50a5f5e73d998c8399&wsTime=1732905264&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=1a952bf2dd0c8bf7e01c4e4783cf5cc1&wsTime=1732904104&keeptime=21600
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/W2Z2IqqToZneNEZ_6KyMKg/Fv2lucGIbhPi2caWYvF5Lg/1732926864516/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/e4q1et9oGD7oe0uWpgvsQA/Fv2lucGIbhPi2caWYvF5Lg/1732925704764/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjY4NjQsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI5MDUyNjR9.sXyyGHqgoEJ-GxPR6xgEJMBgcrvXVjeoWfdcI7xEWzc-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjU3MDQsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzI5MDQxMDR9.lhQoLDvxHcnHD9F-V2nZso8miTHF8JjoCGR9EbEZ5IM-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/2d21f193899407200729d95902f1b185/1732926864516/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/2cfa44d42b168df46e2feadfab18c983/1732925704765/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/kyOiHljLNcrWqI35cq8jXA/847878fb5be3ca4c0539d0883bc5274a/1732926864/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/jgRnvbQFgn3ns0z0HzaIag/847878fb5be3ca4c0539d0883bc5274a/1732925704/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 00:30 Schalke 04 vs Kaiserslautern" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Schalke 04 vs Kaiserslautern [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/XQHNW1vE5UsAKKY-7yyTeQ/Fv2lucGIbhPi2caWYvF5Lg/1732926864516/live/sd-6MsGeqBgr7gmU6wTVm/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/KpdeVFPNxKFQWgDNbcGIzQ/Fv2lucGIbhPi2caWYvF5Lg/1732925704765/live/sd-6MsGeqBgr7gmU6wTVm/playlist.m3u8
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=2cd7468d9358f8829b928bb0c8b0f0cf&wsTime=1732905264&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=1f8b3c320ea8ecb0a404ac9dd94be465&wsTime=1732904104&keeptime=21600
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/u1RKRzm01sHQHmbf3glGCg/Fv2lucGIbhPi2caWYvF5Lg/1732926864532/live/Z2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/KRQxnuv2BZFHRwHDQ7WAPg/Fv2lucGIbhPi2caWYvF5Lg/1732925704357/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjY4NjQsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMyOTA1MjY0fQ.ltKuHJiwGECMb7kQTHX7Wq0J0P3hmpZHzoS0bPBusyw-/Z2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjU3MDQsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMyOTA0MTA0fQ.YUhGVt_nbVaFMoEgaaPJE65n7zWWbtHRje-XeoaNpxg-/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/6196af2af7beee99ffe6d62530cc06e6/1732926864532/live/Z2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/b053e34d2c9785119606ca8914a404dc/1732925704358/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/2lSaJhfVucLyjXWmkkCyYw/2f5c86e8dcb258706feb1f79081dd77d/1732926864/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/r2-f6zsigebomf0_mqaoFQ/2f5c86e8dcb258706feb1f79081dd77d/1732925704/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="[race] 30-11 00:30 Qatar GP: Sprint Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Sprint Qualifying [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/B7IiWrbJZHTziBk_guJxxQ/Fv2lucGIbhPi2caWYvF5Lg/1732926864533/live/may17/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/RTDDenPITrXbNgGHMWLgKQ/Fv2lucGIbhPi2caWYvF5Lg/1732925704358/live/may17/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:45 Fenerbahçe Beko vs Olimpia Milano" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Fenerbahçe Beko vs Olimpia Milano [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=99bc19a5fe0508453e6fdad52cf1812d&wsTime=1732901762&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=58fa78da7a01c1dc146f6e6b4432b76a&wsTime=1732904104&keeptime=21600
 #EXTINF:0 group-title="[basketball] 30-11 00:45 Fenerbahçe Beko vs Olimpia Milano" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Fenerbahçe Beko vs Olimpia Milano [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/x88Iiq0-2ZEv3wUHFBU_Ig/Fv2lucGIbhPi2caWYvF5Lg/1732923362334/live/phepHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/YJVQl8b9XkXxGiBsilN1Vw/Fv2lucGIbhPi2caWYvF5Lg/1732925704986/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:45 Fenerbahçe Beko vs Olimpia Milano" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Fenerbahçe Beko vs Olimpia Milano [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjMzNjIsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI5MDE3NjJ9.mVAz7SeZiZ4Lw0kvL4JWwse0H4FfgA56Ff5YUSdBJcA-/phepHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjU3MDQsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzI5MDQxMDR9.gT0QoTD3lR3LrRJPCY5Q5oYblO1QOGd3mW-MWU9pDmU-/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:45 Fenerbahçe Beko vs Olimpia Milano" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Fenerbahçe Beko vs Olimpia Milano [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/90d7c3a59280b9a0d7ca3ea83d3f144b/1732923362334/live/phepSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/ef84e326974a386bd465411d74603fe0/1732925704987/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 00:45 Fenerbahçe Beko vs Olimpia Milano" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Fenerbahçe Beko vs Olimpia Milano [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/KtSmyTF5nPLKkw3uZwOl6A/bb30dc1883f5f92057cd67eec640c4d0/1732923362/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/FZGDNGmJs5eGbuTG_GD7Xw/bb30dc1883f5f92057cd67eec640c4d0/1732925704/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=87a826cbb8e17ce0ce08294a9e76e14f&wsTime=1732901414&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=3eb39db0bf242713cd09c004d4adb252&wsTime=1732904105&keeptime=21600
 #EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/sFGkylkID31vZH1LVEUCHA/Fv2lucGIbhPi2caWYvF5Lg/1732923014707/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/guMal80oUULAESm-rtT4bg/Fv2lucGIbhPi2caWYvF5Lg/1732925705203/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjMwMTQsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjkwMTQxNH0.Tj8Io8ezS_itwwSt55qzSF-1lgBFp8WQtWxTVzq8C4w-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjU3MDUsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjkwNDEwNX0.cp5g1KxyDudsXrL6vEXYyzpnayQgJ1eXHAzdQxRaaXE-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7aefa7229bbd11265f50e76db2e2d0ec/1732923014708/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/de64db73a0bb158f668bcdfb7fcd4168/1732925705204/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/a7pzM6wlr6fQ3lQOD6pVYg/955439f202db20328214344ad740cd5d/1732923014/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/VkhZVTxriufSSoMoEGtTgA/955439f202db20328214344ad740cd5d/1732925705/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 30-11 01:00 Spain (w) vs Korea Rep (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Spain (w) vs Korea Rep (w) [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/g7IvBCFS9kUDtluPDrZbsA/Fv2lucGIbhPi2caWYvF5Lg/1732925705204/live/sd-6MtMdmngx6916dNe7M/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 02:00 Crvena Zvezda Red Star vs Bayern Munchen" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Crvena Zvezda Red Star vs Bayern Munchen [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=0cfb3ed932089e2bd205e1f3d68479f0&wsTime=1732906442&keeptime=21600
+https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=95902537ba8c4f39be3ffa9e7248b475&wsTime=1732907704&keeptime=21600
 #EXTINF:0 group-title="[basketball] 30-11 02:00 Crvena Zvezda Red Star vs Bayern Munchen" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Crvena Zvezda Red Star vs Bayern Munchen [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/-WnkRtxuEjSbVuNdAu9ZTA/Fv2lucGIbhPi2caWYvF5Lg/1732928042837/live/thuongHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/A9cLhLoH4dYakCydapqCbw/Fv2lucGIbhPi2caWYvF5Lg/1732929304468/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 02:00 Crvena Zvezda Red Star vs Bayern Munchen" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Crvena Zvezda Red Star vs Bayern Munchen [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjgwNDIsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczMjkwNjQ0Mn0.EzFcQygqPAatf3Z_hvQ2U6RtLHhehObnI1UaSUb8Abg-/thuongHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjkzMDQsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczMjkwNzcwNH0.dfQ9XXjkj9wjvkNvgHLsL7bYjd1fX0HhaB-MLU2JK0o-/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 02:00 Crvena Zvezda Red Star vs Bayern Munchen" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Crvena Zvezda Red Star vs Bayern Munchen [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/1d22b0c510120334643fc99e2b2c952f/1732928042837/live/thuongSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/1347ea0fd5aeb14dfd41c61fc61e72d0/1732929304469/live/thuongSD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 30-11 02:00 Crvena Zvezda Red Star vs Bayern Munchen" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",Crvena Zvezda Red Star vs Bayern Munchen [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/nsKP7V_Z9-JyGKOvScCPrA/9d3c1936b065e6a3605ccd426df0ce6c/1732928042/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/tPDiyt6X8M-xQyBzSrGXUw/9d3c1936b065e6a3605ccd426df0ce6c/1732929304/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=ce948139f417230f558eb566aceeb5e2&wsTime=1732906442&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=ef9312d5939d6036f05207f460456db8&wsTime=1732907704&keeptime=21600
 #EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/9M2OVa0AeSOBqK6G67i56Q/Fv2lucGIbhPi2caWYvF5Lg/1732928042876/live/phoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/-CqSLmUTZ57O1MolqTuAgA/Fv2lucGIbhPi2caWYvF5Lg/1732929304626/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjgwNDIsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjkwNjQ0Mn0.F_wLkPPof371Ur9LevMkraTp_vIeYQfEFYWnRtf2S2s-/phoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzI5MjkzMDQsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjkwNzcwNH0.POIKFWeGH6eloMv1eJJV7AltnH16QPUGsJcE3cN-5MI-/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/4c7d786ec2581ae63b1fee366bf8ef93/1732928042877/live/phoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/4423d3141d14cec19322579031c553d8/1732929304627/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/vOEpd1SuT0o-D0vYw6bW_A/4f331a41223542c17c4032aeaac138d5/1732928042/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/2tsZTW1OkO3z94Ugufx1wQ/4f331a41223542c17c4032aeaac138d5/1732929304/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 30-11 02:00 Switzerland (w) vs Germany (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Switzerland (w) vs Germany (w) [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/aZaSowrn3D_PkN6hOhSotw/Fv2lucGIbhPi2caWYvF5Lg/1732929304627/live/sd-6MtMdmng7tMn2NWvzw/playlist.m3u8
