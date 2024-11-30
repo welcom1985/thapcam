@@ -1,136 +1,100 @@
 #EXTM3U
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=52d4489ddc968f40e080f49dedb1f0e5&wsTime=1733000439&keeptime=21600
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/iSgiAtcOCS8IBoPR4oMAGw/Fv2lucGIbhPi2caWYvF5Lg/1733022039249/live/meoHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMzksInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMzAwMDQzOX0.vQ6fEcZf_HwBA2cYHtXXQypsY_AlBJCrgaKdTLfrrks-/meoHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/4f21eb7941d61538a61944f14f88d13e/1733022039249/live/meoSD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/Z_PajoUSoSu81HiobUnmtA/aa2414c41b563aa2e0f4a276a0f50172/1733022039/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/9o-34SqAGtWt_v30YP3IIQ/Fv2lucGIbhPi2caWYvF5Lg/1733022039249/live/sd-6MsGA1XRcVYFYgC4dq/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 02:45 Bologna vs Venezia" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",Bologna vs Venezia [Backup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Y95WMQaIwbOSDUu2gjKYMg/Fv2lucGIbhPi2caWYvF5Lg/1733022039250/live/hd-en-6MsGA1XRcVYFYgC4dq/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=b58f50c10920731b0e50665b04aaa4dc&wsTime=1733000501&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=21dc0fc21d7663ff99ff545ad91e6b79&wsTime=1733000404&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/xArCgAgpMf0v1vv3dFB7hQ/Fv2lucGIbhPi2caWYvF5Lg/1733022101657/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/wAVNjcjscrBWPoCwuZo79Q/Fv2lucGIbhPi2caWYvF5Lg/1733022004267/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIxMDEsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzMwMDA1MDF9.cgYidpB56k2-spp58kKhODj_r_1lIoAanXEpkTnP6Xg-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMDQsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzMwMDA0MDR9.HLwrGLwLAttT25IK2jmJFE7LW9wgdgBe3fMS5Lz9a0c-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/fad1a49c1f932fe2e4ad204da6642631/1733022101658/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/738b61bc53c5806d96e698b45c3bd8b9/1733022004268/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/JU0JOdJdKB-GNFAAkakKRg/847878fb5be3ca4c0539d0883bc5274a/1733022101/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/usPL4sePiVaU71DHZBYfdw/847878fb5be3ca4c0539d0883bc5274a/1733022004/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/BQfXIFAvV2orFkEtHnagwA/Fv2lucGIbhPi2caWYvF5Lg/1733022101658/live/sd-6MsG9ch1RJ26DZ9ryy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/KmmrIoOYa1LEjLEUXyESAA/Fv2lucGIbhPi2caWYvF5Lg/1733022004268/live/sd-6MsG9ch1RJ26DZ9ryy/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Real Valladolid vs Atletico Madrid" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",Real Valladolid vs Atletico Madrid [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/grzTHIWisMWiHhf3znhI7w/Fv2lucGIbhPi2caWYvF5Lg/1733022101658/live/hd-en-6MsG9ch1RJ26DZ9ryy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/3iO-xUJHt0H6i5929_OiJg/Fv2lucGIbhPi2caWYvF5Lg/1733022004268/live/hd-en-6MsG9ch1RJ26DZ9ryy/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=613a06ec79c5edd0ca0371d57d8f52f7&wsTime=1733000439&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=5e0d8689a0b09a88ae4a7c3d8106c35e&wsTime=1732995307&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/guj5BH4wyzro9byPFoSSkQ/Fv2lucGIbhPi2caWYvF5Lg/1733022039249/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/NYNR_3p2MaiLX_w0GPSLuw/Fv2lucGIbhPi2caWYvF5Lg/1733016907222/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMzksInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzMwMDA0Mzl9.ZNv9ud_du4VorBnh_5PUKmptZsBjGodoI0GjGnokipI-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTY5MDcsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI5OTUzMDd9._Pu2WtC0RERHNeGPRLqcMimV16o_OXDUDDWkzGW5eNI-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b19c1a0aa80e2a848b3f6fd2d41b84f8/1733022039249/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/809c85860447ed057f5333b7eb11a6e5/1733016907223/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/IoN9OGpyZVmDMUjEqFbEuA/6b78b4ff262c15bca3bdb372d5d5d695/1733022039/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/JGiSP4cvG38pQhruDvwWlg/Fv2lucGIbhPi2caWYvF5Lg/1733022039249/live/sd-6MsG9Syhn95S3qaCK5/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 03:00 Paris Saint Germain (PSG) vs Nantes" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Paris Saint Germain (PSG) vs Nantes [Backup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/SPMr8yKu3cQxG6S1z1Macw/Fv2lucGIbhPi2caWYvF5Lg/1733022039250/live/hd-en-6MsG9Syhn95S3qaCK5/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/-B_l_MssWM8VCgv21DTc4w/6b78b4ff262c15bca3bdb372d5d5d695/1733016907/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=262d9672ba4e073ee572e2205e93e189&wsTime=1733000501&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=d4655855fb40a9955c9a0b6fd5c368cc&wsTime=1733000404&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/a0osnEbvBYMOdAy0UyoBHA/Fv2lucGIbhPi2caWYvF5Lg/1733022101649/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/5nEXU_mLinS_YnzJ35RdFg/Fv2lucGIbhPi2caWYvF5Lg/1733022004694/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIxMDEsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMzAwMDUwMX0.LLnkK1sdpC_EgLRUkPFfz5LpcGz4e-uIW0ZAuL4wjTM-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMDQsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMzAwMDQwNH0.GCpSvJvrSMG6kbvrf0Nk1UfQrh1av-gH_XYbGxR0EME-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7143d7351600814c888c0a13e08bf034/1733022101650/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e8b0adaa51c249e9fd56b517cbe4b39c/1733022004694/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/M-8HKVmchFzvCDMXPmmRsg/955439f202db20328214344ad740cd5d/1733022101/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/mNlTmHug3-kX965D-_aL5g/955439f202db20328214344ad740cd5d/1733022004/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 Atletico Mineiro vs Botafogo RJ" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",Atletico Mineiro vs Botafogo RJ [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/3NA1lN2uiVytHmMODsALzg/Fv2lucGIbhPi2caWYvF5Lg/1733022101650/live/sd-6MtM8frwThN5e2Fr7m/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/rbu7Qd9B9331g7jxUarl8g/Fv2lucGIbhPi2caWYvF5Lg/1733022004695/live/sd-6MtM8frwThN5e2Fr7m/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=a722c44d2157597ba454a2db97d54c65&wsTime=1733000439&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=5729a1c3220a3573802ca18d4acc828e&wsTime=1733000404&keeptime=21600
 #EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/huQiZ2Oaev2IXPWGwYSZ0w/Fv2lucGIbhPi2caWYvF5Lg/1733022039426/live/hucHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/93SNrZWmyfEm6Z3voWn4tg/Fv2lucGIbhPi2caWYvF5Lg/1733022004085/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMzksInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMzAwMDQzOX0.0PmD-vHe7UUaDLkgNpAIexMTDnIniRbVHEGCtI3wj4k-/hucHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMjIwMDQsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMzAwMDQwNH0.RkVDWLmJruNbjUDNNyl_Wa4cn1X6wCbRhDvK-BGTi74-/hucHD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/db4fdd5db5c696326e645560f8eca578/1733022039426/live/hucSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/db87beb225c332213f66d78ecda51ce0/1733022004085/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/Dm5LR-sMWondNVXPTskzSA/f13af37e22c82318c65a375473fc75f2/1733022039/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/HEROO3yZYJ6KZ9DVhrvV3Q/f13af37e22c82318c65a375473fc75f2/1733022004/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:10 PEC Zwolle vs Sparta Rotterdam" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",PEC Zwolle vs Sparta Rotterdam [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/xtIioDU4a5b5u9PNOyJnSg/Fv2lucGIbhPi2caWYvF5Lg/1733007017640/live/may241/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/hK2j5gCXP7eypeRhPCBDJg/Fv2lucGIbhPi2caWYvF5Lg/1733018043162/live/may241/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:10 France (w) vs Nigeria (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",France (w) vs Nigeria (w) [Tai Lung]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -139,10 +103,6 @@ https://f1.cakeo2.info/truc-tiep/france-women-vs-nigeria-women-6sdzxy9nky-rid-fa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://f4.cakeo2.info/truc-tiep/sporting-cp-vs-santa-clara-v4z8sj4onn-rid-v4q15dax1l
-#EXTINF:0 group-title="[football] 01-12 03:30 Sporting CP vs Santa Clara" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",Sporting CP vs Santa Clara [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/e-tzmGRpmn9FqnlhemTCYQ/Fv2lucGIbhPi2caWYvF5Lg/1733022039425/live/sd-6MsGemqVhPiU1KwLu9/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 05:30 Rosario Central vs Racing Club" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Rosario Central vs Racing Club [Cá Sát Thủ]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
