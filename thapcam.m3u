@@ -1,112 +1,80 @@
 #EXTM3U
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=4840f2e69bd31f5e6feb0556174f84b9&wsTime=1732992173&keeptime=21600
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/S9xjgRU2eDXxZC7v4AVdMQ/Fv2lucGIbhPi2caWYvF5Lg/1733013773323/live/cunHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM3NzMsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMjk5MjE3M30.UVBGXj8zu0CDUNd0C7djFn47nJBYKLoOQ9lTBueR3to-/cunHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/147061a7a82ba65482ad579e540f27cf/1733013773324/live/cunSD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/6xn7g674ljT0l0bZdsz9zQ/317070d9a306b71c37e6ea9e37f2842f/1733013773/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/d7volMEh5DhebMfXIf1nGw/Fv2lucGIbhPi2caWYvF5Lg/1733013773324/live/sd-6MsGA1XRcR9HoiYEL3/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:00 AC Milan vs Empoli" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",AC Milan vs Empoli [Backup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/NNCBxrxJ2HChldjFYjHcaw/Fv2lucGIbhPi2caWYvF5Lg/1733013773324/live/hd-en-6MsGA1XRcR9HoiYEL3/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=c7db2763b5daf5c4aa1f60877dfca230&wsTime=1732991906&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=594b204e1bcb06d9cfb100cc3da40c12&wsTime=1732986147&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Hj5Nn-stzzvuc9pDLxtGVQ/Fv2lucGIbhPi2caWYvF5Lg/1733013506515/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/A7UfBRPJJlgfQ3NUiucSCQ/Fv2lucGIbhPi2caWYvF5Lg/1733007747221/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM1MDYsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjk5MTkwNn0.Jo-WA8Ypm_jS-EYjMTKGlWB2vYEupBSPm4iSet7kRqY-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMDc3NDcsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMjk4NjE0N30.E4nrAMnJnHQUt8EaS3fkvsMfv05FP4pXGX5buJFR7Bk-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7f1fef414729610cb6d781dde0b43d4f/1733013506515/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/247a662591bb5589d1203bc008e20182/1733007747222/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/XEPYtxYEK-pum15uI4Amig/955439f202db20328214344ad740cd5d/1733013506/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/t1UeJHVDFw-MjBXmk766jw/955439f202db20328214344ad740cd5d/1733007747/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:00 Al-Shabab(KSA) vs Al Hilal" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",Al-Shabab(KSA) vs Al Hilal [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Q68u8T3rU39Ct3pJkR1Bew/Fv2lucGIbhPi2caWYvF5Lg/1733013506515/live/sd-6MsGPwfqNWaTRqm3Es/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/CEvEFcDrZwET28saegafiw/Fv2lucGIbhPi2caWYvF5Lg/1733007747222/live/sd-6MsGPwfqNWaTRqm3Es/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=6369f7ed5f7ff075ae5bdd5804d9dddf&wsTime=1732992038&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=09d44894c131c0ecac2c5b425b001444&wsTime=1732987287&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/uJHcCCupTHWq6LbgWnEdAw/Fv2lucGIbhPi2caWYvF5Lg/1733013638458/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/owwWE1Txc9xuOqiiMciyog/Fv2lucGIbhPi2caWYvF5Lg/1733008887334/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM2MzgsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMyOTkyMDM4fQ.dfBgKaQGxnzbvid49PopqLvSRMM5GHCIk8k_EOpDEnM-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMDg4ODcsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMyOTg3Mjg3fQ.Wnsskxa9P89yFJFwArB5bg6wtvPHhN4BDIL8N1oTqII-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b70c3bf011f77b4b97398374e668bb68/1733013638458/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/59a881b05befac94518325736e81780b/1733008887334/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ZLo5Qy0BdsGc3A22KaJ9-Q/fc724b392eb664de8f0b54609b1e66f5/1733013638/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
-#EXTINF:0 group-title="[football] 01-12 00:20 England (w) vs USA (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",England (w) vs USA (w) [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/-TnKGf8oVr1nifq9Mb02BQ/Fv2lucGIbhPi2caWYvF5Lg/1733013638458/live/sd-6MtMdiWyE3emWNDYcs/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/MllDzr7piio8p5XRmn_BjQ/fc724b392eb664de8f0b54609b1e66f5/1733008887/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may1HD.flv?wsSecret=f6598affca42b40b475616fd7bdcc1ad&wsTime=1732992306&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may1HD.flv?wsSecret=48a4ee37689034b34591bec5729bfe36&wsTime=1732991883&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/VgOhkUy4W6I_GH5vP1Zd8g/Fv2lucGIbhPi2caWYvF5Lg/1733013906013/live/may1HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/yHytrMoqBKq1ovDWOUAfDA/Fv2lucGIbhPi2caWYvF5Lg/1733013483358/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM5MDYsInVyaSI6Ii9tYXkxSEQiLCJpYXQiOjE3MzI5OTIzMDZ9.f3v1FkKj9mtUj_rJJMPCv1ibZ6o9W00LLqFl9rfCxrA-/may1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM0ODMsInVyaSI6Ii9tYXkxSEQiLCJpYXQiOjE3MzI5OTE4ODN9.dlwba7oXmTu8Wab6MWIcxqYtu-bQeTCiWLa6J-fXPj8-/may1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/db9909863d5f968ab5ac23fada862d40/1733013906013/live/may1SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/9657c4e989b901cae493797dfd84d63c/1733013483358/live/may1SD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/rqBwOaS36xYX1rHxAI2ojQ/a75e9b78c79480f30c7ea83b12c71e42/1733013906/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/KEDSQST74FamtyzividapQ/a75e9b78c79480f30c7ea83b12c71e42/1733013483/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/37woHRV3xjX4NOHo9JfnMQ/Fv2lucGIbhPi2caWYvF5Lg/1733013906013/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/9hNE3midkwZ53AxsIgZJUQ/Fv2lucGIbhPi2caWYvF5Lg/1733013483358/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/SD34iSpKF6dMx2uV7Gmj3Q/Fv2lucGIbhPi2caWYvF5Lg/1733013906013/live/sd-6MsFQrzFz6rvBqcHMD/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/qoYlei-8iY5hqoMeB-RzZw/Fv2lucGIbhPi2caWYvF5Lg/1733013483358/live/sd-6MsFQrzFz6rvBqcHMD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/EgGFT2BzC8oLPDEfnAAY1g/Fv2lucGIbhPi2caWYvF5Lg/1733013906013/live/hd-en-6MsFQrzFz6rvBqcHMD/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/v_4J7_InRqitwYLL-g3BTQ/Fv2lucGIbhPi2caWYvF5Lg/1733013483358/live/hd-en-6MsFQrzFz6rvBqcHMD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 RCD Espanyol vs Celta Vigo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",RCD Espanyol vs Celta Vigo [Người Báo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -114,67 +82,67 @@ https://f2.cakeo2.info/truc-tiep/rcd-espanyol-vs-celta-vigo-gxp12if9le-rid-bbajd
 #EXTINF:0 group-title="[football] 01-12 00:30 RCD Espanyol vs Celta Vigo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",RCD Espanyol vs Celta Vigo [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/xVdCezm9vbAwyORcu--NTQ/Fv2lucGIbhPi2caWYvF5Lg/1733009223098/live/sd-6MsG9nTxpVvjRHxkRy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/Ats-JFr5IPa7nNF9PomiKQ/Fv2lucGIbhPi2caWYvF5Lg/1733009409946/live/sd-6MsG9nTxpVvjRHxkRy/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 RCD Espanyol vs Celta Vigo" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",RCD Espanyol vs Celta Vigo [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/rvLCbFkN0i9winm6fZl-FA/Fv2lucGIbhPi2caWYvF5Lg/1733009223098/live/hd-en-6MsG9nTxpVvjRHxkRy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/4DN5PRJq5onSCbOSyRLUCg/Fv2lucGIbhPi2caWYvF5Lg/1733009409946/live/hd-en-6MsG9nTxpVvjRHxkRy/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=6d9ad284d55de035a69727d081cd9b25&wsTime=1732991906&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=2604b481b4f9cf2ac1093685df5390ae&wsTime=1732988500&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/YvkuRllrv0oVX0uGrs0uhQ/Fv2lucGIbhPi2caWYvF5Lg/1733013506513/live/cuonHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/aZor37WzRMlNicWaaL_OUw/Fv2lucGIbhPi2caWYvF5Lg/1733010100747/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM1MDYsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI5OTE5MDZ9.wqzjQpyD-Vrbw9ZnUAy27MXg85feTaBWsxjVOaWwl9s-/cuonHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTAxMDAsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzI5ODg1MDB9.Zz8P34T1Famw8XIIKi_OPl1KFPL4BhqVGbxJYB0QLOg-/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b3937089f6f57fcd87ffad6fa1719f58/1733013506514/live/cuonSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/824a63d6266cc08adb8c27a01162c180/1733010100748/live/cuonSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/vGa6-XeUSubNFlzc0lVLmw/ecdd2fe3d570b8f38d7664bb44af6d73/1733013506/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/7C9ySwcEV7UB4N6n8qNOoA/ecdd2fe3d570b8f38d7664bb44af6d73/1733010100/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [Nhà Đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b48e1ce76b749721285ad831d1eadec6/1733013506514/live/may6/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/a208e53944f80f5d959834b1f8aa0820/1733010100748/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/KY-Cnlv9qexRbfMadFW7Xw/Fv2lucGIbhPi2caWYvF5Lg/1733013506514/live/sd-6MsGA1VEq4G9HRnuJT/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/7-6O9o1LTdCpISJNqvm5xg/Fv2lucGIbhPi2caWYvF5Lg/1733010100748/live/sd-6MsGA1VEq4G9HRnuJT/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/XOUPJYFVWyc31P5PdXO9tA/Fv2lucGIbhPi2caWYvF5Lg/1733013506514/live/hd-en-6MsGA1VEq4G9HRnuJT/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/yum4bvmFsFl_GDrTF8hknA/Fv2lucGIbhPi2caWYvF5Lg/1733010100748/live/hd-en-6MsGA1VEq4G9HRnuJT/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=82ec3076ff1e37e1962e5edd4ba08990&wsTime=1732992305&keeptime=21600
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=f079ba3e6458f4cbe9deeebe4798f939&wsTime=1732991808&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/pnIrQMKNTEvnvMw9VLStyg/Fv2lucGIbhPi2caWYvF5Lg/1733013905309/live/myHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/l1SPyRpLPMYPJfRywe6R6g/Fv2lucGIbhPi2caWYvF5Lg/1733013408051/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM5MDUsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyOTkyMzA1fQ.WqQHxMkp0yQKS1gV3e4tkciTGHaEZL3_6MyAit0ZOzg-/myHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM0MDgsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMyOTkxODA4fQ.YRKz2eBYoMS5y9inYXfpGn6bMGQv_1DPmAJms0Rnujk-/myHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/1b272e5b5233910cb55e49a2b6df2447/1733013905309/live/mySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3464cd9de991ac7a0768d1cb2c357587/1733013408051/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/5Tyy-h4Wr6rDoipgNo-Img/37c56eb4aaf958eda25bed5c53705fc2/1733013905/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/arxRbNe2KNFY4fcqQGBbag/37c56eb4aaf958eda25bed5c53705fc2/1733013408/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 West Ham vs Arsenal" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",West Ham vs Arsenal [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/vEkaTXLPeAo0kG2Hdw5d6A/Fv2lucGIbhPi2caWYvF5Lg/1733013905310/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/fSJY-0m_vyfrz-qUx2RT-Q/Fv2lucGIbhPi2caWYvF5Lg/1733013408051/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 00:30 Borussia Dortmund vs Bayern Munchen" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",Borussia Dortmund vs Bayern Munchen [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -206,31 +174,31 @@ https://live-eu-pzybaks9eeliv.thapcam.link/e82a2179cfc5d8b54fe177a48fe9bb08/1733
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=a48676a18bb30f56fcd856f2b7f661aa&wsTime=1732991515&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=23eed4ab01f8422a30f01b2cd5fa22cb&wsTime=1732990093&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/D7j7lkZN8GLd7yv_3PjLWA/Fv2lucGIbhPi2caWYvF5Lg/1733013115573/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/9385rL35lR9XK_0sKmf7VA/Fv2lucGIbhPi2caWYvF5Lg/1733011693843/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTMxMTUsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI5OTE1MTV9.4fvSkJ2y-l5JZxVjNZ3Rm0vgOtevsd4jslBUwkBC4IY-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTE2OTMsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzI5OTAwOTN9.DXrM14FW7xt5eaaasb_t5wjIRcsgp5sd3UAjB-68odQ-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/1fb9a8152a3d5b8e5e92bf895ca0eed1/1733013115573/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/0f235d8b971bcb873e70f8e838ca0a23/1733011693843/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/LIflmERQvxlTE_EKTZnqkg/6b78b4ff262c15bca3bdb372d5d5d695/1733013115/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/OG1voTjU1fDIWv43-gbUlA/6b78b4ff262c15bca3bdb372d5d5d695/1733011693/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/-wSGXc2wdM4hYTxki8ie-w/Fv2lucGIbhPi2caWYvF5Lg/1733013115574/live/sd-6MsG9SyhwMBCYRKtaw/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/m9BwRQOFWlk3IQB9l_Y_YA/Fv2lucGIbhPi2caWYvF5Lg/1733011693843/live/sd-6MsG9SyhwMBCYRKtaw/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Stade Brestois vs Strasbourg" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",Stade Brestois vs Strasbourg [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/5c7iNMVIoDNLoJVv1CCLcg/Fv2lucGIbhPi2caWYvF5Lg/1733013115574/live/hd-en-6MsG9SyhwMBCYRKtaw/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/fX-O277xxU6obRXfMgxhLA/Fv2lucGIbhPi2caWYvF5Lg/1733011693843/live/hd-en-6MsG9SyhwMBCYRKtaw/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 01:00 Nacional da Madeira vs Boavista FC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",Nacional da Madeira vs Boavista FC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -238,68 +206,76 @@ https://obevcimanyd179591709.thapcam.link/DXVDndZP8szJh_EzRU-DHg/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=486cae03fc9028797e56dc47a9e51754&wsTime=1732991216&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=78dc74c88f2c1443b425bf21b6d5456a&wsTime=1732988500&keeptime=21600
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/J0svVRyWqXzXk0zJ4ihhtA/Fv2lucGIbhPi2caWYvF5Lg/1733012816831/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/0HTQUa9t_CSIfRbbxL5cbw/Fv2lucGIbhPi2caWYvF5Lg/1733010100782/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTI4MTYsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjk5MTIxNn0.9DJPGhlD067yA28Jzz2JCXaQ55pAnpUd9NkUCP5Eb0Y-/meoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTAxMDAsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMjk4ODUwMH0.0CKi8YG6wEA3QkjowkTp9BRF-lAUiYd9QrBRTBtNFv4-/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/fc017903949cd2964ec308049fecf4a0/1733012816832/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/587de489088900a1d0e8edef3e2c560b/1733010100782/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/uwlbLJLeIZGhQ9iWSYUCUA/aa2414c41b563aa2e0f4a276a0f50172/1733012816/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/XKFfZgwW9wqWjKfVS4QzZQ/aa2414c41b563aa2e0f4a276a0f50172/1733010100/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[race] 01-12 01:00 Qatar GP: Qualifying" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",Qatar GP: Qualifying [Tiếng Anh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/y-SgJ039WzK1GvjT8ZUmBA/Fv2lucGIbhPi2caWYvF5Lg/1733012816832/live/may171/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/ae4Fjjvnnue51tfrbMpyyQ/Fv2lucGIbhPi2caWYvF5Lg/1733010100782/live/may171/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 01:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=f3b61c043da4bafecd65d49963323d1b&wsTime=1732992173&keeptime=21600
+https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=e37afafd136a3ff825ec3ed603af908f&wsTime=1732989568&keeptime=21600
 #EXTINF:0 group-title="[pool] 01-12 01:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/UlvFCm3uawBTPzlRT_KFoA/Fv2lucGIbhPi2caWYvF5Lg/1733013773500/live/caoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/UP04BHxT0QOO-XRqyruAPw/Fv2lucGIbhPi2caWYvF5Lg/1733011168354/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 01:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTM3NzMsInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczMjk5MjE3M30.wEir3P__vIOmGBHRN8OxrL4XeH3rA2y_T3kEcnOxq5s-/caoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTExNjgsInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczMjk4OTU2OH0.1KcD-NIUJ1n3WVbmBS5Iqse57jvzJE0hlSzoYWSwDkE-/caoHD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 01:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/2eaa5342d94734bb3c2d47f53c1d7d2f/1733013773500/live/caoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/a6d7a7ab21e0740ac1d64dea3cf3ed6a/1733011168355/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="[pool] 01-12 01:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/MaOdLyEhtKhH_WOrwpCldw/0027e56455a2e21d4e9af4c00853528e/1733013773/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/ShgwPrReI25jMCgN44o5-w/0027e56455a2e21d4e9af4c00853528e/1733011168/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 02:00 Feyenoord vs Fortuna Sittard" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",Feyenoord vs Fortuna Sittard [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=c619e46453e356ece83c4b7a6dcd751c&wsTime=1732991416&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phoHD.flv?wsSecret=200f5ee2f89c343b6df134b7cf842f84&wsTime=1732992843&keeptime=21600
 #EXTINF:0 group-title="[football] 01-12 02:00 Feyenoord vs Fortuna Sittard" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",Feyenoord vs Fortuna Sittard [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/mUmXwNY4CNvP1YupuhDwXA/Fv2lucGIbhPi2caWYvF5Lg/1733013016279/live/phoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/v-MuMgvw9CpDWro7sgOXKw/Fv2lucGIbhPi2caWYvF5Lg/1733014443253/live/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 02:00 Feyenoord vs Fortuna Sittard" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",Feyenoord vs Fortuna Sittard [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTMwMTYsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjk5MTQxNn0.k21VLpACzhm0zrKtKOiBdzxN75f9jzYSmqQT6Ig-oDM-/phoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMTQ0NDMsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczMjk5Mjg0M30.nWZniRv_b-ShCDRvZ-iFyI3wbZTYSms63a7RSZNmXz8-/phoHD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 02:00 Feyenoord vs Fortuna Sittard" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",Feyenoord vs Fortuna Sittard [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7c7f3aa936ea2586be34e12e7e950b15/1733013016280/live/phoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/3a6b36701eb47c678724638aac64e179/1733014443254/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 02:00 Feyenoord vs Fortuna Sittard" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",Feyenoord vs Fortuna Sittard [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/zHSbU1J5NuVDwzZjjJSR7g/4f331a41223542c17c4032aeaac138d5/1733013016/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/phUyJmHgOdfblxSW3qfrPA/4f331a41223542c17c4032aeaac138d5/1733014443/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 02:30 Darmstadt vs Preuben Munster" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",Darmstadt vs Preuben Munster [Thịt Xiên]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://f2.cakeo2.info/truc-tiep/sv-darmstadt-98-vs-preuben-munster-sykgma1sx9-rid-30cqiinl8s
+#EXTINF:0 group-title="[volleyball] 01-12 02:30 UYBA Busto Arsizio W vs Firenze W" tvg-logo="https://i.imgur.com/9O3fVna.png",UYBA Busto Arsizio W vs Firenze W [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179591709.thapcam.link/RlOJ5A1i2xcEUhWaFUrt9Q/Fv2lucGIbhPi2caWYvF5Lg/1733014815278/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[football] 01-12 03:00 PEC Zwolle vs Sparta Rotterdam" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",PEC Zwolle vs Sparta Rotterdam [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/NMJLFK95F42PZOkrhOZtQw/Fv2lucGIbhPi2caWYvF5Lg/1733013016871/live/may241/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/xtIioDU4a5b5u9PNOyJnSg/Fv2lucGIbhPi2caWYvF5Lg/1733007017640/live/may241/playlist.m3u8
