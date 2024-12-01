@@ -1,174 +1,80 @@
 #EXTM3U
-#EXTINF:0 group-title="01-12 10:00 [esports] PWE CS2 SHANGHAI MAJOR 2024" tvg-logo="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",PWE CS2 SHANGHAI MAJOR 2024 [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hoiHD.flv?wsSecret=68c9d669caa188af7d5a43dea6bf33b7&wsTime=1733044502&keeptime=21600
-#EXTINF:0 group-title="01-12 10:00 [esports] PWE CS2 SHANGHAI MAJOR 2024" tvg-logo="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",PWE CS2 SHANGHAI MAJOR 2024 [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/mUrGaaDpZ29kwMWNcMeT-w/Fv2lucGIbhPi2caWYvF5Lg/1733066102805/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="01-12 10:00 [esports] PWE CS2 SHANGHAI MAJOR 2024" tvg-logo="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",PWE CS2 SHANGHAI MAJOR 2024 [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjYxMDIsInVyaSI6Ii9ob2lIRCIsImlhdCI6MTczMzA0NDUwMn0.01kDgGGnaabUKfq9AzzTq2rk5IVpccuJnaxlzN21UbM-/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="01-12 10:00 [esports] PWE CS2 SHANGHAI MAJOR 2024" tvg-logo="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",PWE CS2 SHANGHAI MAJOR 2024 [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a772078cab50d3d8d2d4b58984018238/1733066102808/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="01-12 10:00 [esports] PWE CS2 SHANGHAI MAJOR 2024" tvg-logo="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg",PWE CS2 SHANGHAI MAJOR 2024 [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/YpkwU3vQRrCaoPvkb7WJpw/9f4a66eaa9212d11b576a17aa8c29a66/1733066102/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="01-12 10:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/dWCMfeJCNUSYnwWX3-UT8w/Fv2lucGIbhPi2caWYvF5Lg/1733066102968/live/may11/playlist.m3u8
-#EXTINF:0 group-title="01-12 10:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/YH9JqRNAmP0m11l7tazXOQ/Fv2lucGIbhPi2caWYvF5Lg/1733066102968/live/may111/playlist.m3u8
 #EXTINF:0 group-title="01-12 11:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/duoiHD.flv?wsSecret=ffed86a1bbb8451932475c3a3e167ff5&wsTime=1733047201&keeptime=21600
+https://fdcdn.livestreameuro.live/live/duoiHD.flv?wsSecret=a29f6306120e92334530ee8fd07c1840&wsTime=1733044499&keeptime=21600
 #EXTINF:0 group-title="01-12 11:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/6fGupntm7NbLY3Q28ejUSQ/Fv2lucGIbhPi2caWYvF5Lg/1733068801812/live/duoiHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/yEXhwyqb5LB8NX6K-sxlAw/Fv2lucGIbhPi2caWYvF5Lg/1733066099808/live/duoiHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 11:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjg4MDEsInVyaSI6Ii9kdW9pSEQiLCJpYXQiOjE3MzMwNDcyMDF9.H8l3SvlS2iMiEBKj4cWTbIHUXVpY5otX4lIkBqxkawY-/duoiHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjYwOTksInVyaSI6Ii9kdW9pSEQiLCJpYXQiOjE3MzMwNDQ0OTl9.WGGO2bTdG0TTmkpXBnS3axE-AkY3MFSDJazb6DQV0YM-/duoiHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 11:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/cd75ed964cd2df7cba8b9c857767d8e8/1733068801813/live/duoiSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/d936ce1142d82a4686114b98d4d1cdec/1733066099809/live/duoiSD/playlist.m3u8
 #EXTINF:0 group-title="01-12 11:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/zw5RSvkWXl2gq8FBDuZ4UA/fe6531f5755624d362691530bec11078/1733068801/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/S_eQ4kIvmVdwMbVF2qzmQw/fe6531f5755624d362691530bec11078/1733066099/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 13:30 [badminton] Syed Modi India 2024" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",Syed Modi India 2024 [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/zKI0rtiWdte0eweC_k-fnw/Fv2lucGIbhPi2caWYvF5Lg/1733068802643/live/may24/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/DC9SPV5AxiZI-Rwm_BFsTA/Fv2lucGIbhPi2caWYvF5Lg/1733066103371/live/may24/playlist.m3u8
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=a0ee8c70459b6fb645ea8737c25e3e80&wsTime=1733044681&keeptime=21600
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=e1401687f31bbe6db23d928d66c07cb0&wsTime=1733042408&keeptime=21600
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/EFxZ6S3OhQA08T24LzJBbA/Fv2lucGIbhPi2caWYvF5Lg/1733066281685/live/dungHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/XGLd3GxpEJ8ZocXh_WOB7Q/Fv2lucGIbhPi2caWYvF5Lg/1733064008312/live/dungHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjYyODEsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMwNDQ2ODF9.9Tg9I0kQIXGm00C-ZnUcq3xPIJanUXVOq2T5CfoWkWI-/dungHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjQwMDgsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMwNDI0MDh9.fYuFGtr9RCiYGfTV1b750rUgV2ziOgWwOwmEcUGw_gY-/dungHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/8a3dfb555378932e87e08fc6bf7b51d4/1733066281686/live/dungSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/2800287aef36d339de91359ac017569f/1733064008313/live/dungSD/playlist.m3u8
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/1jobt3BZZ2x6ZHXg0MxONA/09b8150fd09801bcc1dbb7e4e226d0e0/1733066281/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/9zUjLkDBKN6NfC36xRyzvw/09b8150fd09801bcc1dbb7e4e226d0e0/1733064008/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 15:35 [football] Australia (w) vs Brazil (w)" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",Australia (w) vs Brazil (w) [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/sN9J-TgDOgY763wF3ttI-w/Fv2lucGIbhPi2caWYvF5Lg/1733066281686/live/sd-6MtMdiZ9qtrJaEbr9R/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/lHAzWwq__DhGciKxDhkBXw/Fv2lucGIbhPi2caWYvF5Lg/1733064008313/live/sd-6MtMdiZ9qtrJaEbr9R/playlist.m3u8
 #EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/coHD.flv?wsSecret=ff96f5bf12b697016c7879864eaca9ae&wsTime=1733043241&keeptime=21600
+https://fdcdn.livestreameuro.live/live/coHD.flv?wsSecret=bc7382a853904ce938974b5703013f8c&wsTime=1733048103&keeptime=21600
 #EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/ubuZatVgUVWtwe9Kdhwn3A/Fv2lucGIbhPi2caWYvF5Lg/1733064841970/live/coHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/8c1FxMrWS6Va7ANkXenblA/Fv2lucGIbhPi2caWYvF5Lg/1733069703853/live/coHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjQ4NDEsInVyaSI6Ii9jb0hEIiwiaWF0IjoxNzMzMDQzMjQxfQ.hbydRPc4Wa-VbCh6qan0kH57adCpoRAjkH9ooGSBDS0-/coHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjk3MDMsInVyaSI6Ii9jb0hEIiwiaWF0IjoxNzMzMDQ4MTAzfQ.BbcZt8KyxuW6jraL8V1iBDYRJm8TUx1MSUUkq5LcczI-/coHD/playlist.m3u8
 #EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7bd60710e5579225575a1fb4e5204717/1733064841970/live/coSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/7f562f7eb13bb071e3eb8b2bd54b3b4f/1733069703854/live/coSD/playlist.m3u8
 #EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/8gKSKf_qe6iZsp97UBHN2Q/f7d74fcca7b86aaec98d69192d99ee8f/1733064841/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [Bàn 1]
+http://vb90xltcvg-secure.nsnd.live/chClDSC0IajOOWx8Ptgabw/f7d74fcca7b86aaec98d69192d99ee8f/1733069703/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
+#EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/ACXXeHTE075n9VQJtXzGvA/Fv2lucGIbhPi2caWYvF5Lg/1733064841971/live/may11/playlist.m3u8
-#EXTINF:0 group-title="01-12 16:00 [other] France vs Hong Kong" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",France vs Hong Kong [Bàn 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/3KjDVy8rkYIXRLUf7Y_h0g/Fv2lucGIbhPi2caWYvF5Lg/1733064841971/live/may111/playlist.m3u8
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cdfdbf3496e387c1d4166da2ad4fbd1a.png",01-12 17:00 [football] Ming Chuan University vs Athletic Club Taipei
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/d4ef7f97bc99eb229bbfdbaac88348b0.png",01-12 17:00 [basketball] CSKA Moscow vs SBSK BC Samara
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] Preuben Munster U19 vs Borussia Dortmund U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] Schalke 04 U19 vs MSV Duisburg U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] FSV Mainz 05 U19 vs TSV Schott Mainz U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] Bayer Leverkusen U19 vs Monchengladbach U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] SpVgg Unterhaching U19 vs TSV 1860 Munchen U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cfc96f08cc4e76de4e6ab6497f29a6bc.png",01-12 17:00 [football] Tours U19 vs Guingamp U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cfc96f08cc4e76de4e6ab6497f29a6bc.png",01-12 17:00 [football] Saint Etienne U19 vs Toulouse U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cfc96f08cc4e76de4e6ab6497f29a6bc.png",01-12 17:00 [football] Rodez Aveyron U19 vs Marseille U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cfc96f08cc4e76de4e6ab6497f29a6bc.png",01-12 17:00 [football] Avranches U19 vs Bergerac Perigord U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/ff8a839dc91fa2e215b0ac6ba924adc8.png",01-12 17:00 [basketball] BC Novosibirsk vs Dome Springs Izhevsk
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/ff8a839dc91fa2e215b0ac6ba924adc8.png",01-12 17:00 [basketball] Bars Rostov vs Dynamo Magnitogorsk
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/059af59d6226de017bfdf270a57d7427.png",01-12 17:00 [football] Migori Youth vs Dimba Patriots FC
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/a1a55076615ae3f8e494c416b0c22a40.png",01-12 17:00 [volleyball] Akad. Graz vs Hausmannstatten
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 17:00 [volleyball] Ankara Karayollari W vs Gaziantep Merinos W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 17:00 [volleyball] Elazig Bordo Spor W vs Ankaragucu W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/036e499a8ade2762fdcc7224910a451f.png",01-12 17:00 [volleyball] Reshetylivka vs Epitsentr Podoliani
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/d84a8e159bf78e753f5b4589d2f89e29.png",01-12 17:00 [volleyball] Kaunas W vs Tartu Ulikool W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/036e499a8ade2762fdcc7224910a451f.png",01-12 17:00 [volleyball] Balta W vs Dobrodiy Meduniversitet W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/036e499a8ade2762fdcc7224910a451f.png",01-12 17:00 [volleyball] Bukovynka W vs Ternopil W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/94fb67eb14949c376ff2c1bdee5d7062.png",01-12 17:00 [football] Kariobangi Sharks vs Sofapaka FC
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/555192bb3622268ce72a3ff2a3cca3ec.png",01-12 17:00 [basketball] Gomel vs Sdushor Minsk
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/d15a5be22555ed9bbbef14673046d449.png",01-12 17:00 [football] PAOK Saloniki U19 vs Kallithea U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/61412c218278d9f946c54beb7ee5cd0e.png",01-12 17:00 [football] Lostrego (W) vs Sardoma CF (w)
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] Chiangrai FC vs Phitsanulok FC
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 17:00 [football] Pattaya City vs Kabin United
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/2a4982e66418897f1f75aa1035e0811b.png",01-12 17:00 [football] Santutxu FC vs SD Balmaseda FC
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/2a4982e66418897f1f75aa1035e0811b.png",01-12 17:00 [football] CD San Ignacio B vs Urgatz
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/dcf79bee549b5e1ebc3dfa59fd595f66.png",01-12 17:00 [football] CSM Slatina U19 vs CS Mioveni U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+https://obevcimanyd179591709.thapcam.link/uJTiuzURdDR-DBR5lpX8MA/Fv2lucGIbhPi2caWYvF5Lg/1733069703854/live/may11/playlist.m3u8
 #EXTINF:0 group-title="01-12 17:00 [volleyball] Hà Tĩnh vs XSKT Vĩnh Long" tvg-logo="https://g7w1r.4shares.live/files/chuyen.png",Hà Tĩnh vs XSKT Vĩnh Long [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/pCUxy-6UYQS0z9Cpgmazuw/Fv2lucGIbhPi2caWYvF5Lg/1733068442031/live/may10/playlist.m3u8
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/e466aa356a81d9f598dfd93b3232f128.png",01-12 17:00 [football] Vojvodina U19 vs Spartak Subotica U19
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+https://obevcimanyd179591709.thapcam.link/0cVcuj1SmQi42iJum6zHoQ/Fv2lucGIbhPi2caWYvF5Lg/1733069104347/live/may10/playlist.m3u8
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",01-12 17:30 [football] Umraniyespor vs Genclerbirligi
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/a95b6eab4f99b865532f9e8876e0ab0f.png",01-12 17:30 [volleyball] NTNUI Volley W vs Oksil Women
@@ -245,8 +151,26 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/4dae5db7292c3d86eab4510a26de0209.png",01-12 18:00 [volleyball] Kemerovo vs Din. Moscow
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",Vakifbank W vs Sigorta Shop Kalecik W [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=68de519e5a1c0d308cd55000a3ea2594&wsTime=1733048109&keeptime=21600
+#EXTINF:0 group-title="01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",Vakifbank W vs Sigorta Shop Kalecik W [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/-CVOMAATlCVSUkYX1qzENw/Fv2lucGIbhPi2caWYvF5Lg/1733069709145/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",Vakifbank W vs Sigorta Shop Kalecik W [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwNjk3MDksInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczMzA0ODEwOX0.U0kkj_pkF4bDsTndTB5uB8VhiU6kbUM4-bLe_eFp-Fg-/oldHD/playlist.m3u8
+#EXTINF:0 group-title="01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",Vakifbank W vs Sigorta Shop Kalecik W [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/69bccb8d6c4036fb2e9012d64f290dea/1733069709146/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="01-12 18:00 [volleyball] Vakifbank W vs Sigorta Shop Kalecik W" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",Vakifbank W vs Sigorta Shop Kalecik W [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/Wq2zPxuZNVhLPZgF1RFPZw/e56ce8a755cda33e7f050da0b700d013/1733069709/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 18:00 [volleyball] Bolu Bld W vs Ankara PTT W
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 18:00 [volleyball] Edremit Bld. W vs Bodrum Dogus W
@@ -384,4 +308,88 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/fba3337ad73e7a267e184d91f3641de4.png",01-12 18:45 [basketball] CB Femeni Viladecans Women vs Granada Women
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/d068590f9f2624baa15b4d22024a3adc.png",01-12 18:45 [basketball] Quinta Dos Lombos Women vs Sportiva Azores Airlines Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/6800d672fb311e70b302c67bf9572fbe.png",01-12 19:00 [volleyball] Engelholm W vs IKSU W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/4b9613e7f9465ed49d2148e0c306e6bb.png",01-12 19:00 [football] Arsenal Tivat vs Jezero Plav
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/4b9613e7f9465ed49d2148e0c306e6bb.png",01-12 19:00 [football] Bokelj Kotor vs Otrant
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/4b9613e7f9465ed49d2148e0c306e6bb.png",01-12 19:00 [football] OFK Petrovac vs Mornar
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/4b9613e7f9465ed49d2148e0c306e6bb.png",01-12 19:00 [football] FK Sutjeska Niksic vs Jedinstvo Bijelo Polje
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/e2704af030ca13ea226638d8ac4cf692.png",01-12 19:00 [basketball] Club Jairis Women vs Estudiantes Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/d4ef7f97bc99eb229bbfdbaac88348b0.png",01-12 19:00 [basketball] Lokomotiv Kuban vs Unics Kazan
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 19:00 [football] Fortuna Dusseldorf U19 vs SV Meppen U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 19:00 [football] VfL Bochum U19 vs Paderborn U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] Akademija Pandev vs Rabotnicki Skopje
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] FK Rinija Gostivar vs Sileks
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] Pelister Bitola vs KF Besa Doberdoll
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] FK Shkupi vs Vlazrimi Struga
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] Voska Sport vs FK Shkendija 79
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/1aa59da643d145a3a9a94dbfa79fcbf7.png",01-12 19:00 [football] FC Vardar Skopje vs FK Tikves Kavadarci
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/cfc96f08cc4e76de4e6ab6497f29a6bc.png",01-12 19:00 [football] StrasbourgU19 vs Andreieux U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/29b1251f61244ebcf12e48a981352209.png",01-12 19:00 [football] FK Grbalj Radanovici vs FK Ibar Rozaje
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/29b1251f61244ebcf12e48a981352209.png",01-12 19:00 [football] OSK Igalo vs FK Podgorica
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/29b1251f61244ebcf12e48a981352209.png",01-12 19:00 [football] FK Rudar Pljevlja vs KOM Podgorica
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/ff8a839dc91fa2e215b0ac6ba924adc8.png",01-12 19:00 [basketball] Ugra University vs Tambov
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/18a2192531f46ea98548f2fe055ed359.png",01-12 19:00 [basketball] Moron vs Palencia Baloncesto
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/2c302fa79fa4356169cca6264d5ffef2.png",01-12 19:00 [basketball] Atyrau Leopard vs Almaty
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/025795f2104cd8233c5d5c69f7e3a2e1.png",01-12 19:00 [football] Jerash FC vs Al-Arabi(JOR)
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/31cb85f29ca79c98b4e43390f3f9ff29.png",01-12 19:00 [football] Gjilani vs Malisheva
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/31cb85f29ca79c98b4e43390f3f9ff29.png",01-12 19:00 [football] KF Dukagjini vs Prishtina
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/059af59d6226de017bfdf270a57d7427.png",01-12 19:00 [football] Mombasa Elite vs 3K FC
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/059af59d6226de017bfdf270a57d7427.png",01-12 19:00 [football] Fortune Sacco vs Kibera Black Stars
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/059af59d6226de017bfdf270a57d7427.png",01-12 19:00 [football] SS Assad vs Luanda Villa SC
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/a1a55076615ae3f8e494c416b0c22a40.png",01-12 19:00 [volleyball] Linz-Steg 2 W vs Hochst W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/a95b6eab4f99b865532f9e8876e0ab0f.png",01-12 19:00 [volleyball] ToppVolley Norge vs Forde
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/17daaa3ccabb791d0e1f28a9fbd0814a.png",01-12 19:00 [volleyball] Kama vs Tarhan
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/17daaa3ccabb791d0e1f28a9fbd0814a.png",01-12 19:00 [volleyball] Tyumen vs Magnitka-Universitet
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 19:00 [volleyball] Istanbul BB W vs Havran Bld W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/dbccd58b45de7c9a466f8f923f07962e.png",01-12 19:00 [volleyball] Zeren Spor 2 W vs Eregli Bld. W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/volleyball/competition/d84a8e159bf78e753f5b4589d2f89e29.png",01-12 19:00 [volleyball] Jelgava W vs Riga VS W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/e1062977b49f499c761a151e17348fff.png",01-12 19:00 [basketball] Bodrum Women vs Emlak Konut Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/94fb67eb14949c376ff2c1bdee5d7062.png",01-12 19:00 [football] Muranga vs Tusker
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/602c843988f06c49382cb91ec2b5d9b9.png",01-12 19:00 [football] Real Betis U19 vs Granada U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/football/competition/059af59d6226de017bfdf270a57d7427.png",01-12 19:00 [football] MOFA FC vs Kisumu All Stars
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="",01-12 19:00 [basketball] Jazine Abanasi vs HAKK Mladost
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/df0b24272af4c92408e85d810a852df0.png",01-12 19:00 [basketball] City Oilers vs Urunani
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title=" ==⏰⏰⏰== SẮP DIỄN RA ==⏰⏰⏰== "" tvg-logo="https://img.thesports.com/basketball/competition/4fc48216908bbb04c41fb753251b2476.png",01-12 19:00 [basketball] Neptunia Women vs TTT Riga Women
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
