@@ -1,44 +1,24 @@
 #EXTM3U
-#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=b5b8165cba589c78fe4bd1ee59b3b21c&wsTime=1733010302&keeptime=21600
-#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/xC65jKI6wwWiGHLZqArHbA/Fv2lucGIbhPi2caWYvF5Lg/1733031902846/live/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzE5MDIsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMzAxMDMwMn0.YO1iNO76DNCxHHx9vd-Q9DoU3woidRyF0-RsLTveBcA-/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/caa61c2c1138b0551cd5d3fa58ae629c/1733031902847/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/1KlBUW-gDsNcsbGJudR0ng/f13af37e22c82318c65a375473fc75f2/1733031902/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=46c10e512035617a025168b3e9a1f7e4&wsTime=1733011207&keeptime=21600
+https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=fd14bb55bb32d0925f0e1875b1991efa&wsTime=1733010303&keeptime=21600
 #EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/dDSlaLgtEWKvc9CrrQ3uNQ/Fv2lucGIbhPi2caWYvF5Lg/1733032807293/live/luaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/2yFO-s-k8-TrnWaiNUe1LQ/Fv2lucGIbhPi2caWYvF5Lg/1733031903042/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzI4MDcsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMzAxMTIwN30.nuBlHOHPTMUE72mf7B3KU_Be4q41b4rvth5By1ewNfM-/luaHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzE5MDMsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMzAxMDMwM30.-aDnOgFiqXYM7kky1lp2ilIs4vR2So--5lOxUMfxP9w-/luaHD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0d85a064b384ffaf515a6424ac0e46be/1733032807294/live/luaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/66b5e8dc6ac374459047d487939d5ff4/1733031903042/live/luaSD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/pluERSN4jLD-dPn_rsqzRA/74b8773ecaa9df430432c2bf2b6bd9e0/1733032807/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/nXMC7LfAaEboVdWl5bEyng/74b8773ecaa9df430432c2bf2b6bd9e0/1733031903/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -106,20 +86,40 @@ https://apisportvb90xltcbk-secure.nsnd.live/anwXnVoDNlT67aGPi6mQJg/Fv2lucGIbhPi2
 #EXTINF:0 group-title="[basketball] 01-12 08:00 Bucks vs Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bucks vs Wizards [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=0616915fb02016a6e08bd1747fb89708&wsTime=1733013904&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=a723daf3b5b32c80b0dc0ce696e25461&wsTime=1733014802&keeptime=21600
 #EXTINF:0 group-title="[basketball] 01-12 08:00 Bucks vs Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bucks vs Wizards [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/ldYn4Kygmd3AcE_EHygY0Q/Fv2lucGIbhPi2caWYvF5Lg/1733035504268/live/Z2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/gVEz02qSYpouRSsQvzg4Dw/Fv2lucGIbhPi2caWYvF5Lg/1733036402274/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 08:00 Bucks vs Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bucks vs Wizards [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzU1MDQsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMzMDEzOTA0fQ.zLvPN8inrQHhD7n3reQ-DaLOU7ONb5pWnLCrf6VGPCQ-/Z2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzY0MDIsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzMzMDE0ODAyfQ.-UKZN_qVdK0kGRmHOQcpq5Q3UV5XMFiY1AOHYGZnwd4-/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 08:00 Bucks vs Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bucks vs Wizards [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/1b9d9889337952e6534aa9c60b254af5/1733035504269/live/Z2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/42c27ec13b58d448f371f4e8004dd929/1733036402287/live/Z2SD/playlist.m3u8
 #EXTINF:0 group-title="[basketball] 01-12 08:00 Bucks vs Wizards" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bucks vs Wizards [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/-pElyXTdU0QdbiN-IHJKGA/2f5c86e8dcb258706feb1f79081dd77d/1733035504/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/K3-SzhfkRdji0rXlyo8IMg/2f5c86e8dcb258706feb1f79081dd77d/1733036402/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 08:10 CDSyC Cruz Azul vs Club Tijuana" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",CDSyC Cruz Azul vs Club Tijuana [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=fe47aad36f8086671bb28b7954705b89&wsTime=1733014504&keeptime=21600
+#EXTINF:0 group-title="[football] 01-12 08:10 CDSyC Cruz Azul vs Club Tijuana" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",CDSyC Cruz Azul vs Club Tijuana [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/9aD3DZNzJyEt_zIywUMMQw/Fv2lucGIbhPi2caWYvF5Lg/1733036104322/live/meoHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 08:10 CDSyC Cruz Azul vs Club Tijuana" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",CDSyC Cruz Azul vs Club Tijuana [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzYxMDQsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMzAxNDUwNH0.JuqqO9ILgIOIx6OiGAx-NvToZv8tQoVZszD9yK17tGQ-/meoHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 08:10 CDSyC Cruz Azul vs Club Tijuana" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",CDSyC Cruz Azul vs Club Tijuana [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/a14d29ba9e88e4323b88cd1f3486366f/1733036104322/live/meoSD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 08:10 CDSyC Cruz Azul vs Club Tijuana" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",CDSyC Cruz Azul vs Club Tijuana [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/KhJ12J_UEE4ZjpatIDuLbw/aa2414c41b563aa2e0f4a276a0f50172/1733036104/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
