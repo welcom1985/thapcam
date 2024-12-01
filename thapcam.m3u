@@ -1,1 +1,105 @@
 #EXTM3U
+#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=5ef3907074b50b95b2e26778d99822fc&wsTime=1733011203&keeptime=21600
+#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/qzG5hUCmf8qZcsXSatANCQ/Fv2lucGIbhPi2caWYvF5Lg/1733032803385/live/hucHD/playlist.m3u8
+#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzI4MDMsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczMzAxMTIwM30.62e8xQjuwrM4zJhkmxMy_tgzXaehYEZT_0wUa_44eyA-/hucHD/playlist.m3u8
+#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/f0ac1c3bbe7662b87734e03771b83c3b/1733032803386/live/hucSD/playlist.m3u8
+#EXTINF:0 group-title="[pool] 01-12 03:00 Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/g8993ECvGq-M4idGMst5aw/f13af37e22c82318c65a375473fc75f2/1733032803/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 05:30 Rosario Central vs Racing Club" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Rosario Central vs Racing Club [Cá Sát Thủ]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://f1.cakeo2.info/truc-tiep/rosario-central-vs-racing-club-de-avellaneda-pkbgyl21vb-rid-jquaxn1vdc
+#EXTINF:0 group-title="[football] 01-12 05:30 Rosario Central vs Racing Club" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Rosario Central vs Racing Club [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/gEgDl61Lf3GjyB_hDhh9hA/Fv2lucGIbhPi2caWYvF5Lg/1733031903550/live/sd-6MrARXZZfkjcVKowU7/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 05:30 Cuiaba vs Bahia" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png",Cuiaba vs Bahia [A Núi]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://f1.cakeo2.info/truc-tiep/cuiaba-vs-bahia-glzx0e6p26-rid-7o81n7pipr
+#EXTINF:0 group-title="[football] 01-12 05:30 Cuiaba vs Bahia" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png",Cuiaba vs Bahia [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/mJORZ_BvccvKfDzeXpDwag/Fv2lucGIbhPi2caWYvF5Lg/1733032803936/live/sd-6Mr7SYTn561WcnuxeX/playlist.m3u8
+#EXTINF:0 group-title="[football] 01-12 05:30 Criciuma vs Corinthians Paulista (SP)" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png",Criciuma vs Corinthians Paulista (SP) [Tai Lung]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://f1.cakeo2.info/truc-tiep/criciuma-vs-corinthians-paulista-sp-t6siw537ga-rid-kqnx0tkg2j
+#EXTINF:0 group-title="[football] 01-12 05:30 Criciuma vs Corinthians Paulista (SP)" tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png",Criciuma vs Corinthians Paulista (SP) [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/f_f_PZYIg4zoRRLB_yjalQ/Fv2lucGIbhPi2caWYvF5Lg/1733031903020/live/sd-6Mr7SYUYE4oGF3ppfV/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=46c10e512035617a025168b3e9a1f7e4&wsTime=1733011207&keeptime=21600
+#EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/dDSlaLgtEWKvc9CrrQ3uNQ/Fv2lucGIbhPi2caWYvF5Lg/1733032807293/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzI4MDcsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczMzAxMTIwN30.nuBlHOHPTMUE72mf7B3KU_Be4q41b4rvth5By1ewNfM-/luaHD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/0d85a064b384ffaf515a6424ac0e46be/1733032807294/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 06:00 Hornets vs Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Hornets vs Hawks [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/pluERSN4jLD-dPn_rsqzRA/74b8773ecaa9df430432c2bf2b6bd9e0/1733032807/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
+#EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=060aeb7484f2445362b9a627ce0be2ef&wsTime=1733008506&keeptime=21600
+#EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/ClpInkKMSZit1QYqiRATTQ/Fv2lucGIbhPi2caWYvF5Lg/1733030106696/live/chaHD/playlist.m3u8
+#EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzAxMDYsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMwMDg1MDZ9.W0fY68MK_GKcdBOOOCWyLFMXul-FGI1rGlu8BC2TPt4-/cha1HD/playlist.m3u8
+#EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/c99d1e8624b211c3fd000633025d0b57/1733030106697/live/chaSD/playlist.m3u8
+#EXTINF:0 group-title="[wwe] 01-12 06:30 Survivor War Games" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Survivor War Games [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/v-ZIpOTgMwIDo1ZuoBkODw/c30c788ad0707c1b9d75449bd5366f27/1733030106/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 07:00 Pistons vs 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Pistons vs 76ers [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=5d554670826615f5ac483e0b6ab1017e&wsTime=1733011209&keeptime=21600
+#EXTINF:0 group-title="[basketball] 01-12 07:00 Pistons vs 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Pistons vs 76ers [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/HE7I00HmI47gb6TQdup3Rg/Fv2lucGIbhPi2caWYvF5Lg/1733032809440/live/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 07:00 Pistons vs 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Pistons vs 76ers [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMwMzI4MDksInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMDExMjA5fQ.D-9sCPqDVcPjt_3F0pYkme7cCAkuHvUUgj0WOMbfD5o-/Z3HD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 07:00 Pistons vs 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Pistons vs 76ers [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/49dd706999c3e19fc118cde06669ec65/1733032809441/live/Z3SD/playlist.m3u8
+#EXTINF:0 group-title="[basketball] 01-12 07:00 Pistons vs 76ers" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Pistons vs 76ers [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/OxSdK_BGrpahShTqOS2DOw/fc724b392eb664de8f0b54609b1e66f5/1733032809/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
