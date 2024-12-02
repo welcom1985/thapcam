@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="02-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/WRaxR7T-jmBXBAJOjg0uPQ/Fv2lucGIbhPi2caWYvF5Lg/1733135158442/live/may24/playlist.m3u8
-#EXTINF:0 group-title="02-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/yVgyORxqtnxJqcl8ktnNtQ/Fv2lucGIbhPi2caWYvF5Lg/1733135158443/live/may241/playlist.m3u8
 #EXTINF:0 group-title="02-12 12:00 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -59,8 +51,6 @@ https://obevcimanyd179591709.thapcam.link/UGXr2cq1XK3AoLXZw6vG7Q/Fv2lucGIbhPi2ca
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://obevcimanyd179591709.thapcam.link/rGcrOI2jYyOtvKnOF2gECQ/Fv2lucGIbhPi2caWYvF5Lg/1733151523409/live/may241/playlist.m3u8
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2b5289281ad576946c1ce9b04415cb8d.png",02-12 16:00 [football] Laitkor SC vs Langsning SC
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4e9c38d3348a4a7a33ed282d12145c22.png",02-12 17:00 [basketball] Bucheon Keb Hanabank vs Samsunglife Blueminx
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",02-12 17:00 [basketball] Seoul Samsung Thunders vs Ulsan Mobis Phoebus
@@ -72,4 +62,6 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e8cdbf4ab34796b8c46b0635df8c715f.png",02-12 17:30 [football] Sportivo Luqueno Reserves vs Olimpia Asuncion Reserves
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e8cdbf4ab34796b8c46b0635df8c715f.png",02-12 17:30 [football] Tacuary Reserves vs Sportivo Trinidense Reserves
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",02-12 18:00 [other] Nhật Bản vs Ai Cập
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
