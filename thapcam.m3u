@@ -1,84 +1,32 @@
 #EXTM3U
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/catHD.flv?wsSecret=6a5181241f81c5ed8d585b44645c6433&wsTime=1733155565&keeptime=21600
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/pzooyXHRgO90jqbm330zLA/Fv2lucGIbhPi2caWYvF5Lg/1733177165705/live/catHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxNzcxNjUsInVyaSI6Ii9jYXRIRCIsImlhdCI6MTczMzE1NTU2NX0.MCcXljn8lzGn3SzBx-FJg4tklX0v4M1pRxXzWH_iiYs-/catHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/75dd18541905afc2a14e0def0cb8be28/1733177165705/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/1m2oK5-dlt2fwMXBvslJ3w/444a075c42c2d0e744c4509423415468/1733177165/live/_definst_/stream_1_1bda7@catFHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Terek Grozny vs Dynamo Moscow" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",Terek Grozny vs Dynamo Moscow [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/GuuPi__M_dfGH4RBySz5tQ/Fv2lucGIbhPi2caWYvF5Lg/1733177165706/live/sd-6MsG9SuGMm56FiAixT/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=fe2277834473552227856658ff6fe905&wsTime=1733159705&keeptime=21600
+https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=d3298dd5e579ed317051ce41854db1bd&wsTime=1733156959&keeptime=21600
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/UdBbmaKEpWBMsXP3TBNqqQ/Fv2lucGIbhPi2caWYvF5Lg/1733181305746/live/daHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/GpC8ZagJuNWqOqsNsNkoIA/Fv2lucGIbhPi2caWYvF5Lg/1733178559186/live/daHD/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODEzMDUsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMzMTU5NzA1fQ.0wg0UnejKBmIcxS3H8INY4NRHf-7wySOPu_uyJPDMvY-/daHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxNzg1NTksInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMzMTU2OTU5fQ.5Mb5FcmQ1IHiBpC0eSzDln40g7_Tva3ooAZ_hi2YbrY-/daHD/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/4bc6604188573d6a73e0891c50133ed1/1733181305747/live/daSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/f5e4a2477bd2eeed2270afa418d0d05c/1733178559187/live/daSD/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/SZbiieTWSdMdag9y9gNLaA/216a439451ab4126df1eead1ba49bd50/1733181305/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/Y2pfGLupyQIsYdJ_GTem0g/216a439451ab4126df1eead1ba49bd50/1733178559/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/RUDUJyR8rmrkGRcS8hCfOg/Fv2lucGIbhPi2caWYvF5Lg/1733181305747/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/tSYlYJr9-nEOh7nUAWXxIQ/Fv2lucGIbhPi2caWYvF5Lg/1733178559187/live/may10/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:00 [football] Al Ahli vs Esteghlal Tehran" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Ahli vs Esteghlal Tehran [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Z4JuCy2F9Cpp9ZYSoJHZCQ/Fv2lucGIbhPi2caWYvF5Lg/1733181305747/live/sd-6MsCw6PwJxZoG6qNfD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=44aa2fdc4a4ef0f6c850a03a7d1c4a40&wsTime=1733155565&keeptime=21600
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/T5HA2aDUu2gsQWSpjqqwzw/Fv2lucGIbhPi2caWYvF5Lg/1733177165704/live/hawHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxNzcxNjUsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMzE1NTU2NX0.IjQgLS-9lW5DRiKPfyU74qCPP3v8VCzaazwHJOoHsYw-/hawHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/9905f3b3fca7c181c9d8dcb9b5c04936/1733177165704/live/hawSD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/M0VDnfUWfsDsUcMRHGacUg/955439f202db20328214344ad740cd5d/1733177165/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [Nhà Đài]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/ajbh_ASiK-C1MU_ENp5mvA/Fv2lucGIbhPi2caWYvF5Lg/1733177165704/live/may251/playlist.m3u8
-#EXTINF:0 group-title="02-12 23:00 [football] Al-Wasl vs Al Rayyan" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al-Wasl vs Al Rayyan [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/6-hfBMaaPrAEh6SUgmp1Rw/Fv2lucGIbhPi2caWYvF5Lg/1733177165704/live/sd-6MsCw6PwJTzYws6TfZ/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/GjIxsgifHPoA9EKcY5xSLA/Fv2lucGIbhPi2caWYvF5Lg/1733178559187/live/sd-6MsCw6PwJxZoG6qNfD/playlist.m3u8
 #EXTINF:0 group-title="02-12 23:30 [volleyball] Chemik Police W vs Budowlani Lodz W" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",Chemik Police W vs Budowlani Lodz W [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -86,115 +34,119 @@ https://obevcimanyd179591709.thapcam.link/-6PUB_ZYUwBDgVAvBzKNzw/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=b5fda0d610b072c13d96390033d59e60&wsTime=1733160199&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=18c6867f167bac89b99a4dae68c10290&wsTime=1733158846&keeptime=21600
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/PZiAglxYpUzbRlu_PBu7oQ/Fv2lucGIbhPi2caWYvF5Lg/1733181799304/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/gGUdvrtN6jfgpNCV57d-NQ/Fv2lucGIbhPi2caWYvF5Lg/1733180446615/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODE3OTksInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzMxNjAxOTl9.Ns4hzs3nLYggpDDhoJFy03WL5orhK8op9I0qBonyJys-/meo1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODA0NDYsInVyaSI6Ii9tZW8xSEQiLCJpYXQiOjE3MzMxNTg4NDZ9.TRgdMxMgQXBrlW0-whf68HrrCpp1E_gk82WZSLTi1rI-/meo1HD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/c69ad16595c26b5363451ac3698eae69/1733181799304/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/c03f410695ff4a1a423a5874b772be72/1733180446615/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/HQ9ZqovHWhdXOvlo-lrNTw/aa2414c41b563aa2e0f4a276a0f50172/1733181799/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/A_8cmmFOdKJALASjKppVuQ/aa2414c41b563aa2e0f4a276a0f50172/1733180446/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Fenerbahce vs Gazisehir Gaziantep" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Fenerbahce vs Gazisehir Gaziantep [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/imxAchbZAlT9LlqvA0q6cA/Fv2lucGIbhPi2caWYvF5Lg/1733181799304/live/sd-6MsGeP5UkC56tL7J3u/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/AWRspPMt29WIJiDEE2tT9A/Fv2lucGIbhPi2caWYvF5Lg/1733180446615/live/sd-6MsGeP5UkC56tL7J3u/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=3746b5a06b62986737ef83d1053455de&wsTime=1733157594&keeptime=21600
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=0f0668ba487b04a13fde76742167a007&wsTime=1733159710&keeptime=21600
 #EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/AHDBnMhzqFEJEPCmIWCz4w/Fv2lucGIbhPi2caWYvF5Lg/1733179194968/live/satHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/Ip2_CVhEfIfPC39wim7_Ww/Fv2lucGIbhPi2caWYvF5Lg/1733181310168/live/satHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxNzkxOTQsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzMxNTc1OTR9.4jU0rkrZCfQpR2fYI7NXYYwy0lzhk_Y7jWjGVIAourI-/sat1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODEzMTAsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzMxNTk3MTB9.tFstriRpLWGpJaJUwJTzWZxjgf76DkpeDyWkq0hRWL8-/sat1HD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/4ed78917feabee41597b809d5ea34dea/1733179194969/live/satSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e03062107da1000f7d6b99de15513a42/1733181310169/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ljUPHlzt200zOFsIe5o4GQ/6b78b4ff262c15bca3bdb372d5d5d695/1733179194/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/F32v3v4nrM8C51FvglWqTA/6b78b4ff262c15bca3bdb372d5d5d695/1733181310/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 00:00 [football] Hatayspor vs Besiktas JK" tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png",Hatayspor vs Besiktas JK [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/-qbjI4xINw1tsrxoEs2yUQ/Fv2lucGIbhPi2caWYvF5Lg/1733181310169/live/sd-6MsGeP5UkRFz7D4nyH/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=43d9e034de48cb00929ffbb942eb3edb&wsTime=1733161506&keeptime=21600
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=48af836f51304e6aa6b401c5f893b1d1&wsTime=1733162041&keeptime=21600
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Ycgf7QRtLartG9tqF5kPFg/Fv2lucGIbhPi2caWYvF5Lg/1733183106322/live/myHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/huiz0VnxLFxMDc_O9APlPg/Fv2lucGIbhPi2caWYvF5Lg/1733183641942/live/myHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODMxMDYsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMzMTYxNTA2fQ.wkcEKu7lrCTRRSqOPyPGYHfU_DfKu7udhSgcRVKZzgc-/myHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODM2NDEsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMzMTYyMDQxfQ.LUZfhuaEdo25wdMw_p1efaQqhIFwamCdWdOGsLUrkng-/myHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/9d14ec232cbd3b68ed41dda25676ddd2/1733183106323/live/mySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/11e586022d3733ed29799ab9d8719ae3/1733183641943/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ycXSo5VD5TuXlonr7Nl2YQ/37c56eb4aaf958eda25bed5c53705fc2/1733183106/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/ENc4U5bnqVrr8xCgQV2QSA/37c56eb4aaf958eda25bed5c53705fc2/1733183641/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/NEaY90SYIm0aYNQiOXtyrQ/Fv2lucGIbhPi2caWYvF5Lg/1733183106323/live/may25/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/iF0Rdnf4faPZFaWcwBwZhA/Fv2lucGIbhPi2caWYvF5Lg/1733183641943/live/may25/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=f26f3bb4ee922dfad7fbccd221c5ebeb&wsTime=1733160199&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cuonHD.flv?wsSecret=996a754c68439f285439119ed5e9e31c&wsTime=1733162408&keeptime=21600
 #EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Ub7BrWrEa1uwsPzQsio0PA/Fv2lucGIbhPi2caWYvF5Lg/1733181799425/live/cuonHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/RhnpMRXD_e28BnylbS8bdA/Fv2lucGIbhPi2caWYvF5Lg/1733184008121/live/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODE3OTksInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzMxNjAxOTl9.ljycEIWjBtqJji5n7KTSd5ZqSwgC03f9fiptCJhp9pg-/cuonHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODQwMDgsInVyaSI6Ii9jdW9uSEQiLCJpYXQiOjE3MzMxNjI0MDh9.ESTRaAvONx_wzuk2tjPCsq5M5TiuzTi8K2GBnaMAbsA-/cuonHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/2a398ce26d07cf6365d3d5c207c35da1/1733181799426/live/cuonSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/e4fd72be7536abd612b577fc812ceb7c/1733184008122/live/cuonSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/Igpo0il54h7OAvKq6BE0Lw/ecdd2fe3d570b8f38d7664bb44af6d73/1733181799/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/999lcFhS1IAIIE-Qwnc8_Q/ecdd2fe3d570b8f38d7664bb44af6d73/1733184008/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/wn5Iq2YTi7Ikj5aUbCTi4w/Fv2lucGIbhPi2caWYvF5Lg/1733182808334/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/E8rCBKa4ln75-lnlnptkJw/Fv2lucGIbhPi2caWYvF5Lg/1733184008862/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODI4MDgsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMTYxMjA4fQ.inVuczIKPZZh-XZrcldkPh9itGThyFopRGoan6uaQ6k-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxODQwMDgsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMTYyNDA4fQ.Fdv5uvfFtcSkrD7-LxYkJToVs6exnLIcAXZ7llCTBNQ-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/318e2f26c9c8568619ef8e46a59d4a5c/1733182808334/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/f7538e3300f727f445cda3952ecc82af/1733184008863/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/CjuALxsyln5TbPpmp0r21Q/fc724b392eb664de8f0b54609b1e66f5/1733182808/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/NLLEhxWFUEfohGbBe1mhlg/fc724b392eb664de8f0b54609b1e66f5/1733184008/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=586aa299ec4ab117364708a6a0a9805c&wsTime=1733161208&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=758f22992f29e5da5112c73966d6fd0f&wsTime=1733162408&keeptime=21600
 #EXTINF:0 group-title="03-12 01:00 [football] Al Nassr vs Al-Sadd" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Al Nassr vs Al-Sadd [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/DrvrS0M1HIDhCjQhlDEnSQ/Fv2lucGIbhPi2caWYvF5Lg/1733182808334/live/may25/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/n0BRKtZMqd2KdcyFFDu3zA/Fv2lucGIbhPi2caWYvF5Lg/1733184008863/live/may25/playlist.m3u8
 #EXTINF:0 group-title="03-12 02:30 [volleyball] Norwid Czestochowa vs Gdansk" tvg-logo="https://i.imgur.com/hZNRca8.png",Norwid Czestochowa vs Gdansk [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -203,17 +155,9 @@ https://obevcimanyd179591709.thapcam.link/yDfnu2t6m_xl5xpxs2tNyw/Fv2lucGIbhPi2ca
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png",03-12 01:00 [football] FC Copenhagen vs Nordsjaelland
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c8aec9af38715be9511296ce641db800.png",03-12 01:00 [basketball] KK Zadar vs Mega Leks
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/b47db299db6b55a0232167c417127457.png",03-12 01:00 [basketball] Hogsbo Basket vs KFUM Nassjo
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/ebea1474d2089c38bb9c363d1ed1a95f.png",03-12 01:00 [football] Perolas Negras vs Sao Goncalo
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/94dae2d86af6a0fe1888113358f4453d.png",03-12 01:00 [basketball] Vojvodina women vs Proleter Women
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/25f2a99711bbad4f4a60ddb86090bcdb.png",03-12 01:00 [basketball] Akadimia Proasteion vs  Areopolis
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/25f2a99711bbad4f4a60ddb86090bcdb.png",03-12 01:00 [basketball] Ajian Anagiron vs Eskd Neas Ionias
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/9d03e27c9ca2da103df20d1f411a955f.png",03-12 01:00 [basketball] ONYX Levice vs MBK Lucenec
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
@@ -258,4 +202,16 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/25f2a99711bbad4f4a60ddb86090bcdb.png",03-12 02:30 [basketball] Aok Halandri vs Ionikos Neas Filadelfias
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/25f2a99711bbad4f4a60ddb86090bcdb.png",03-12 02:30 [basketball] AO Thrakomakedonon vs Eskd Neas Ionias
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",03-12 02:45 [football] AS Roma vs Atalanta
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/91291eb0f175fd4f57438eb0b7fba0d9.png",03-12 02:45 [football] Biggleswade FC vs Stotfold FC
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/91291eb0f175fd4f57438eb0b7fba0d9.png",03-12 02:45 [football] Melksham Town vs Helston Athletic
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f2b36b8b850a67def7a696fdf7f2651e.png",03-12 02:45 [basketball] KB Borea Peja vs Kerasan Prishtina
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 02:45 [basketball] Libertos Pesaro U19 vs Fiorentina Academy U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 02:45 [basketball] Novipiu Campus Piemonte U19 vs Don Bosco Crocetta Torino U19
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
