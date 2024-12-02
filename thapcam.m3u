@@ -1,80 +1,68 @@
 #EXTM3U
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/baoHD.flv?wsSecret=d16a5f5b76f707b8b3f80b324715e98f&wsTime=1733178602&keeptime=21600
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/YbReSTrylVKgrOJdw8ySHQ/Fv2lucGIbhPi2caWYvF5Lg/1733200202451/live/baoHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMDAyMDIsInVyaSI6Ii9iYW9IRCIsImlhdCI6MTczMzE3ODYwMn0.wqGtAF9ICblGkyxEAk1nFLuN-M8guFnZhBf30rlnV9U-/baoHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/5b29c3c53b0dc68c5e2eceac23598da0/1733200202452/live/baoSD/playlist.m3u8
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/IUzigi8oNXU043UMzvY8FA/c5d626322a01e0920b2c18ca97d94054/1733200202/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 01:00 [pool] Mosconi Cup" tvg-logo="https://g7w1r.4shares.live/files/bia.png",Mosconi Cup [Nhà Đài]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/Njf0SPBeUdxaY5KWjlmh-A/Fv2lucGIbhPi2caWYvF5Lg/1733200202452/live/may11/playlist.m3u8
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=176f40333961785c9a3a7973cd80cb34&wsTime=1733178602&keeptime=21600
+https://fdcdn.livestreameuro.live/live/hawHD.flv?wsSecret=3e40ca153dc8614eaedc7c93bdec6da5&wsTime=1733172303&keeptime=21600
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/3DmuyZRdiEkpMuSV3OYebA/Fv2lucGIbhPi2caWYvF5Lg/1733200202815/live/hawHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/5ys1qvekeiQSZ2bPNtjIzg/Fv2lucGIbhPi2caWYvF5Lg/1733193903048/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMDAyMDIsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMzE3ODYwMn0.nshNvayL2tyrVwTCVI5LGcKYBpXxe1Hu8aznUm8lFKk-/hawHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxOTM5MDMsInVyaSI6Ii9oYXdIRCIsImlhdCI6MTczMzE3MjMwM30.zzUubxqPbVRrZhMRefy_FTidohRBRvhoP7RwMBSc42M-/hawHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/1eba37bcaab7a17a3675273ad81b6863/1733200202830/live/hawSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/5d18b6edd0d41272928ef49cc64d038e/1733193903048/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/IqOhUrxcTBErKdlkWH-beA/955439f202db20328214344ad740cd5d/1733200202/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/UGWpoFRdmL1rtR4fgeff8A/955439f202db20328214344ad740cd5d/1733193903/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 03:45 [football] FC Porto vs Casa Pia AC" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",FC Porto vs Casa Pia AC [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/7uSWOW6Nhzys3toDLYtSGw/Fv2lucGIbhPi2caWYvF5Lg/1733200202830/live/sd-6MsGeP417GGRCX3iXm/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/BEPQh5DpH3_Ix9F4luVp4g/Fv2lucGIbhPi2caWYvF5Lg/1733193903049/live/sd-6MsGeP417GGRCX3iXm/playlist.m3u8
 #EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=3155fa948be0d4304119818a1db6aaf3&wsTime=1733178603&keeptime=21600
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=d059d7cac1dec76a6c5eed9f15c4882f&wsTime=1733177341&keeptime=21600
 #EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/W6Wdj7z22MaLOX8BolXQiw/Fv2lucGIbhPi2caWYvF5Lg/1733200203725/live/trauHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/Xr9YRfEjZiOk4ZxK_esrPw/Fv2lucGIbhPi2caWYvF5Lg/1733198941726/live/trauHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMDAyMDMsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzMxNzg2MDN9.WQi6-ZGkHpeo385RQyUAXXg77EFDBlKOd4anpUlpDhc-/trauHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMxOTg5NDEsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzMxNzczNDF9.rGm-NJGzFaA31wtvCbubw8O-ASdVy9Thn5xOjjpJqNI-/trauHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/edfcbebf8e7efcca8837597611dcd499/1733200203726/live/trauSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/501fe39d4bd5d71df4506d859aa8e97b/1733198941726/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/KBHuPs0D4uEEpBgcfNB-Dg/847878fb5be3ca4c0539d0883bc5274a/1733200203/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 05:15 [football] CA Platense vs Union Santa Fe" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",CA Platense vs Union Santa Fe [Backup 1]
+http://vb90xltcvg-secure.nsnd.live/hicrh_hYT_4FT13VQ1vUtQ/847878fb5be3ca4c0539d0883bc5274a/1733198941/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 05:45 [football] Talleres Cordoba vs CA Huracan" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Talleres Cordoba vs CA Huracan [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/H-H7BLrx57-mZIbKZL7pBw/Fv2lucGIbhPi2caWYvF5Lg/1733200203726/live/sd-6MrARXZZfnw6Modrd1/playlist.m3u8
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d38e66211769263634b5d7c1c2f6d7bd.png",03-12 05:30 [football] Nacional De Football (w) vs Torque (W)
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
-#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",03-12 05:45 [football] Talleres Cordoba vs CA Huracan
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=056606cc5d5ba461ed96c7292c7ecee2&wsTime=1733178961&keeptime=21600
+#EXTINF:0 group-title="03-12 05:45 [football] Talleres Cordoba vs CA Huracan" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Talleres Cordoba vs CA Huracan [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/ln7n0tdpflqYqSjNNtZOKA/Fv2lucGIbhPi2caWYvF5Lg/1733200561601/live/meoHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 05:45 [football] Talleres Cordoba vs CA Huracan" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Talleres Cordoba vs CA Huracan [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMDA1NjEsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMzE3ODk2MX0.bFYDDOPlO1lhk72xc2wnTeCX-5EXvOCiK9ReiKXT018-/meoHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 05:45 [football] Talleres Cordoba vs CA Huracan" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Talleres Cordoba vs CA Huracan [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/e150b1a25e829ebdd872471049b727a4/1733200561601/live/meoSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 05:45 [football] Talleres Cordoba vs CA Huracan" tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png",Talleres Cordoba vs CA Huracan [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/R8aTnD9gGWlRRlrBRggVFw/aa2414c41b563aa2e0f4a276a0f50172/1733200561/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/256fdba825e49caa66d37e8e34ca5072.png",03-12 06:00 [basketball] Botafogo vs Pitagoras Minas
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/256fdba825e49caa66d37e8e34ca5072.png",03-12 06:00 [basketball] Mogi das Cruzes vs E.c. Pinheiros Sao Paolo
