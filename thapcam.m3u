@@ -1,80 +1,60 @@
 #EXTM3U
-#EXTINF:0 group-title="03-12 08:00 [basketball] Bulls vs Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bulls vs Nets [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hoiHD.flv?wsSecret=ab3f08040ea5b19d0e0b32884fb60ade&wsTime=1733188507&keeptime=21600
-#EXTINF:0 group-title="03-12 08:00 [basketball] Bulls vs Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bulls vs Nets [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/XjHCy-UaJ0kRlVfmgrOgyA/Fv2lucGIbhPi2caWYvF5Lg/1733210107575/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [basketball] Bulls vs Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bulls vs Nets [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMTAxMDcsInVyaSI6Ii9ob2lIRCIsImlhdCI6MTczMzE4ODUwN30.mZL4YMLd9a1bgrbtXVGCDf-YF-9HYGYX6x1QE2C3xTA-/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [basketball] Bulls vs Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bulls vs Nets [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/d0fc390a8914a6879516ab08c42f83da/1733210107575/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [basketball] Bulls vs Nets" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",Bulls vs Nets [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/MPTfiluPHrWsEuAUjNjXcg/9f4a66eaa9212d11b576a17aa8c29a66/1733210107/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=71686e1d424522540852fab0bcf784c7&wsTime=1733189403&keeptime=21600
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/UD6gxrGDWeQdEOwRZqbnqA/Fv2lucGIbhPi2caWYvF5Lg/1733211003760/live/chaHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMTEwMDMsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMxODk0MDN9.Sf_66zCrGG-gIZlEnWuDaZoMDYpuuKr8Nb3wn4hlHuU-/cha1HD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/28c519193b49c9e75732f51232ef715e/1733211003760/live/chaSD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/1-W3rNebNq5HcRwVvLLu4Q/c30c788ad0707c1b9d75449bd5366f27/1733211003/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
-#EXTINF:0 group-title="03-12 08:00 [wwe] Raw" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",Raw [Nhà đài]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/fgvzhInL3OvDR5B5vWMTsQ/Fv2lucGIbhPi2caWYvF5Lg/1733211003760/live/may6/playlist.m3u8
 #EXTINF:0 group-title="03-12 08:15 [other] Denver Broncos vs Cleveland Browns" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",Denver Broncos vs Cleveland Browns [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/dkiOu9YcxAXgzRX6xaVt6g/Fv2lucGIbhPi2caWYvF5Lg/1733209761361/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/M3vn-j-PZB3VIE9nF5Ry-A/Fv2lucGIbhPi2caWYvF5Lg/1733218202180/live/may10/playlist.m3u8
 #EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=2f69d91a0738da5b422eee7e5a88e1f9&wsTime=1733187304&keeptime=21600
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=d90eb05bb97765f89c085d4cb9230aaf&wsTime=1733196602&keeptime=21600
 #EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/o-IMW4Wfz7xHl7RYB_mcEg/Fv2lucGIbhPi2caWYvF5Lg/1733208904258/live/dungHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/HDNv6E3Cb4uKUmXFO-iMBw/Fv2lucGIbhPi2caWYvF5Lg/1733218202434/live/dungHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMDg5MDQsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMxODczMDR9.wZ7L8nukar-Jc0UsXCvoCt1dSeLr68lU4uIe3t_iFyM-/dungHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMTgyMDIsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMxOTY2MDJ9.mSlhU1Z2J6MoE95fFKg-9Z6nfz6kqDmCmZsZ8yIXtD0-/dungHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/8d3ade6e9c990ff24ee01c8d883aa7d6/1733208904258/live/dungSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/bbbbdf21e07ffabd14af87ae6d9c1f73/1733218202435/live/dungSD/playlist.m3u8
 #EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/3Uw_P30dkquNIUkkBRByJg/09b8150fd09801bcc1dbb7e4e226d0e0/1733208904/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/EOPoIOtH4fSryRE8SV5bWw/09b8150fd09801bcc1dbb7e4e226d0e0/1733218202/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 08:30 [football] Atletico Nacional Medellin vs Millonarios" tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",Atletico Nacional Medellin vs Millonarios [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/_KX04PNT0DQe4bdV2Rf0pw/Fv2lucGIbhPi2caWYvF5Lg/1733218202435/live/sd-6MtMdNzTtQodK2bK63/playlist.m3u8
+#EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=1d20adfb38cf7553a9b22c295e757f8d&wsTime=1733196603&keeptime=21600
+#EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/B9VkJ_1YnwWSU5DUYGq6jw/Fv2lucGIbhPi2caWYvF5Lg/1733218203012/live/longHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMTgyMDMsInVyaSI6Ii9sb25nSEQiLCJpYXQiOjE3MzMxOTY2MDN9.EAUhj92spxC6uMeQDvoAaWPVTkQXpFLjV3QuCy6Ps8w-/longHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/8acf42373a0dff9a4c6c5e32afef1237/1733218203013/live/longSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/bilBpDZCrThkW-KWQM7LLw/3eccd6392218a7eb1e58eb18b5b4757c/1733218203/live/_definst_/stream_1_1bda7@longFHD/playlist.m3u8
 #EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/mjf52a7ONNE2Dd3J9zGtwA/Fv2lucGIbhPi2caWYvF5Lg/1733214604411/live/may20/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/MEsr3tZLzRB8kblWK6fk7A/Fv2lucGIbhPi2caWYvF5Lg/1733218203014/live/may20/playlist.m3u8
 #EXTINF:0 group-title="03-12 09:00 [other] ITTF Mixed Team World Cup 2024" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",ITTF Mixed Team World Cup 2024 [Bàn 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/_iQvzg7cwGnRk2L5iUIZig/Fv2lucGIbhPi2caWYvF5Lg/1733214604411/live/may201/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/VszA5e9d9WuXv6b80F0q9Q/Fv2lucGIbhPi2caWYvF5Lg/1733218203014/live/may201/playlist.m3u8
 #EXTINF:0 group-title="03-12 10:00 [esports] BIG vs Complexity" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Fblog%2F1%2F17%2F1731705889689_1731705889692.webp&w=1920&q=75",BIG vs Complexity [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -100,4 +80,8 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 12:00 [esports] Kespa Cup 2024
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
 #EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/72df8431a6fe57c649a94e4fbca1b1c5.jfif",03-12 12:00 [basketball] Chung Yuan Christian University vs Chien Hsin University
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/89dc5f9be04e4087c6796d21db03be8c.png",03-12 12:30 [football] Soccer Saga vs JMJ Sports Club
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e1c04914bb93225895169e5955fa186f.png",03-12 12:30 [basketball] Kwansei Gakuin University vs international Pacific University
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
