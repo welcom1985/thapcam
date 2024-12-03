@@ -1,141 +1,203 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [HD Nhanh]
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=263491a327c83d02f1659e99680cb152&wsTime=1733217268&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [HD1]
+https://fdcdn.livestreameuro.live/live/satHD.flv?wsSecret=b25407b48ad7a0da22ad757af6a06240&wsTime=1733217581&keeptime=21600
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/Rkb46_bxES2pWFn9Crx4cA/Fv2lucGIbhPi2caWYvF5Lg/1733238868353/live/satHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [HD2]
+https://obevcimanyd179569584.thapcam.link/B5Y65KQJ9tzujLgZBPVNBA/Fv2lucGIbhPi2caWYvF5Lg/1733239181795/live/satHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzg4NjgsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzMyMTcyNjh9.4Lj0RqqMXgYWyvVI4gjhtGjvdvgAT_-e6ukVO2lfRrc-/sat1HD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkxODEsInVyaSI6Ii9zYXQxSEQiLCJpYXQiOjE3MzMyMTc1ODF9.8YVvY0dwObpih9fTBforH8xnkE0LAfAiIsoCHiUFKrU-/sat1HD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/802eb8f0d71f4938e22984a88f5e7476/1733238868354/live/satSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/7afcf509807697d5cd51957ad919d3ef/1733239181796/live/satSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ElF3dByZEKHJP0kmfbXS6A/6b78b4ff262c15bca3bdb372d5d5d695/1733238868/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [Nhà đài]
+http://vb90xltcvg-secure.nsnd.live/FUYZVD5-e8sFlZdX1jd5lg/6b78b4ff262c15bca3bdb372d5d5d695/1733239181/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/FZL4LI1Zwyp_CaHILvUFPw/Fv2lucGIbhPi2caWYvF5Lg/1733238868354/live/may6/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [Backup 1]
+https://obevcimanyd179591709.thapcam.link/GY2Yf3LCT6wb03n57hr8Uw/Fv2lucGIbhPi2caWYvF5Lg/1733239181796/live/may6/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/O-ZCVLikpnqMgLEgpuQtdQ/Fv2lucGIbhPi2caWYvF5Lg/1733238868354/live/sd-6MsCw32Jh1Mi2t6WLK/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos [Backup 2]
+https://apisportvb90xltcbk-secure.nsnd.live/2aVbA59iIWHh6znVn_j4SQ/Fv2lucGIbhPi2caWYvF5Lg/1733239181796/live/sd-6MsCw32Jh1Mi2t6WLK/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:00 [football] Central Coast Mariners vs Yokohama Marinos" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Central Coast Mariners vs Yokohama Marinos [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/WNSTUSlqdLJzx93P5AmcGg/Fv2lucGIbhPi2caWYvF5Lg/1733238868354/live/hd-en-6MsCw32Jh1Mi2t6WLK/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 15:45 [esports] Kespa Cup 2024 [HD Nhanh]
+https://apisportvb90xltcbk-secure.nsnd.live/lRdCUvldk72bOBQ-kNZAkQ/Fv2lucGIbhPi2caWYvF5Lg/1733239181796/live/hd-en-6MsCw32Jh1Mi2t6WLK/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:45 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hoiHD.flv?wsSecret=2969e653d2fe1462146cb20a9af1f9a3&wsTime=1733216239&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 15:45 [esports] Kespa Cup 2024 [HD1]
+https://fdcdn.livestreameuro.live/live/hoiHD.flv?wsSecret=0a89c5c3687f51c6f59bb2903fde0b0b&wsTime=1733217641&keeptime=21600
+#EXTINF:0 group-title="03-12 15:45 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/9C5MqZHiAnCYl6fe90WFcg/Fv2lucGIbhPi2caWYvF5Lg/1733237839380/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 15:45 [esports] Kespa Cup 2024 [HD2]
+https://obevcimanyd179569584.thapcam.link/My10SqETytl68Lwfz6AxTA/Fv2lucGIbhPi2caWYvF5Lg/1733239241830/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:45 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzc4MzksInVyaSI6Ii9ob2lIRCIsImlhdCI6MTczMzIxNjIzOX0.9mO_wfmpNHeCmdGYRgBsyDOSj8cGhargaIBdtHIxCdc-/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 15:45 [esports] Kespa Cup 2024 [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkyNDEsInVyaSI6Ii9ob2lIRCIsImlhdCI6MTczMzIxNzY0MX0.zfKpsqNAm0uBoOc5uvSjdT7YskkBRlOIrfFqMOeqrlQ-/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:45 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/16ec9d20bdafa2d7cccfb2acbba72faf/1733237839380/live/hoiSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",03-12 15:45 [esports] Kespa Cup 2024 [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/7f6e225b1ad15732767c9a8254ec44af/1733239241831/live/hoiSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 15:45 [esports] Kespa Cup 2024" tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png",Kespa Cup 2024 [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/_jq3QjZVrLebucV9jS4T0w/9f4a66eaa9212d11b576a17aa8c29a66/1733237839/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors [HD Nhanh]
+http://vb90xltcvg-secure.nsnd.live/p5dpSk2jnqaZkHZYkQTlgw/9f4a66eaa9212d11b576a17aa8c29a66/1733239241/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",Blackwater Bossing vs NLEX Road Warriors [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=9acb2214fdc4dcbfba0084db83a8d58a&wsTime=1733215942&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors [HD1]
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=dd0be101d041ef21bb53f1c4c669a1f9&wsTime=1733217581&keeptime=21600
+#EXTINF:0 group-title="03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",Blackwater Bossing vs NLEX Road Warriors [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/fHqwH8ma70tWNyq4v_HeqA/Fv2lucGIbhPi2caWYvF5Lg/1733237542559/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors [HD2]
+https://obevcimanyd179569584.thapcam.link/8_WCPYWMas0AHJRv6YTdnw/Fv2lucGIbhPi2caWYvF5Lg/1733239181797/live/phepHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",Blackwater Bossing vs NLEX Road Warriors [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzc1NDIsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzMyMTU5NDJ9.CchmAUnyd5QLFHT7mYOd8u4E_0DVEYDeyVtDlDbU__A-/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkxODEsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzMyMTc1ODF9.N5HKgVwgz1wcZbSj8ludecAfQni9trqmnZNJF6rWI0E-/phepHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",Blackwater Bossing vs NLEX Road Warriors [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/052df316a5d41ff66060b1637007bd69/1733237542559/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/852f486e7054882be4082950ceb076cf/1733239181798/live/phepSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 16:00 [basketball] Blackwater Bossing vs NLEX Road Warriors" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",Blackwater Bossing vs NLEX Road Warriors [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/geYRuXqSi48KkwhyHXxkSw/bb30dc1883f5f92057cd67eec640c4d0/1733237542/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Fblog%2F1%2F17%2F1731705889689_1731705889692.webp&w=1920&q=75",03-12 16:00 [esports] Wildcard vs Passion UA [HD]
+http://vb90xltcvg-secure.nsnd.live/Y_dgGZkW94f1jAE_mxCp2A/bb30dc1883f5f92057cd67eec640c4d0/1733239181/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 16:00 [esports] Wildcard vs Passion UA" tvg-logo="https://egamersworld.com/_next/image?url=https%3A%2F%2Fegamersworld.com%2Fuploads%2Fblog%2F1%2F17%2F1731705889689_1731705889692.webp&w=1920&q=75",Wildcard vs Passion UA [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/m0SV5b2hpzC8z3hmdKkf_Q/Fv2lucGIbhPi2caWYvF5Lg/1733237344209/live/may24/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [HD Nhanh]
+https://obevcimanyd179591709.thapcam.link/uz2gxNJQ8xfRxXyX9zkbfg/Fv2lucGIbhPi2caWYvF5Lg/1733239181805/live/may24/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=908c3c3c5f17d9f4735f8a9fd7a29765&wsTime=1733217511&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [HD1]
+https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=37df3ca1eb0d7c4c2c56c51930069472&wsTime=1733218208&keeptime=21600
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/LUao0NVChIbOtvY0ix6H5A/Fv2lucGIbhPi2caWYvF5Lg/1733239111860/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [HD2]
+https://obevcimanyd179569584.thapcam.link/aApJnyovqqOSGFj_c0UKzg/Fv2lucGIbhPi2caWYvF5Lg/1733239808659/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkxMTEsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMyMTc1MTF9.oStnTmHBernGsv8POS8v5vRfZssUxjNduej5ljBkMFU-/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzk4MDgsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3MzMyMTgyMDh9.TTvHsgo3mJKDEzv4gvFHylGOh9_9bGWKBLxZRtREkQ8-/dungHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/0d0598f263e2da01bd9728148bb76a54/1733239111860/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/167693e6ad5473ae054eedaef66f65c4/1733239808659/live/dungSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/IiH4LgYquH9yFXGFiM4TNg/09b8150fd09801bcc1dbb7e4e226d0e0/1733239111/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",03-12 17:00 [football] Pohang Steelers vs Vissel Kobe [Nhà đài]
+http://vb90xltcvg-secure.nsnd.live/CY5zWH_lVIw-mpB7K9i6MQ/09b8150fd09801bcc1dbb7e4e226d0e0/1733239808/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [football] Pohang Steelers vs Vissel Kobe" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",Pohang Steelers vs Vissel Kobe [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/AUbgJMgI7vZ7H0eYbo-4Bw/Fv2lucGIbhPi2caWYvF5Lg/1733239111860/live/may6/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers [HD Nhanh]
+https://obevcimanyd179591709.thapcam.link/WQ_nnmVp8aYr27bZDpswpQ/Fv2lucGIbhPi2caWYvF5Lg/1733239808659/live/may6/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",KAL Jumbos vs Hyundai Skywalkers [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=d61a34b34927d8788c11a7ba2aa7648c&wsTime=1733217526&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers [HD1]
+https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=8cb358cf4b9f3d7574ca7cdc9290c486&wsTime=1733216411&keeptime=21600
+#EXTINF:0 group-title="03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",KAL Jumbos vs Hyundai Skywalkers [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/flkWpZ1i_Bs_hG3TrGmxQg/Fv2lucGIbhPi2caWYvF5Lg/1733239126517/live/momHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers [HD2]
+https://obevcimanyd179569584.thapcam.link/nGOPYsk41TjMSQpQn-tCzw/Fv2lucGIbhPi2caWYvF5Lg/1733238011848/live/momHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",KAL Jumbos vs Hyundai Skywalkers [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkxMjYsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczMzIxNzUyNn0.35UWhdzqH37BZessgLbLQxPwW3Wpl_4ebBCVSrSaJyU-/momHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzgwMTEsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczMzIxNjQxMX0.vZabyxvE7PkUNVb3ln6wkrBSW6b9BNuUQ0YqBV-S6es-/momHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",KAL Jumbos vs Hyundai Skywalkers [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/2f8cb27cd11ba8ba27b0c1f2324286b2/1733239126517/live/momSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/a8fd1f5f686225d497c5e6aded525402/1733238011848/live/momSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] KAL Jumbos vs Hyundai Skywalkers" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png",KAL Jumbos vs Hyundai Skywalkers [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ir1qRLsso4eNBFmTj6yusg/8ea4ad32686fd43bf1bf1c1424d75942/1733239126/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/cBFT7r9.png",03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W [HD Nhanh]
+http://vb90xltcvg-secure.nsnd.live/uUMTQtL_yIzOqkxxgooxYw/8ea4ad32686fd43bf1bf1c1424d75942/1733238011/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W" tvg-logo="https://i.imgur.com/cBFT7r9.png",Hyundai E&C Hillstate W vs GS Caltex W [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=204955cf4e0f8afb56b173f6bc1cb668&wsTime=1733217526&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/cBFT7r9.png",03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W [HD1]
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=c19ff50024e92c92414c02bf8209d8e5&wsTime=1733216681&keeptime=21600
+#EXTINF:0 group-title="03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W" tvg-logo="https://i.imgur.com/cBFT7r9.png",Hyundai E&C Hillstate W vs GS Caltex W [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/dC5VGiUj3lO9p7VQrxRdUg/Fv2lucGIbhPi2caWYvF5Lg/1733239126998/live/chaHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/cBFT7r9.png",03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W [HD2]
+https://obevcimanyd179569584.thapcam.link/bbegc1aRFNI1ftrHApUV_Q/Fv2lucGIbhPi2caWYvF5Lg/1733238281558/live/chaHD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W" tvg-logo="https://i.imgur.com/cBFT7r9.png",Hyundai E&C Hillstate W vs GS Caltex W [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzkxMjYsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMyMTc1MjZ9.V1hq768rizT61tYvYHno4A2t-Fyg83C20WdhUoGNX6M-/cha1HD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/cBFT7r9.png",03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W [SD]
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyMzgyODEsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMyMTY2ODF9.Jyiya5TAYH9YDIANHv4xGeXUzofRijDH9pl_qDQQUuo-/cha1HD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W" tvg-logo="https://i.imgur.com/cBFT7r9.png",Hyundai E&C Hillstate W vs GS Caltex W [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b5e6078cfa2a8fdc713b4c117d9eb2fc/1733239126999/live/chaSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/cBFT7r9.png",03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W [FullHD]
+https://live-eu-pzybaks9eeliv.thapcam.link/91f9a113fd4616889d4647d72fd0beb8/1733238281559/live/chaSD/playlist.m3u8
+#EXTINF:0 group-title="03-12 17:00 [volleyball] Hyundai E&C Hillstate W vs GS Caltex W" tvg-logo="https://i.imgur.com/cBFT7r9.png",Hyundai E&C Hillstate W vs GS Caltex W [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/9A9myEFd0ebcPyIoknJ01Q/c30c788ad0707c1b9d75449bd5366f27/1733239126/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/nVX80MKgt4-7_eTgOMyANQ/c30c788ad0707c1b9d75449bd5366f27/1733238281/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",03-12 17:00 [basketball] Daegu KOGAS Pegasus vs Goyang Sono Skygunners
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 17:00 [football] Gamo Chencha vs Debre Birhan Ketema
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d79b1e1c6ea6de6fc63c74d66142e35c.png",03-12 17:00 [football] Beitar Nes Tubruk U19 vs Maccabi Petach Tikva U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/7e590fb46afbf83e0d6622d369d5a40e.png",03-12 17:10 [basketball] Darkhan United vs BCH Knights
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 18:00 [football] SV Elversberg U19 vs FC Heidenheim U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png",03-12 18:00 [football] Belgium (w) U19 vs Spain (w)  U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png",03-12 18:00 [football] Northern Ireland (w) U19 vs Iceland (w)  U19
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a9d9726d17514f81abb93899ef407f3a.png",03-12 18:00 [football] Qaradag Lokbatan vs Sabail FC
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",03-12 18:00 [football] North Macedonia (w) vs Montenegro (w)
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png",03-12 18:00 [football] Ivory Coast (w) U20 vs Morocco (w)U20
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 18:00 [football] Axum Ketema vs Dessie Ketema
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/6f75d9d68441f5a4d6c4098eb61f894b.png",03-12 18:00 [football] KF Rahoveci vs KF Drita Gjilan
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/72df8431a6fe57c649a94e4fbca1b1c5.jfif",03-12 18:00 [basketball] I-Shou University vs Chinese Taipei Sport University
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Shandong Hi-Speed Women vs GuangDong Xintongsheng Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Beijing Ducks Women vs Xinjiang Tianshan Women's
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Inner Mongolia Women vs Hebei Win Power Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] SiChuan JinQiang Women's vs ShangHai BaoShan Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] ZheJiang Chouzhou Bank Women vs Jiang Su Niushoushan Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Heilongjiang DaQing Nongshang Bank Women vs Wuhan Sheng Fan Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Tianjin Women's vs Shanxi TianZe Woman's
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] Hefei Culture and Tourism Women’s vs Ganzhou Ganxing (W)
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/c4eee5afa67814f29edb4385163ef80f.png",03-12 18:30 [basketball] HeNan Yaoxin Women vs Liaoning Hengye Women
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/0d99e6bc70130424e230f43376bcdc3c.png",03-12 18:30 [volleyball] Beijing W vs Tianjin W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/0d99e6bc70130424e230f43376bcdc3c.png",03-12 18:30 [volleyball] Liaoning W vs Fujian W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/0d99e6bc70130424e230f43376bcdc3c.png",03-12 18:30 [volleyball] Jiangsu ECE W vs Shanghai W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/0d99e6bc70130424e230f43376bcdc3c.png",03-12 18:30 [volleyball] Shandong W vs Shenzhen W
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/48c51e36173aeb2cefec9f2eaa21c8aa.png",03-12 18:30 [basketball] TED Ankara Kolejliler vs Harem Spor
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",03-12 18:30 [basketball] San Miguel Beermen vs Phoenix Fuel Masters
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 18:30 [football] Hong Kong FC U22 vs Southern District U22
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="",03-12 18:30 [football] Alsinaat Alkahrabaiya vs Al Fahad
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
+#EXTINF:0 group-title="[SẮP DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/b02a5a651e5931bda125357b65448cf4.png",03-12 18:30 [basketball] Basketbol Brno vs Bristol Academy Flyers
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=uxg7ugvo&dl=0
