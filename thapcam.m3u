@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=0fcb9f9c45015f9f24361ca47a4bed29&wsTime=1733242503&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/betQc7GKUee9tEL-PbFsLQ/Fv2lucGIbhPi2caWYvF5Lg/1733264103027/live/daHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjQxMDMsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMzMjQyNTAzfQ.lSO1wfDTEz1PfxGU1chF1hKi_o1aQFy2Z29zcje3fco-/daHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/6bc741080d60769ab480d5dc3402968e/1733264103027/live/daSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/pYmU8v1Hblzeng0H57rhJw/216a439451ab4126df1eead1ba49bd50/1733264103/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",03-12 22:30 [football] CSKA Sofia vs Spartak Varna [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/lqljrAE2INjGKSxxFbGOqQ/Fv2lucGIbhPi2caWYvF5Lg/1733264103027/live/sd-6MsFQXMsm3m3nKyQVy/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",03-12 23:45 [football] Czech (w) vs Portugal (w) [Người Nện]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -30,79 +6,127 @@ https://n.cakeo36.info/truc-tiep/czech-w-vs-portugal-women-9iuaus2kcf-rid-nrwbpz
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",03-12 23:45 [football] Czech (w) vs Portugal (w) [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/Av03O5htM-jJFwNk1qd0kA/Fv2lucGIbhPi2caWYvF5Lg/1733266033252/live/sd-6MtMdP1C2yXDFTasto/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/qYi9kwQRi_BM_rdmZwBgGw/Fv2lucGIbhPi2caWYvF5Lg/1733265987206/live/sd-6MtMdP1C2yXDFTasto/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=e625608727c26a5d77bcade7ed2af944&wsTime=1733245290&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=8c96f998fcfc392977b708f891833545&wsTime=1733245750&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/yeJNI9hr8GeDZ_hzXu_QfA/Fv2lucGIbhPi2caWYvF5Lg/1733266890332/live/chaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/FVlejHRg4HOUxoULeGDFFA/Fv2lucGIbhPi2caWYvF5Lg/1733267350134/live/chaHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjY4OTAsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMyNDUyOTB9.GNQVeCZzHP1d7-4_feRWUWl4TiVX-7a3WFjJJpGbZN4-/cha1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjczNTAsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMyNDU3NTB9.IlA8tx0Rk3U_AUtTEJFL8YVcoc74XhlDGIH6HPuZmr0-/cha1HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ad21f0c07003a8ea52f7ee8f43de0ac0/1733266890334/live/chaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/2b93098e621b17a8afc9e3aae86cf5cf/1733267350135/live/chaSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/tplOdeg3IJtQAnvf9r_4FQ/c30c788ad0707c1b9d75449bd5366f27/1733266890/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/DsFcEIpVgXnpEZ0onFyESQ/c30c788ad0707c1b9d75449bd5366f27/1733267350/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Arminia Bielefeld vs SC Freiburg [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/vtzWqMsP0Kn8VbH00GiDjg/Fv2lucGIbhPi2caWYvF5Lg/1733266890334/live/sd-6MtLtnx69iBZxgN2YB/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/Q0SNEV-8U4xULdb6XxVdsw/Fv2lucGIbhPi2caWYvF5Lg/1733267350135/live/sd-6MtLtnx69iBZxgN2YB/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=318b53792652f06d94cf5979bb53bee6&wsTime=1733246103&keeptime=21600
+https://fdcdn.livestreameuro.live/live/meoHD.flv?wsSecret=d60e877a004e8bf54d2f0e6e37d2084c&wsTime=1733245627&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/iOB58le0-aUKLapzsc47zA/Fv2lucGIbhPi2caWYvF5Lg/1733267703255/live/meoHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/6SMIQeoQJ4KfLCZRyGM9fg/Fv2lucGIbhPi2caWYvF5Lg/1733267227011/live/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjc3MDMsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMzI0NjEwM30.XFzhbcar-GtzmiCxvYcKdqspKimjCuEpxGxOHI_RoZk-/meoHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjcyMjcsInVyaSI6Ii9tZW9IRCIsImlhdCI6MTczMzI0NTYyN30.Jzlsy0xmQYv50YFCRp3iQk4wrU2S_-EWdQwpBW6dE18-/meoHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/08ea023c7e5f6d4b82ff64ba6972756a/1733267703256/live/meoSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/b8e8aff0b6063fa3177db9a51aa5c7e0/1733267227012/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/S-3Aj60FU_vG8sMMzqoA5A/aa2414c41b563aa2e0f4a276a0f50172/1733267703/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/V3UqaAGP0Dhu87m8WR-01w/aa2414c41b563aa2e0f4a276a0f50172/1733267227/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",04-12 00:00 [football] Jahn Regensburg vs VfB Stuttgart [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/jo3BWR05qlpEPxtmy6h1nA/Fv2lucGIbhPi2caWYvF5Lg/1733267703256/live/sd-6MtLtnx69pn1a7qmzs/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/iN-LYnfLtow3T5uvSNRlGg/Fv2lucGIbhPi2caWYvF5Lg/1733267227012/live/sd-6MtLtnx69pn1a7qmzs/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",04-12 00:00 [volleyball] Projekt Warszawa vs BR Volleys [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/15BS3TxeDUJy_etIVcvSeA/Fv2lucGIbhPi2caWYvF5Lg/1733267706304/live/may10/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/esfCSlyM4mWx_EmSWi3pAQ/Fv2lucGIbhPi2caWYvF5Lg/1733267042940/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=0ab91a21c8af72b4d0b94ff809b9ec84&wsTime=1733245206&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=ef8536a574116a146897200ff35071fe&wsTime=1733246183&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/9nkBva9WRBnUkbfjk3FJjA/Fv2lucGIbhPi2caWYvF5Lg/1733266806657/live/cunHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/tL34OS0KxF7ay4A8N1cbQA/Fv2lucGIbhPi2caWYvF5Lg/1733267783281/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjY4MDYsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMzI0NTIwNn0.H1c9L6mGvBwU_ymGLLouF4bitsj5kZN56Y_ZhHLE5dA-/cunHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjc3ODMsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMzI0NjE4M30.e06yifdawuPaOTwAKu2ozplIBT5TASpXsDGgUwkVuvQ-/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/f19d5c8d013d11bc17f7174225ea322b/1733266806657/live/cunSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/cfe6454e66cfe9e2d11bfb63b388ffd0/1733267783282/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/855xZoODF1h1zmWqNM0NMw/317070d9a306b71c37e6ea9e37f2842f/1733266806/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/cuf5o1YqINNQVuTt2WieWA/317070d9a306b71c37e6ea9e37f2842f/1733267783/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png",04-12 00:15 [football] Austria (w) vs Poland (w) [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/W89HSCbI23Yq1UOWXUOPkA/Fv2lucGIbhPi2caWYvF5Lg/1733267783282/live/sd-6MtMdP1CCpz9YCP9mu/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",04-12 00:30 [basketball] Anadolu Efes Sports Club vs Bayern Munchen [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=d64fb5f3b4d7b86d53d7d8a79abf5807&wsTime=1733246739&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",04-12 00:30 [basketball] Anadolu Efes Sports Club vs Bayern Munchen [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/43YxbHYTDGuSVff5pdymbQ/Fv2lucGIbhPi2caWYvF5Lg/1733268339668/live/caoHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",04-12 00:30 [basketball] Anadolu Efes Sports Club vs Bayern Munchen [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjgzMzksInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczMzI0NjczOX0.rkgplplIwIBCLGZm6GmX7uvZtrkZdlcRw2thVV59zEQ-/caoHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",04-12 00:30 [basketball] Anadolu Efes Sports Club vs Bayern Munchen [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/4f02e06f198a5abd15a5da775c16daed/1733268339668/live/caoSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",04-12 00:30 [basketball] Anadolu Efes Sports Club vs Bayern Munchen [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/geCOVYNSYZJGL7coYYZRJg/0027e56455a2e21d4e9af4c00853528e/1733268339/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=f60b8f4ea4ff3cb076dd26e2fb70dd50&wsTime=1733247007&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/PN-6Mn4UgT3nuO9tnNpbvg/Fv2lucGIbhPi2caWYvF5Lg/1733268607478/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyNjg2MDcsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzMyNDcwMDd9.NQ0hJcDIKZYBIDGbopKCFTz8u5kf9hnT58wZ77NRTsQ-/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/616ad1433793d3935a9fbc96b400ed91/1733268607478/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/PRWXg9qySUvx4k7nG-g1JA/847878fb5be3ca4c0539d0883bc5274a/1733268607/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png",04-12 00:30 [football] Bologna vs Monza [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/2_lkHkBVtbi2fQolvfJohQ/Fv2lucGIbhPi2caWYvF5Lg/1733268607478/live/sd-6MtLQ2ejP6YkdF6mfR/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",04-12 00:30 [volleyball] Giesen vs Monza [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
