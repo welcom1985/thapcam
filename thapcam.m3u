@@ -1,92 +1,60 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=54ce52800162e91489d210864c0041ef&wsTime=1733326836&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/_yMr5-ObpfZ2fYvHZdqDBA/Fv2lucGIbhPi2caWYvF5Lg/1733348436646/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNDg0MzYsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzMzMzI2ODM2fQ.swLTHSjlQfB82ye7nP_40RBRvTDKUNBisBBaBSnm0_k-/myHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/b694088887b9834c6ea9bbcf2f504a54/1733348436646/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/NVmektNcaNq8Mtql9p9MIQ/37c56eb4aaf958eda25bed5c53705fc2/1733348436/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",04-12 22:30 [football] Levski Sofia vs Lokomotiv Plovdiv [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/VIR0hNSxa1r2jk9MGfnxww/Fv2lucGIbhPi2caWYvF5Lg/1733348436646/live/sd-6MsFQXMsm5xXeooKes/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=02fe25d13e0418eb40ed2f2e67d94a75&wsTime=1733331603&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=af2f7f6cd34ed4b5b098487e9140519b&wsTime=1733325524&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/1saePrpF_IA1HRoUUcQAZg/Fv2lucGIbhPi2caWYvF5Lg/1733353203021/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/2SvfgOHwC-r3sQT9yjZ_XA/Fv2lucGIbhPi2caWYvF5Lg/1733347124680/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNTMyMDMsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMzMxNjAzfQ.aZbumrV082b6N9nEEX5lIG_3Rr1a-AHNqUzCzadIdgk-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNDcxMjQsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMzI1NTI0fQ.hzEOUujpiauOZ-_Y9sZn1UKQfF9aQhv13EktXbSWqqE-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/cad99afcd5e1ad5c984816a427126829/1733353203021/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/ab8c928c41ef6631acc1d3b035574f24/1733347124681/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/4Y1Ypj_ytE_pZW0gURBmhA/fc724b392eb664de8f0b54609b1e66f5/1733353203/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/uposGQXIj3-wIR0oJWdNFw/fc724b392eb664de8f0b54609b1e66f5/1733347124/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/lcDDUKI7JrwPWylMXAlJtw/Fv2lucGIbhPi2caWYvF5Lg/1733353203022/live/may11/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/elOA5I5dm1bk81qy0tRztw/Fv2lucGIbhPi2caWYvF5Lg/1733353203022/live/sd-6MsCw32J2AUAw8JA7M/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al-Wakra vs Ravshan Kulob [Backup 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/tZJ1Zah3FaGlI5BPq-zqvQ/Fv2lucGIbhPi2caWYvF5Lg/1733353203022/live/hd-en-6MsCw32J2AUAw8JA7M/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/1nTzAnaLX_4itUipLNiaUw/Fv2lucGIbhPi2caWYvF5Lg/1733347124681/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=15dff7267a54ffca0a899614366dea4d&wsTime=1733332505&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=a3f9513d216ca2e227cb2d676a661ceb&wsTime=1733331603&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/jL4hzONra9RMILN2l_dd2g/Fv2lucGIbhPi2caWYvF5Lg/1733354105436/live/chaHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/kW8kzm3AzLHv3WrbLgf91A/Fv2lucGIbhPi2caWYvF5Lg/1733353203573/live/chaHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNTQxMDUsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMzMzI1MDV9.IsDWTLT7CrzkB7wUFCFQ4oBJz16z0DYMhLJMFHZYi_k-/cha1HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNTMyMDMsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzMzMzE2MDN9.4KbaWxyKYnRRtbFPbzICboS-xOHautTYMA37pqRHW1Y-/cha1HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/7e407ea9a4f257bcaf05885b2cc2f6f0/1733354105437/live/chaSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/1cc8c8bd16aa052628810e4e9861e4ce/1733353203574/live/chaSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/UR7v-WSG8IozWtQ4M4jFUA/c30c788ad0707c1b9d75449bd5366f27/1733354105/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/jFvBsPpwjz3L4UVs1AG1aQ/c30c788ad0707c1b9d75449bd5366f27/1733353203/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/kCkREw8E_f-JoJAbyJ49EA/Fv2lucGIbhPi2caWYvF5Lg/1733354105437/live/may6/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/87T1iVVAeqhUtZQuKt1zIA/Fv2lucGIbhPi2caWYvF5Lg/1733353203575/live/may6/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/mgOEG0CmaOyEo_BFrpcf9g/Fv2lucGIbhPi2caWYvF5Lg/1733354105437/live/sd-6MsCw34XUpWW7Ub3j1/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/Egrf5k5rHt-WBHVrkd1Qkw/Fv2lucGIbhPi2caWYvF5Lg/1733353203575/live/sd-6MsCw34XUpWW7Ub3j1/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Ahli(UAE) vs Nasaf Qarshi [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/VlvNSFWPErvmJAp7_TZy4w/Fv2lucGIbhPi2caWYvF5Lg/1733354105437/live/hd-en-6MsCw34XUpWW7Ub3j1/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/2PbWnC6L4buhj5YHUGR5zw/Fv2lucGIbhPi2caWYvF5Lg/1733353203575/live/hd-en-6MsCw34XUpWW7Ub3j1/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png",04-12 23:00 [football] Al Kuwait SC vs Al Hussein Irbid [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -122,51 +90,51 @@ https://apisportvb90xltcbk-secure.nsnd.live/K3l68Zm5DulBU1F0ZMMPhg/Fv2lucGIbhPi2
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] FC Koln vs Hertha Berlin [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=9b123b2aa1b8b1be7665ef8a0010b53b&wsTime=1733330107&keeptime=21600
+https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=b5073c4b9313d94980450034560184fa&wsTime=1733330253&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] FC Koln vs Hertha Berlin [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/b0Jacj5x9UDg47LbjRzFmw/Fv2lucGIbhPi2caWYvF5Lg/1733351707989/live/daHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/6J3nDWqDVZwgPP8aaiae3g/Fv2lucGIbhPi2caWYvF5Lg/1733351853274/live/daHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] FC Koln vs Hertha Berlin [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNTE3MDcsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMzMzMwMTA3fQ.fnoN4fUXBMWG2SPwIB7fw-KP-HIvVzNIADhY9mVEqH4-/daHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNTE4NTMsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzMzMzMwMjUzfQ.3BeWOx0moMWq9C6QSNnJDfF5UBUakZ5UcfkmOwl0atQ-/daHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] FC Koln vs Hertha Berlin [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/48b61aa7d058c393495967f4b9b92934/1733351707989/live/daSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/f3e8521e2ee9a988e09e60425998e022/1733351853275/live/daSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] FC Koln vs Hertha Berlin [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/319JJS5yxQcY2PDNLgwp8w/216a439451ab4126df1eead1ba49bd50/1733351707/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/X2WhR9ECQfMz_pG25tah2Q/216a439451ab4126df1eead1ba49bd50/1733351853/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] VfL Wolfsburg vs TSG Hoffenheim [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=ccddd41aa86fd43a4570d6636027fb92&wsTime=1733327707&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may2HD.flv?wsSecret=af6ccdd2f2e5c4767b1c3d93454f0b53&wsTime=1733328230&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] VfL Wolfsburg vs TSG Hoffenheim [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/4zoUwOM9kCBGBuXNUiKxmw/Fv2lucGIbhPi2caWYvF5Lg/1733349307675/live/may2HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/RX4k4ZS2QracwxhNgb-W5g/Fv2lucGIbhPi2caWYvF5Lg/1733349830390/live/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] VfL Wolfsburg vs TSG Hoffenheim [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNDkzMDcsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzMzMjc3MDd9.KgtwundfyYAIWplihB5lNAPoENHW9w-qvPow8PBuW78-/may2HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzNDk4MzAsInVyaSI6Ii9tYXkySEQiLCJpYXQiOjE3MzMzMjgyMzB9.GTlczA1tF0i7h8YiVnPO6qicLpir_Fb3afJq9cKU6-Q-/may2HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] VfL Wolfsburg vs TSG Hoffenheim [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/34273dbdfff691a2ee165907c7c01b09/1733349307675/live/may2SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/205eee95c86420197ff74b20207d9bb4/1733349830391/live/may2SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/1cded13e781ed1f7c2514a3413506960.png",05-12 00:00 [football] VfL Wolfsburg vs TSG Hoffenheim [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/JUufkfvKLX0MZQvMJw7TRw/d5b200387e6a5a1b18e0bf7cbe2d7615/1733349307/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/L2Zc87R_iHd-gYrzh2FCIw/d5b200387e6a5a1b18e0bf7cbe2d7615/1733349830/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",05-12 00:00 [volleyball] Ceske Budejovice vs St. Nazaire [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/OKoesJ5EfiYmWawWfZHc6w/Fv2lucGIbhPi2caWYvF5Lg/1733351413467/live/may24/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/GdNgtKHW78c6GSJBdNRVIg/Fv2lucGIbhPi2caWYvF5Lg/1733351367197/live/may24/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",05-12 00:00 [volleyball] ACH Ljubljana vs Maaseik [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/jrU6idVr1edrqibd9-TjGg/Fv2lucGIbhPi2caWYvF5Lg/1733351414177/live/may26/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/cwZMX7upyGQr8mQWKpO4Gw/Fv2lucGIbhPi2caWYvF5Lg/1733351383004/live/may26/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",05-12 00:00 [volleyball] Tirol Innsbruck vs Roeselare [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
