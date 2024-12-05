@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",05-12 15:00 [pool] World Cup carom 3 băng [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/baoHD.flv?wsSecret=abb7113c677f6c9379d4d22bc669efcd&wsTime=1733395670&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",05-12 15:00 [pool] World Cup carom 3 băng [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/U1OOz6zTF2Cxj7F0CFtiOA/Fv2lucGIbhPi2caWYvF5Lg/1733417270447/live/baoHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",05-12 15:00 [pool] World Cup carom 3 băng [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0MTcyNzAsInVyaSI6Ii9iYW9IRCIsImlhdCI6MTczMzM5NTY3MH0.M3S-M49IWG5QmQDWjni8BmM5LOF9iKh7lMwOPPHyxT8-/baoHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",05-12 15:00 [pool] World Cup carom 3 băng [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/e1570ccf32e584ca9c28e5ee418884a1/1733417270447/live/baoSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",05-12 15:00 [pool] World Cup carom 3 băng [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/75gF8PUka7QJPvEZur3vaA/c5d626322a01e0920b2c18ca97d94054/1733417270/live/_definst_/stream_1_1bda7@baoFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",05-12 22:10 [football] Dhamk vs Al-Feiha [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -59,34 +39,58 @@ https://live-eu-pzybaks9eeliv.thapcam.link/fdd6171d845c5b596c0629ca6448aac1/1733
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://vb90xltcvg-secure.nsnd.live/P76fYTVS1i5r_o-jstJbAw/37c56eb4aaf958eda25bed5c53705fc2/1733431506/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 05/12",05/12 19h00 [AFC Champions League 2] Lion City Sailors vs Port FC
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",05-12 22:30 [football] Botev Plovdiv vs FK Levski Krumovgrad [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/Z1HD.flv?wsSecret=268e31041fa475c7e360fd0f25365816&wsTime=1733411707&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",05-12 22:30 [football] Botev Plovdiv vs FK Levski Krumovgrad [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/gEJ0xwtgB6q12kmZIeGUVg/Fv2lucGIbhPi2caWYvF5Lg/1733433307849/live/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",05-12 22:30 [football] Botev Plovdiv vs FK Levski Krumovgrad [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0MzMzMDcsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzMzNDExNzA3fQ.Gi6MasfJ687vpxOktYMVPKOw2S2h5mrp-LTn6v_9CNQ-/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",05-12 22:30 [football] Botev Plovdiv vs FK Levski Krumovgrad [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/f320f942bd73f4be15ed428d3708a90d/1733433307850/live/Z1SD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",05-12 22:30 [football] Botev Plovdiv vs FK Levski Krumovgrad [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/iEjySHrmFD4sPfHajU-anA/bf44ba621235a4936d4c6ae6054d551e/1733433307/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png",05-12 23:00 [football] Ceahlaul Piatra Neamt vs CFR Cluj [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=7d2a2b59472bcaaa4f7947f9ad5d6ace&wsTime=1733411704&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png",05-12 23:00 [football] Ceahlaul Piatra Neamt vs CFR Cluj [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.thapcam.link/UiPwK07BmpPuMNiyuRDMfw/Fv2lucGIbhPi2caWYvF5Lg/1733433304233/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png",05-12 23:00 [football] Ceahlaul Piatra Neamt vs CFR Cluj [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM0MzMzMDQsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczMzQxMTcwNH0.r76NNOY3Km26OUg1jjzB8981wXcl5mIemlwGgQbVjUA-/cunHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png",05-12 23:00 [football] Ceahlaul Piatra Neamt vs CFR Cluj [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.thapcam.link/856c38d0afa7440a419c32288d4d13a3/1733433304234/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png",05-12 23:00 [football] Ceahlaul Piatra Neamt vs CFR Cluj [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/Fde_jCxJfFDVIxDKDzXtbg/317070d9a306b71c37e6ea9e37f2842f/1733433304/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Ngày 05/12",05/12 21h00 [Jordan Premier League] AL-Sareeh vs Al-Ahly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=OzFkfUU&t=1733400000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 05/12",05/12 20h00 [Bulgarian First League] Slavia Sofia vs FC Hebar Pazardzhik
+https://wbd.x10.bz/bongda/tc.php?id=IJDZPKQ&t=1733407200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="Ngày 05/12",05/12 21h15 [Iraqi Premier Football League] Al Talaba vs Al Karkh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=VlJA9uT&t=1733403600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 05/12",05/12 19h00 [AFC Champions League 2] Lion City Sailors vs Port FC
+https://wbd.x10.bz/bongda/tc.php?id=cVswlJX&t=1733408100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png" group-title="Ngày 05/12",05/12 23h00 [Romanian Cup] Ceahlaul Piatra Neamt vs CFR Cluj
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=OzFkfUU&t=1733400000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 05/12",05/12 20h00 [Bulgarian First League] Slavia Sofia vs FC Hebar Pazardzhik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=VlJA9uT&t=1733403600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 05/12",05/12 22h30 [Bulgarian First League] Botev Plovdiv vs FK Levski Krumovgrad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=PUciOPK&t=1733412600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 05/12",05/12 22h10 [Saudi Professional League] Dhamk vs Al-Feiha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=yM7o6u3&t=1733411400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 05/12",05/12 22h15 [Saudi Professional League] Al Wehda Mecca vs Al-Akhdoud
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=jVVSsAF&t=1733411700
+https://wbd.x10.bz/bongda/tc.php?id=pmDqiHO&t=1733414400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Ngày 05/12",05/12 21h00 [Jordan Premier League] AL-Sareeh vs Al-Ahly
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -99,6 +103,18 @@ https://wbd.x10.bz/bongda/tc.php?id=cVswlJX&t=1733408100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=00rljtp&t=1733416200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 05/12",05/12 22h10 [Saudi Professional League] Dhamk vs Al-Feiha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=yM7o6u3&t=1733411400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 05/12",05/12 22h15 [Saudi Professional League] Al Wehda Mecca vs Al-Akhdoud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=jVVSsAF&t=1733411700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 05/12",05/12 22h30 [Bulgarian First League] Botev Plovdiv vs FK Levski Krumovgrad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=PUciOPK&t=1733412600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 05/12",05/12 22h00 [International Club Friendly] Djurgardens vs HJK Helsinki
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1971,14 +1987,6 @@ https://wbd.x10.bz/bongda/tc.php?id=8iSV7Py&t=1733662800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=t2Vr825&t=1733454000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 05/12",05/12 18h35 [Bóng rổ Trung Quốc] Guangdong Hongyuan vs Suzhou Kendiya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=MS5bVBl&t=1733398500
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 05/12",05/12 18h35 [Bóng rổ Trung Quốc] Guangdong Hongyuan vs Suzhou Kendiya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=MS5bVBl&t=1733398500
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="Ngày 06/12",06/12 02h30 [Vô địch bóng rổ châu Âu] Bayern Munchen vs Saski Baskonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
