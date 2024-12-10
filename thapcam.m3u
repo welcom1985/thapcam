@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",10-12 08:15 [other] Dallas Cowboys vs Cincinnati Bengals [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=22a5b1363a5ad2c71ebcc199f922c79f&wsTime=1733795641&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",10-12 08:15 [other] Dallas Cowboys vs Cincinnati Bengals [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.fastzip.xyz/NJDtOKoRa7eoWW3iikkoTA/Fv2lucGIbhPi2caWYvF5Lg/1733817241988/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",10-12 08:15 [other] Dallas Cowboys vs Cincinnati Bengals [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.fastzip.xyz/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM4MTcyNDEsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzM3OTU2NDF9.WG_nMR5Hzx-y4iGV7oQTUBX_DnUwmfZRcjZ81w0aFNw-/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",10-12 08:15 [other] Dallas Cowboys vs Cincinnati Bengals [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fastzip.xyz/bf7e1702148378daf43ec39217bf1070/1733817241989/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",10-12 08:15 [other] Dallas Cowboys vs Cincinnati Bengals [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/sQGK-iIQdv4ag70IMLUdrg/bb30dc1883f5f92057cd67eec640c4d0/1733817241/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 10/12",10/12 15h30 [Indonesian Liga 1] Madura United vs Semen Padang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -347,10 +327,6 @@ https://wbd.x10.bz/bongda/tc.php?id=JgK9xFu&t=1733946300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=Cw5Kbfw&t=1733947200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 12/12",12/12 07h00 [Mexico Liga MX] Club America vs Monterrey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=8ZsT5Lu&t=1733961600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png" group-title="Ngày 12/12",12/12 07h10 [Copa Argentina] Velez Sarsfield vs Central Cordoba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -559,6 +535,10 @@ https://wbd.x10.bz/bongda/tc.php?id=WF6iRgK&t=1734033600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=vRXLBRD&t=1734026400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 13/12",13/12 04h00 [Mexico Liga MX] Club America vs Monterrey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=8ZsT5Lu&t=1734037200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="Ngày 13/12",13/12 15h00 [Australia W-League] Melbourne Victory (w) vs Wellington Phoenix (W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -711,6 +691,10 @@ https://wbd.x10.bz/bongda/tc.php?id=81W428U&t=1734111000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=Q5FIEi2&t=1734174000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/552bc79c56217e4c0dc54ab0edcf83a2.png" group-title="Ngày 14/12",14/12 20h00 [German Frauen Bundesliga] Hoffenheim (w) vs SG Essen-Schonebeck (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=Yv1WZqO&t=1734181200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/552bc79c56217e4c0dc54ab0edcf83a2.png" group-title="Ngày 14/12",14/12 20h00 [German Frauen Bundesliga] Koln (w) vs RB Leipzig (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1227,6 +1211,18 @@ https://wbd.x10.bz/bongda/tc.php?id=kSv0Vxh&t=1734276600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=mlYzrHS&t=1734276600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="Ngày 15/12",15/12 00h00 [Azerbaijan Premier Liqa] Qarabag vs Standard Sumgayit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=5o4igrE&t=1734195600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="Ngày 15/12",15/12 19h00 [Azerbaijan Premier Liqa] Zira FK vs Turan Tovuz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=dQ6Vzjm&t=1734264000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="Ngày 15/12",15/12 21h30 [Azerbaijan Premier Liqa] FC Neftci Baku vs FK Kapaz Ganca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=iylbXVX&t=1734273000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 15/12",15/12 00h30 [Spanish Segunda Division] Eibar vs Real Zaragoza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1427,14 +1423,6 @@ https://wbd.x10.bz/bongda/tc.php?id=IpQECn6&t=1734271200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=n3AUOge&t=1734262200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="Ngày 15/12",15/12 19h00 [Azerbaijan Premier Liqa] Zira FK vs Turan Tovuz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=dQ6Vzjm&t=1734264000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="Ngày 15/12",15/12 21h30 [Azerbaijan Premier Liqa] FC Neftci Baku vs FK Kapaz Ganca
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=iylbXVX&t=1734273000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="Ngày 15/12",15/12 19h45 [UAE Pro League] Ajman vs Al Oruba (UAE)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1735,6 +1723,10 @@ https://wbd.x10.bz/bongda/tc.php?id=mMIJyfj&t=1734274800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=em28Zq5&t=1734274800
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/8_wkpF3pm_mzoN34-CSfXGURmLP8ToJ7SBpRaOuSy-b-QYk0BrS1yNfZnJ-KJxZLIX6HoUaQTw=s900-c-k-c0x00ffffff-no-rj" group-title="Ngày 10/12",10/12 17h00 [PUBG] PGC 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=HNgZxkk&t=1733824800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png" group-title="Ngày 10/12",10/12 16h00 [Cúp bóng rổ Philippines] Blackwater Bossing vs Hong Kong Eastern
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2715,11 +2707,3 @@ https://wbd.x10.bz/bongda/tc.php?id=piyg5Ym&t=1734233400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=N66CMyU&t=1734238800
-#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image" group-title="Ngày 10/12",10/12 08h15 [NFL: Bóng bầu dục Mỹ] Dallas Cowboys vs Cincinnati Bengals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=tMMmBMk&t=1733793300
-#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image" group-title="Ngày 10/12",10/12 08h15 [NFL: Bóng bầu dục Mỹ] Dallas Cowboys vs Cincinnati Bengals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=tMMmBMk&t=1733793300
