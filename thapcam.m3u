@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/dee29297a999c65352448cf08461e9b9.png" group-title="Ngày 10/12",10/12 20h55 [Oman Professional League] Al-Seeb vs Al Rustaq
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=9O9Advi&t=1733838900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 10/12",10/12 15h30 [Indonesian Liga 1] Madura United vs Semen Padang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -67,6 +63,10 @@ https://wbd.x10.bz/bongda/tc.php?id=q9HBfpN&t=1733842800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=YpYGZZI&t=1733920800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/dee29297a999c65352448cf08461e9b9.png" group-title="Ngày 11/12",11/12 20h50 [Oman Professional League] Al-Seeb vs Al Rustaq
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=9O9Advi&t=1733925000
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkDxvO7BgWa2Ry6eN9VH_keAGKIoIEdFsEA&s" group-title="Ngày 11/12",11/12 00h45 [UEFA Champions League] Girona vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
