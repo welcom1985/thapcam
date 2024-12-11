@@ -1,8 +1,24 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="Ngày 11/12",11/12 22h30 [UAE Pro League] Ittihad Kalba vs Al Ain
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",12-12 06:30 [volleyball] Sada Cruzeiro vs Shahdab Yazd [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=X8qyDHO&t=1733931000
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=19542f59416371f2823cc655b9a35b76&wsTime=1733958285&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",12-12 06:30 [volleyball] Sada Cruzeiro vs Shahdab Yazd [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/S95BuAe8hjTkTzRNZ5xIWQ/Fv2lucGIbhPi2caWYvF5Lg/1733979885448/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",12-12 06:30 [volleyball] Sada Cruzeiro vs Shahdab Yazd [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzM5Nzk4ODUsInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczMzk1ODI4NX0.C_gTNTyn9hCETmMXd1mMiqutdYqpYrInjuGQ0Hd5WkY-/oldHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",12-12 06:30 [volleyball] Sada Cruzeiro vs Shahdab Yazd [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/c85c11f821e8b9e5d846da36f6bec589/1733979885449/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",12-12 06:30 [volleyball] Sada Cruzeiro vs Shahdab Yazd [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/PfmIl1_jhpIymAOXdU6Lyg/e56ce8a755cda33e7f050da0b700d013/1733979885/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png" group-title="Ngày 12/12",12/12 07h10 [Copa Argentina] Velez Sarsfield vs Central Cordoba SDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1403,14 +1419,6 @@ https://wbd.x10.bz/bongda/tc.php?id=NMwx1QI&t=1734449400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=hsNlDJ4&t=1734379200
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png" group-title="Ngày 12/12",12/12 03h00 [Club World Championship] Araguari vs Lube Civitanova
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=adJWDDY&t=1733947200
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png" group-title="Ngày 12/12",12/12 03h00 [Club World Championship] Araguari vs Lube Civitanova
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=adJWDDY&t=1733947200
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png" group-title="Ngày 12/12",12/12 06h30 [Club World Championship] Sada Cruzeiro vs Shahdab Yazd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
