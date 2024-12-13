@@ -1,52 +1,32 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",13-12 08:15 [other] San Francisco 49ers vs Los Angeles Rams [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=8c0d8e8ee6b7d30dcb437e0286122ba6&wsTime=1734062242&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",13-12 08:15 [other] San Francisco 49ers vs Los Angeles Rams [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/jLECrkTep5pgC_JWH9fG6Q/Fv2lucGIbhPi2caWYvF5Lg/1734083842553/live/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",13-12 08:15 [other] San Francisco 49ers vs Los Angeles Rams [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQwODM4NDIsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczNDA2MjI0Mn0.cgKdwKTu0auLENJCr_42J8_osriQaDsbTFhMkIRkvMI-/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",13-12 08:15 [other] San Francisco 49ers vs Los Angeles Rams [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/3dcf865ecb4a8b39bf294af8c49a6f86/1734083842554/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image",13-12 08:15 [other] San Francisco 49ers vs Los Angeles Rams [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/e9tyUzKQakIrhZUQwb5E-w/f13af37e22c82318c65a375473fc75f2/1734083842/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=a4a366934decb8c860a627f5c990b511&wsTime=1734062242&keeptime=21600
+https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=45cff5f7adfab239ea79e69b8deb5de7&wsTime=1734057784&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/r56y6vOnh2RlbolBeUyS3Q/Fv2lucGIbhPi2caWYvF5Lg/1734083842547/live/longHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/vpmd0AvSO_79NahX9vK0yw/Fv2lucGIbhPi2caWYvF5Lg/1734079384336/live/longHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQwODM4NDIsInVyaSI6Ii9sb25nSEQiLCJpYXQiOjE3MzQwNjIyNDJ9.G-YWrJchleDdS0WRGWxju5r4Se8fgSW-xjLvJzmKEq0-/longHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQwNzkzODQsInVyaSI6Ii9sb25nSEQiLCJpYXQiOjE3MzQwNTc3ODR9.KdMelFnzMdjVmnxK5wwHdLHolwL4VM8Q_Q9OXcxmqPs-/longHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/eaf69d3ab7c41925240d9f6387ab0452/1734083842548/live/longSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/856411ec443dd57881eaaf549446c51e/1734079384336/live/longSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/ewCH34UabW6QVfPQwM_mcg/3eccd6392218a7eb1e58eb18b5b4757c/1734083842/live/_definst_/stream_1_1bda7@longFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/IoI5lxlZtr2XXS2mFwPZHw/3eccd6392218a7eb1e58eb18b5b4757c/1734079384/live/_definst_/stream_1_1bda7@longFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [Sân 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/260379736c0f1154cb92bacec81051b7/1734083842548/live/may10/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/7b877715e03c1bd644ae224b4fa9293f/1734079384337/live/may10/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",13-12 08:30 [badminton] World Tour Finals [Sân 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/e0969f3df4db5cf1199019baffd34cb5/1734083842548/live/may11/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/4ce978bebbc4f04726cbef08a273de2d/1734079384337/live/may11/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="Ngày 13/12",13/12 15h00 [Australia W-League] Melbourne Victory (w) vs Wellington Phoenix (W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
