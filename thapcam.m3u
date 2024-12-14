@@ -1,76 +1,60 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",14-12 22:30 [football] SC Farense vs Gil Vicente [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/1abf27486572c70e207f5ac2464da286/1734212112879/live/may25/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",14-12 22:30 [football] SC Farense vs Gil Vicente [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/v6j3e-Vpxrfg3UJLOjB0fA/Fv2lucGIbhPi2caWYvF5Lg/1734212112879/live/sd-6MsGeP4kRmtafAKTN3/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",14-12 22:30 [football] SC Farense vs Gil Vicente [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/1abf27486572c70e207f5ac2464da286/1734212112879/live/may25/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",14-12 22:30 [football] SC Farense vs Gil Vicente [Backup 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/v6j3e-Vpxrfg3UJLOjB0fA/Fv2lucGIbhPi2caWYvF5Lg/1734212112879/live/sd-6MsGeP4kRmtafAKTN3/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=4f236823dfe2e6c8190154840812ed80&wsTime=1734193279&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=893bfb36ea2086eb66c67c3e38b6a350&wsTime=1734192124&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/YZowmJEN5BiJLgsjn_Lxww/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/may3HD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/L-qkTNXuIBa1XJWwCfCyPQ/Fv2lucGIbhPi2caWYvF5Lg/1734213724751/live/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTQ4NzksInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzQxOTMyNzl9.v96sOZmU6xiqv67VSQQ_7e7WybPnepnvJL4yfxXDDJ4-/may3HD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTM3MjQsInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzQxOTIxMjR9.mI16m5JkO3FcEfCBU5pJ4B6qyFBG7mCeJYhDE5AqaIg-/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/71f54c6ae34bbbeea09f8c0f16c667ac/1734214879295/live/may3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/81dfb601701ac6af7a09a61c2fdef1d5/1734213724752/live/may3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/yBZY3D4xAcvl1yNDAuMHLw/134f6a1c41770169e638f6127af8a455/1734214879/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/AwF0Ph_SRzdZLX3Lr19bvw/134f6a1c41770169e638f6127af8a455/1734213724/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/AxuU8Ac_ve3pFMJ2va58Wg/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/sd-6MsG9SyhGWHfSfXYMy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/toXa9zsFBgP4yaYeThYffQ/Fv2lucGIbhPi2caWYvF5Lg/1734213724752/live/sd-6MsG9SyhGWHfSfXYMy/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/0t-CP6TTujyWmvE4Mi1MPw/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/hd-en-6MsG9SyhGWHfSfXYMy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/3a-psTch9Y1Jtt2mJmwu7A/Fv2lucGIbhPi2caWYvF5Lg/1734213724752/live/hd-en-6MsG9SyhGWHfSfXYMy/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=4f236823dfe2e6c8190154840812ed80&wsTime=1734193279&keeptime=21600
+https://fdcdn.livestreameuro.live/live/may3HD.flv?wsSecret=893bfb36ea2086eb66c67c3e38b6a350&wsTime=1734192124&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/YZowmJEN5BiJLgsjn_Lxww/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/may3HD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/L-qkTNXuIBa1XJWwCfCyPQ/Fv2lucGIbhPi2caWYvF5Lg/1734213724751/live/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTQ4NzksInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzQxOTMyNzl9.v96sOZmU6xiqv67VSQQ_7e7WybPnepnvJL4yfxXDDJ4-/may3HD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTM3MjQsInVyaSI6Ii9tYXkzSEQiLCJpYXQiOjE3MzQxOTIxMjR9.mI16m5JkO3FcEfCBU5pJ4B6qyFBG7mCeJYhDE5AqaIg-/may3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/71f54c6ae34bbbeea09f8c0f16c667ac/1734214879295/live/may3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/81dfb601701ac6af7a09a61c2fdef1d5/1734213724752/live/may3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/yBZY3D4xAcvl1yNDAuMHLw/134f6a1c41770169e638f6127af8a455/1734214879/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/AwF0Ph_SRzdZLX3Lr19bvw/134f6a1c41770169e638f6127af8a455/1734213724/live/_definst_/stream_1_1bda7@may3FHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/AxuU8Ac_ve3pFMJ2va58Wg/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/sd-6MsG9SyhGWHfSfXYMy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/toXa9zsFBgP4yaYeThYffQ/Fv2lucGIbhPi2caWYvF5Lg/1734213724752/live/sd-6MsG9SyhGWHfSfXYMy/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",14-12 23:00 [football] Marseille vs Lille [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/0t-CP6TTujyWmvE4Mi1MPw/Fv2lucGIbhPi2caWYvF5Lg/1734214879295/live/hd-en-6MsG9SyhGWHfSfXYMy/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/3a-psTch9Y1Jtt2mJmwu7A/Fv2lucGIbhPi2caWYvF5Lg/1734213724752/live/hd-en-6MsG9SyhGWHfSfXYMy/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d09a3b1ab92ce378a5277b79a98dac59.png",14-12 23:00 [football] Sakaryaspor vs 76 Igdir Belediye spor [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -78,235 +62,411 @@ https://apisportvb90xltcbk-secure.nsnd.live/azhgt4lberJWOOU3nCqW_A/Fv2lucGIbhPi2
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=0975c0399193bed5319fe03aec7c7d3c&wsTime=1734192802&keeptime=21600
+https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=e5ab2a661f0a408125b41dd0b4229da4&wsTime=1734191686&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/KwWH0vhcvKmBKRkyHVyccg/Fv2lucGIbhPi2caWYvF5Lg/1734214402985/live/momHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/kdq8YPcIJPFAAqVcGBccXQ/Fv2lucGIbhPi2caWYvF5Lg/1734213286581/live/momHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTQ0MDIsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczNDE5MjgwMn0.6jBZJYh6IbbZ8kqY6XwSENIPf6wtIoL34XeHsJPLPvQ-/momHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTMyODYsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczNDE5MTY4Nn0.XQ5NIxi4YNgu5pS3Fu8chf2DWqrza1dzoshpC24oD1A-/momHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/f4c646aa445b84331789dcadaf1a73a6/1734214402986/live/momSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ebe0e844ebe387b485815c04e93cd5c2/1734213286581/live/momSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/AXPeG-eyKzQJV88qm1I2WA/8ea4ad32686fd43bf1bf1c1424d75942/1734214402/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/zNnyGGnp0UiU0YZ0Iw7A5g/8ea4ad32686fd43bf1bf1c1424d75942/1734213286/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=0975c0399193bed5319fe03aec7c7d3c&wsTime=1734192802&keeptime=21600
+https://fdcdn.livestreameuro.live/live/momHD.flv?wsSecret=e5ab2a661f0a408125b41dd0b4229da4&wsTime=1734191686&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/KwWH0vhcvKmBKRkyHVyccg/Fv2lucGIbhPi2caWYvF5Lg/1734214402985/live/momHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/kdq8YPcIJPFAAqVcGBccXQ/Fv2lucGIbhPi2caWYvF5Lg/1734213286581/live/momHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTQ0MDIsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczNDE5MjgwMn0.6jBZJYh6IbbZ8kqY6XwSENIPf6wtIoL34XeHsJPLPvQ-/momHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTMyODYsInVyaSI6Ii9tb21IRCIsImlhdCI6MTczNDE5MTY4Nn0.XQ5NIxi4YNgu5pS3Fu8chf2DWqrza1dzoshpC24oD1A-/momHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/f4c646aa445b84331789dcadaf1a73a6/1734214402986/live/momSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ebe0e844ebe387b485815c04e93cd5c2/1734213286581/live/momSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png",14-12 23:00 [volleyball] Vakifbank W vs Eczacibasi W [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/AXPeG-eyKzQJV88qm1I2WA/8ea4ad32686fd43bf1bf1c1424d75942/1734214402/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/zNnyGGnp0UiU0YZ0Iw7A5g/8ea4ad32686fd43bf1bf1c1424d75942/1734213286/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/hZNRca8.png",14-12 23:30 [volleyball] Belchatow vs Olsztyn [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179026907.akainu.xyz/CnGOMoRpvkq6zVVE35PL8Q/Fv2lucGIbhPi2caWYvF5Lg/1734209432415/live/may27/playlist.m3u8
+https://obevcimanyd179026907.akainu.xyz/gtaA4EEGbMTT0d4Vl5wThw/Fv2lucGIbhPi2caWYvF5Lg/1734215827947/live/may27/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://i.imgur.com/hZNRca8.png",14-12 23:30 [volleyball] Belchatow vs Olsztyn [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179026907.akainu.xyz/CnGOMoRpvkq6zVVE35PL8Q/Fv2lucGIbhPi2caWYvF5Lg/1734209432415/live/may27/playlist.m3u8
+https://obevcimanyd179026907.akainu.xyz/gtaA4EEGbMTT0d4Vl5wThw/Fv2lucGIbhPi2caWYvF5Lg/1734215827947/live/may27/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=79598be62c016c3677dd04c16cfe2d46&wsTime=1734194379&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=4d7299f4f44bde2fb37a23953628647e&wsTime=1734194165&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/a6MVoOHmY20Y4OG-fOzEGA/Fv2lucGIbhPi2caWYvF5Lg/1734215979245/live/chimHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/X-q6fEBFkpg-sdTF-Hbijg/Fv2lucGIbhPi2caWYvF5Lg/1734215765034/live/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTU5NzksInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzQxOTQzNzl9.UBk93sBxJF1P19h2FW6dp_ObjzDMqEzeFPzm8r4HDqQ-/chimHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTU3NjUsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzQxOTQxNjV9.VLfkMEHlRnEk3YXcB_LjRC_kiWo6KQ8ESzKHu5JT8LQ-/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/71a31119e01bcdb355bfc69e8beaadeb/1734215979245/live/chimSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/dfc3b45549556f0d12178d92d6a225fc/1734215765034/live/chimSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/8JdJ2hBcDj-G6nExlDY57g/bee03a114a12e586ce1aa6c439f97251/1734215979/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/oFZhcoshoamradIY9nuxpw/bee03a114a12e586ce1aa6c439f97251/1734215765/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=79598be62c016c3677dd04c16cfe2d46&wsTime=1734194379&keeptime=21600
+https://fdcdn.livestreameuro.live/live/chimHD.flv?wsSecret=4d7299f4f44bde2fb37a23953628647e&wsTime=1734194165&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/a6MVoOHmY20Y4OG-fOzEGA/Fv2lucGIbhPi2caWYvF5Lg/1734215979245/live/chimHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/X-q6fEBFkpg-sdTF-Hbijg/Fv2lucGIbhPi2caWYvF5Lg/1734215765034/live/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTU5NzksInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzQxOTQzNzl9.UBk93sBxJF1P19h2FW6dp_ObjzDMqEzeFPzm8r4HDqQ-/chimHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTU3NjUsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3MzQxOTQxNjV9.VLfkMEHlRnEk3YXcB_LjRC_kiWo6KQ8ESzKHu5JT8LQ-/chimHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/71a31119e01bcdb355bfc69e8beaadeb/1734215979245/live/chimSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/dfc3b45549556f0d12178d92d6a225fc/1734215765034/live/chimSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/volleyball/competition/6aadeb811ea713a774e41824dc870101.png",14-12 23:30 [volleyball] Sirjan vs Sada Cruzeiro [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/8JdJ2hBcDj-G6nExlDY57g/bee03a114a12e586ce1aa6c439f97251/1734215979/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/oFZhcoshoamradIY9nuxpw/bee03a114a12e586ce1aa6c439f97251/1734215765/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=738ffa9d1823e3656678c67c6d7dfdc4&wsTime=1734195996&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=51fa2849cdd933a965f1b2298d5328d8&wsTime=1734195794&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/S0Q5jgxH84POQsosMXs2qA/Fv2lucGIbhPi2caWYvF5Lg/1734217596253/live/cunHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/937Z8-2-KH3-6YTx9yBPGA/Fv2lucGIbhPi2caWYvF5Lg/1734217394285/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc1OTYsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczNDE5NTk5Nn0.wSM5plBZHVnBSLjPqrxkFzRNPDJiLtAwTBRjIcskEpI-/cunHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTczOTQsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczNDE5NTc5NH0.VWeXFJ_2f8TEU_TiVUEoaUBAcxhxBmIz_bugeWcnZ4g-/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/ba33504554c45ec3f70fb00aad8cc80d/1734217596254/live/cunSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/7e84ba30b8f5ac971baaaee52add95c5/1734217394285/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/R74fEr2f1e3lk7lAfyZcIQ/317070d9a306b71c37e6ea9e37f2842f/1734217596/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/a9I9vJabFb4MeNnyiEyAOw/317070d9a306b71c37e6ea9e37f2842f/1734217394/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179026907.akainu.xyz/KCLro5C02gjyTLZUTqps7A/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/may17/playlist.m3u8
+https://obevcimanyd179026907.akainu.xyz/4wrTrboKHJ_aHFhwZsUQSg/Fv2lucGIbhPi2caWYvF5Lg/1734217394285/live/may17/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/IEh94qbvoHLCx_tlRFy1nQ/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/sd-6MsGA1YBmCwe5aKWaX/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/pkSggjRvvGutPjkXUuDlCw/Fv2lucGIbhPi2caWYvF5Lg/1734217394286/live/sd-6MsGA1YBmCwe5aKWaX/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/fZDDYBpeUzlTNbWhOrRxUg/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/hd-en-6MsGA1YBmCwe5aKWaX/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/VPyWJwbsrjppx5pb1zxW1A/Fv2lucGIbhPi2caWYvF5Lg/1734217394286/live/hd-en-6MsGA1YBmCwe5aKWaX/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=738ffa9d1823e3656678c67c6d7dfdc4&wsTime=1734195996&keeptime=21600
+https://fdcdn.livestreameuro.live/live/cunHD.flv?wsSecret=51fa2849cdd933a965f1b2298d5328d8&wsTime=1734195794&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/S0Q5jgxH84POQsosMXs2qA/Fv2lucGIbhPi2caWYvF5Lg/1734217596253/live/cunHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/937Z8-2-KH3-6YTx9yBPGA/Fv2lucGIbhPi2caWYvF5Lg/1734217394285/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc1OTYsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczNDE5NTk5Nn0.wSM5plBZHVnBSLjPqrxkFzRNPDJiLtAwTBRjIcskEpI-/cunHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTczOTQsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTczNDE5NTc5NH0.VWeXFJ_2f8TEU_TiVUEoaUBAcxhxBmIz_bugeWcnZ4g-/cunHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/ba33504554c45ec3f70fb00aad8cc80d/1734217596254/live/cunSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/7e84ba30b8f5ac971baaaee52add95c5/1734217394285/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/R74fEr2f1e3lk7lAfyZcIQ/317070d9a306b71c37e6ea9e37f2842f/1734217596/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/a9I9vJabFb4MeNnyiEyAOw/317070d9a306b71c37e6ea9e37f2842f/1734217394/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Nhà đài]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179026907.akainu.xyz/KCLro5C02gjyTLZUTqps7A/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/may17/playlist.m3u8
+https://obevcimanyd179026907.akainu.xyz/4wrTrboKHJ_aHFhwZsUQSg/Fv2lucGIbhPi2caWYvF5Lg/1734217394285/live/may17/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Backup 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/IEh94qbvoHLCx_tlRFy1nQ/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/sd-6MsGA1YBmCwe5aKWaX/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/pkSggjRvvGutPjkXUuDlCw/Fv2lucGIbhPi2caWYvF5Lg/1734217394286/live/sd-6MsGA1YBmCwe5aKWaX/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",15-12 00:00 [football] Udinese vs Napoli [Backup 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/fZDDYBpeUzlTNbWhOrRxUg/Fv2lucGIbhPi2caWYvF5Lg/1734217596254/live/hd-en-6MsGA1YBmCwe5aKWaX/playlist.m3u8
+https://apisportvb90xltcbk-secure.nsnd.live/VPyWJwbsrjppx5pb1zxW1A/Fv2lucGIbhPi2caWYvF5Lg/1734217394286/live/hd-en-6MsGA1YBmCwe5aKWaX/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=5b318e3d540250cc68d21ef555e65b57&wsTime=1734195996&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=2008fa578b45f2af4b8e780f674fa402&wsTime=1734196140&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/GbVrAUU358U3uFSYv2w9fw/Fv2lucGIbhPi2caWYvF5Lg/1734217596326/live/phepHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/3rNiQf1R6Ak-dpn1MBMS6w/Fv2lucGIbhPi2caWYvF5Lg/1734217740106/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc1OTYsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzQxOTU5OTZ9.P8G_sF1-yBD2Me5TdFgJfABVHNW5n-jUpQN1XAut04I-/phepHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc3NDAsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzQxOTYxNDB9.poHEQG_sv_W1aBavWwXxcbWrZLucEJzdh3bU_WdOBEE-/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/c949e2f9afbacf4d5ce9f18eb657f40c/1734217596326/live/phepSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ce0197ac619a19bb931aa980f92a7839/1734217740106/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/u6YMxtB_5qmbbSbGk0LMFQ/bb30dc1883f5f92057cd67eec640c4d0/1734217596/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/z7KPmONEKK9Amsz487pQdw/bb30dc1883f5f92057cd67eec640c4d0/1734217740/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=5b318e3d540250cc68d21ef555e65b57&wsTime=1734195996&keeptime=21600
+https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=2008fa578b45f2af4b8e780f674fa402&wsTime=1734196140&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/GbVrAUU358U3uFSYv2w9fw/Fv2lucGIbhPi2caWYvF5Lg/1734217596326/live/phepHD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/3rNiQf1R6Ak-dpn1MBMS6w/Fv2lucGIbhPi2caWYvF5Lg/1734217740106/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc1OTYsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzQxOTU5OTZ9.P8G_sF1-yBD2Me5TdFgJfABVHNW5n-jUpQN1XAut04I-/phepHD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTc3NDAsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzQxOTYxNDB9.poHEQG_sv_W1aBavWwXxcbWrZLucEJzdh3bU_WdOBEE-/phepHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/c949e2f9afbacf4d5ce9f18eb657f40c/1734217596326/live/phepSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ce0197ac619a19bb931aa980f92a7839/1734217740106/live/phepSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",15-12 00:00 [basketball] La Bruixa d'Or Manresa vs MoraBanc Andorra [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/u6YMxtB_5qmbbSbGk0LMFQ/bb30dc1883f5f92057cd67eec640c4d0/1734217596/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/z7KPmONEKK9Amsz487pQdw/bb30dc1883f5f92057cd67eec640c4d0/1734217740/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=e3d7748e999c4de8c97a8c8f9c789da2&wsTime=1734195716&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=3c63a41397c7f2e4ba01bf501c8750a0&wsTime=1734196609&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/vQ1X6tYF7j85cj10AFsV1w/Fv2lucGIbhPi2caWYvF5Lg/1734217316287/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/_nJreZJ7DX_j5yZuKrETPA/Fv2lucGIbhPi2caWYvF5Lg/1734218209749/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTczMTYsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM0MTk1NzE2fQ.dSaDL589Mx_hXrzFabQvG0pLU4zA98SRYmePE5iBwNg-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTgyMDksInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM0MTk2NjA5fQ.3aS6NuqhCDOUijPwFJWJFvB8__qdhoL_XePF6JNpeN8-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/654692ee24254cbd76584b0fced5040e/1734217316287/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/13bbc25eba52f2d9cc4505c88b2c1891/1734218209749/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/0hBe4OV-3ZbzZaA9LFAuig/fc724b392eb664de8f0b54609b1e66f5/1734217316/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/V-ybTUXi6rZbnUovBCNYqQ/fc724b392eb664de8f0b54609b1e66f5/1734218209/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/zaaAXADKSNmirxEvJPoUrA/Fv2lucGIbhPi2caWYvF5Lg/1734218209750/live/sd-6MtMdznTeQMkEvboZM/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=e3d7748e999c4de8c97a8c8f9c789da2&wsTime=1734195716&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=3c63a41397c7f2e4ba01bf501c8750a0&wsTime=1734196609&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.akainu.xyz/vQ1X6tYF7j85cj10AFsV1w/Fv2lucGIbhPi2caWYvF5Lg/1734217316287/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.akainu.xyz/_nJreZJ7DX_j5yZuKrETPA/Fv2lucGIbhPi2caWYvF5Lg/1734218209749/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTczMTYsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM0MTk1NzE2fQ.dSaDL589Mx_hXrzFabQvG0pLU4zA98SRYmePE5iBwNg-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTgyMDksInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM0MTk2NjA5fQ.3aS6NuqhCDOUijPwFJWJFvB8__qdhoL_XePF6JNpeN8-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/654692ee24254cbd76584b0fced5040e/1734217316287/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/13bbc25eba52f2d9cc4505c88b2c1891/1734218209749/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/0hBe4OV-3ZbzZaA9LFAuig/fc724b392eb664de8f0b54609b1e66f5/1734217316/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/V-ybTUXi6rZbnUovBCNYqQ/fc724b392eb664de8f0b54609b1e66f5/1734218209/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="",15-12 00:00 [football] Pachuca vs Al Ahly SC [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/zaaAXADKSNmirxEvJPoUrA/Fv2lucGIbhPi2caWYvF5Lg/1734218209750/live/sd-6MtMdznTeQMkEvboZM/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=0092958357898d3cf75b330cec03ae7a&wsTime=1734196960&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/CuEw29eCdWBh_-tWDQw_dA/Fv2lucGIbhPi2caWYvF5Lg/1734218560989/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTg1NjAsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzQxOTY5NjB9.GK2u2uYRlfW9rHBu_axycVRds6uz756_3uvD2t5Aev8-/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/0ecfb0293d738235c0d11f2d785ec2d3/1734218560990/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/uIwpR-hrfnc5og9XWQH7JQ/847878fb5be3ca4c0539d0883bc5274a/1734218560/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [Nhà đài]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/e7f0aa9bf52dbd604b3215a9cab7044c/1734218560990/live/may7/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/trauHD.flv?wsSecret=0092958357898d3cf75b330cec03ae7a&wsTime=1734196960&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/CuEw29eCdWBh_-tWDQw_dA/Fv2lucGIbhPi2caWYvF5Lg/1734218560989/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTg1NjAsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3MzQxOTY5NjB9.GK2u2uYRlfW9rHBu_axycVRds6uz756_3uvD2t5Aev8-/trauHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/0ecfb0293d738235c0d11f2d785ec2d3/1734218560990/live/trauSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/uIwpR-hrfnc5og9XWQH7JQ/847878fb5be3ca4c0539d0883bc5274a/1734218560/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",15-12 00:30 [football] Nottingham Forest vs Aston Villa [Nhà đài]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/e7f0aa9bf52dbd604b3215a9cab7044c/1734218560990/live/may7/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=6a44c908703f55a2449ee9b2f2f9b622&wsTime=1734197445&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/dCqBCTb53YuqqtcR2g06CA/Fv2lucGIbhPi2caWYvF5Lg/1734219045329/live/chaHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTkwNDUsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzQxOTc0NDV9._SS0yT8PmpGa4rvHV8WWEWjOuyc9PdsVNs_DK3LPM0U-/cha1HD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/4288826a111d07d77955116c5a1f78db/1734219045329/live/chaSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/6g4lvySOC0L5G1fDoF0Z7g/c30c788ad0707c1b9d75449bd5366f27/1734219045/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/tYqQZ6fCOtcbBXRjIgJS1w/Fv2lucGIbhPi2caWYvF5Lg/1734219045329/live/sd-6MsG9ch1FrjSW6Sfnj/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/nNeSJJPxM8KQhkEJJhyHvA/Fv2lucGIbhPi2caWYvF5Lg/1734219045330/live/hd-en-6MsG9ch1FrjSW6Sfnj/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/chaHD.flv?wsSecret=6a44c908703f55a2449ee9b2f2f9b622&wsTime=1734197445&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/dCqBCTb53YuqqtcR2g06CA/Fv2lucGIbhPi2caWYvF5Lg/1734219045329/live/chaHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTkwNDUsInVyaSI6Ii9jaGExSEQiLCJpYXQiOjE3MzQxOTc0NDV9._SS0yT8PmpGa4rvHV8WWEWjOuyc9PdsVNs_DK3LPM0U-/cha1HD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/4288826a111d07d77955116c5a1f78db/1734219045329/live/chaSD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/6g4lvySOC0L5G1fDoF0Z7g/c30c788ad0707c1b9d75449bd5366f27/1734219045/live/_definst_/stream_1_1bda7@chaFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/tYqQZ6fCOtcbBXRjIgJS1w/Fv2lucGIbhPi2caWYvF5Lg/1734219045329/live/sd-6MsG9ch1FrjSW6Sfnj/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",15-12 00:30 [football] Sevilla vs Celta Vigo [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/nNeSJJPxM8KQhkEJJhyHvA/Fv2lucGIbhPi2caWYvF5Lg/1734219045330/live/hd-en-6MsG9ch1FrjSW6Sfnj/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=f8fc525585a93f5c745779c495ffd81d&wsTime=1734197239&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/ARguBbx_YJdT1z9-RcjpeQ/Fv2lucGIbhPi2caWYvF5Lg/1734218839405/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTg4MzksInVyaSI6Ii9teUhEIiwiaWF0IjoxNzM0MTk3MjM5fQ.REZ_MihvnAOlNvkXrULQE2iSjLIk4qMcCyx7qUy3iNo-/myHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ca420cf3a67fc59012dc1ca3cad9e5ce/1734218839406/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/SOja4FKHWtUU5PAdb_Y0Mg/37c56eb4aaf958eda25bed5c53705fc2/1734218839/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Nhà đài]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179026907.akainu.xyz/1rGOpT4XXj14-B8Z2SqRjA/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/may171/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/myL_oihrZxjrarj18LVLqw/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/sd-6MsGA1VEAFa649pUEP/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/Wwza-1Wbw8vB3tkV9_qVDQ/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/hd-en-6MsGA1VEAFa649pUEP/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/myHD.flv?wsSecret=f8fc525585a93f5c745779c495ffd81d&wsTime=1734197239&keeptime=21600
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179569584.akainu.xyz/ARguBbx_YJdT1z9-RcjpeQ/Fv2lucGIbhPi2caWYvF5Lg/1734218839405/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.xoixeo.click/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQyMTg4MzksInVyaSI6Ii9teUhEIiwiaWF0IjoxNzM0MTk3MjM5fQ.REZ_MihvnAOlNvkXrULQE2iSjLIk4qMcCyx7qUy3iNo-/myHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/ca420cf3a67fc59012dc1ca3cad9e5ce/1734218839406/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://vb90xltcvg-secure.nsnd.live/SOja4FKHWtUU5PAdb_Y0Mg/37c56eb4aaf958eda25bed5c53705fc2/1734218839/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Nhà đài]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179026907.akainu.xyz/1rGOpT4XXj14-B8Z2SqRjA/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/may171/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Backup 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/myL_oihrZxjrarj18LVLqw/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/sd-6MsGA1VEAFa649pUEP/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",15-12 00:30 [football] St. Pauli vs Werder Bremen [Backup 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/Wwza-1Wbw8vB3tkV9_qVDQ/Fv2lucGIbhPi2caWYvF5Lg/1734218839406/live/hd-en-6MsGA1VEAFa649pUEP/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 14/12",14/12 23h00 [Ligue 1] Marseille vs Lille
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
