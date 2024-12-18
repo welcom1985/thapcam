@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",18/12 08:00 NXT [Nhà đài][thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/907d671af5106f00e73acf5c0bca7967/1734505206445/live/may11/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",18/12 08:30 Bucks vs Thunder [HD Nhanh][thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -663,14 +659,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=BL1n0tZ&t=1734782400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=GFRDAqX&t=1734782400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",21/12 01:00 Pharco vs ZED FC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=dnv7b7D&t=1734717600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",21/12 22:00 Ghazl El Mahallah vs Al-Ittihad Alexandria[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=H4hVJH8&t=1734793200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="[LỊCH THI ĐẤU]",21/12 02:00 RKC Waalwijk vs PEC Zwolle[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -899,6 +887,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=mWZ79s5&t=1734791400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=TyVew5m&t=1734786000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",21/12 22:00 Ghazl El Mahallah vs Al-Ittihad Alexandria[thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=H4hVJH8&t=1734793200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="[LỊCH THI ĐẤU]",21/12 02:45 Crewe Alexandra vs Colchester United[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1607,58 +1599,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=VpPQcCf&t=1734541200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=z8Y7RKc&t=1734541200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 04:00 Saint Joseph's vs American[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=NazzVst&t=1734555600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 George Washington vs Lafayette[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=UvV5mPU&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Fairfield University vs Central Connecticut State[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=FZ8nWmh&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Vermont vs Miami(ohio)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ojDcw16&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 South Florida vs Bethune-Cookman[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=alj8r1L&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 NC-Wilmington vs Florida Gulf Coast U[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=NfCSxgf&t=1734566400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Hampton vs Regent University[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=KDxQaTC&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Wagner College vs Manhattan[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=pr0LfrQ&t=1734566400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Furman vs Montreat College[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=4xtpVid&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Queens University Of Charlotte vs Mercer[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=JpgPrNA&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:00 Ohio vs Austin Peay[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=80dFFY1&t=1734566400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:30 Georgia Tech vs Maryland-Baltimore County[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=gn3PDt5&t=1734568200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 07:30 UT-Rio Grande Valley vs Southern Utah[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jcvTS3s&t=1734568200
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",19/12 09:00 Weber State vs Lincoln (California)[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2663,14 +2611,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=JS9oiKS&t=1734926400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=dLbVVtj&t=1734948000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="[LỊCH THI ĐẤU]",18/12 08:00 NXT[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=EfuiWMr&t=1734483600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="[LỊCH THI ĐẤU]",18/12 08:00 NXT[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=EfuiWMr&t=1734483600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="[LỊCH THI ĐẤU]",18/12 14:00 Chinese Taipei Open 2024[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
