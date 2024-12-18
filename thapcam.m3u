@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0646b5276f2b9f744aace095593e5fe7.png",18/12 12:00 Hannan University vs Niigata University [Backup 1][thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/b0PndlNLjclUf_9ATalDyw/Fv2lucGIbhPi2caWYvF5Lg/1734525904258/live/sd-6MtMP463gXKyxCdcMh/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0646b5276f2b9f744aace095593e5fe7.png",18/12 12:00 Tokoha University SC vs Kansai University [Backup 1][thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/8p0iJsSvxMn3N_VeR_ibkg/Fv2lucGIbhPi2caWYvF5Lg/1734519606960/live/sd-6MtMP463gV8W5iohCo/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0646b5276f2b9f744aace095593e5fe7.png",18/12 12:00 Meiji University vs Kwansei Gakuin University [Backup 1][thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/l7iC-icXWYl-NXffUf0-oQ/Fv2lucGIbhPi2caWYvF5Lg/1734519607814/live/sd-6MtMP463fzZFmV4nD9/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5bd72ae69e7a3a3a7bcae101992674bc.png",18/12 13:00 Delhi FC XI vs Indian Air Force [Backup 1][thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -18,7 +6,7 @@ https://apisportvb90xltcbk-secure.nsnd.live/0hPgDZeszfb5sqCotFCyRQ/Fv2lucGIbhPi2
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/bia.png",18/12 14:00 Chinese Taipei Open 2024 [nhà đài][thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179026907.akainu.xyz/u-aEvA91EGUhl33QFMVxoQ/Fv2lucGIbhPi2caWYvF5Lg/1734525898670/live/may24/playlist.m3u8
+https://obevcimanyd179026907.akainu.xyz/wAnhPh0US563y5rL_QinAA/Fv2lucGIbhPi2caWYvF5Lg/1734527705972/live/may24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png" group-title="[LỊCH THI ĐẤU]",18/12 22:00 UTA Arad vs Farul Constanta[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2527,6 +2515,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=JS9oiKS&t=1734926400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=dLbVVtj&t=1734948000
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="[LỊCH THI ĐẤU]",18/12 14:00 Chinese Taipei Open 2024[thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=l0d0Ou7&t=1734505200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="[LỊCH THI ĐẤU]",18/12 14:00 Chinese Taipei Open 2024[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
