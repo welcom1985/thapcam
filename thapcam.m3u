@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0646b5276f2b9f744aace095593e5fe7.png",19/12 10:00 Chuo University FC vs Hiroshima University of Economics [Backup 1][thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://apisportvb90xltcbk-secure.nsnd.live/berBP8kw1zZZRFv_nxhBHA/Fv2lucGIbhPi2caWYvF5Lg/1734605105704/live/sd-6MtMNzj9syj1mAgf4X/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="[LỊCH THI ĐẤU]",19/12 17:00 FC Shamakhi vs Qarabag[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -15,34 +11,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=PVWnDNm&t=1734602400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=WzdxqOQ&t=1734607800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="[LỊCH THI ĐẤU]",19/12 21:00 Genclerbirligi vs Kasimpasa[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=97s8k8N&t=1734616800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="[LỊCH THI ĐẤU]",19/12 21:00 Erzincanspor vs Corum Belediyespor[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=ymCkD8r&t=1734616800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",19/12 17:45 Đà Nẵng vs Bình Dương[thapcam]
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="[LỊCH THI ĐẤU]",19/12 21:00 Genclerbirligi vs Kasimpasa[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=yIebO3l&t=1734605100
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",19/12 21:00 Al-Feiha vs Al-Salmiyah[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=3cxE8gJ&t=1734616800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",19/12 18:30 Portugal U16 vs Italy U16[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=JRlDg4M&t=1734607800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",19/12 22:00 Ghana (w) U17 vs Ivory Coast (W) U17[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=XDwk2wK&t=1734620400
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",19/12 22:00 El Salvador U17 vs Nicaragua U17[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=JZ7pVCK&t=1734620400
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=97s8k8N&t=1734616800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="[LỊCH THI ĐẤU]",19/12 21:00 Moghayer Al Sarhan vs Al Hussein Irbid[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -51,10 +27,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=SdgPBl4&t=1734616800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=BMfFSbG&t=1734620400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="[LỊCH THI ĐẤU]",19/12 23:00 Banni Yas vs Ittihad Kalba[thapcam]
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="[LỊCH THI ĐẤU]",19/12 22:00 Botev Plovdiv vs Ludogorets Razgrad[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=cvjILgL&t=1734624000
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=y7XMXZC&t=1734620400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a0209224a7b4d963e0f39fcf73d8f7e.png" group-title="[LỊCH THI ĐẤU]",20/12 01:00 Rapid Bucuresti vs CFR Cluj[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -67,94 +43,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=dT8Q0gz&t=1734631200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=WRmSYWv&t=1734631200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Chelsea vs Shamrock Rovers[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=PrBaDPy&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 APOEL Nicosia vs FC Astana[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=yknw3cM&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Real Betis vs HJK Helsinki[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=iJKrbPG&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Borac Banja Luka vs Omonia Nicosia FC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=AYOHKw7&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 NK Publikum Celje vs The New Saints[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=TvUhIE4&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Cercle Brugge vs Istanbul Buyuksehir Belediyesi[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=rBp1LiL&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Vitoria Guimaraes vs Fiorentina[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=3VUigX2&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Backa Topola vs Borac Banja Luka[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=q78irTo&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Panathinaikos vs Dinamo Minsk[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=L2eSxfF&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Molde vs Mlada Boleslav[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=gqMXddU&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Heart of Midlothian vs CS Petrocub[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Dqeu2Yu&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Heidenheim vs St. Gallen[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=DaNLotF&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Jagiellonia Bialystok vs NK Olimpija Ljubljana[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZeDXzrB&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Larne FC vs KAA Gent[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=MfjhMZJ&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 LASK Linz vs Vikingur Reykjavik[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=WqWivPO&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Lugano vs Pafos FC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=vb8UYUs&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Djurgardens vs Legia Warszawa[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=up3b6eB&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Rapid Wien vs FC Copenhagen[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jwDzVFm&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ca023b0265e4f06c233e3b1046aed647.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Inter Milan vs Udinese[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=JHjb60Z&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Tottenham Hotspur vs Manchester United[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=52Uw6Ec&t=1734638400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",20/12 00:00 Nacional da Madeira vs Benfica[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=XKArfMD&t=1734627600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="[LỊCH THI ĐẤU]",20/12 00:00 Bukaspor vs Goztepe[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=PL18TjV&t=1734627600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="[LỊCH THI ĐẤU]",20/12 00:45 Noordwijk vs Willem II[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -175,22 +67,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=FfQHwWZ&t=1734634800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=XotFfUR&t=1734638400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="[LỊCH THI ĐẤU]",20/12 01:00 Cadiz vs Burgos CF[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=2rRuEfn&t=1734631200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="[LỊCH THI ĐẤU]",20/12 01:00 Elche vs Racing Santander[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=dWQCx6W&t=1734631200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="[LỊCH THI ĐẤU]",20/12 03:15 Deportivo La Coruna vs Castellon[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=djjnVKx&t=1734639300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="[LỊCH THI ĐẤU]",20/12 03:15 SD Huesca vs Tenerife[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=oTEJLju&t=1734639300
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",20/12 01:00 Zamalek vs Ceramica Cleopatra FC[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -199,90 +75,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=w7SII2C&t=1734631200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=CCTM3JN&t=1734706800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",20/12 01:00 Nigeria (w) U17 vs Benin U17 (W)[thapcam]
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Tottenham Hotspur vs Off fan MU[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jSTuOFu&t=1734631200
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",20/12 05:30 Anguilla (w) vs St. Kitts and Nevis (w)[thapcam]
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=52Uw6Ec&t=1734638400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Tottenham Hotspur vs Off fan MU[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=bk8vmyw&t=1734647400
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",20/12 23:00 Peru U20 vs Ecuador U20[thapcam]
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=wW6ybxF&t=1734638400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="[LỊCH THI ĐẤU]",20/12 03:00 Tottenham Hotspur vs Off fan MU[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=kf7kFdQ&t=1734710400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",20/12 01:30 Nautico (PE) vs America FC Natal RN[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=tiorQjP&t=1734633000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",20/12 02:00 Unam Pumas (w) vs Kindermann (w)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=4GxyRMv&t=1734634800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",20/12 06:00 EC Bahia (w) vs Paraguay (w)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=mblc6QO&t=1734649200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",20/12 19:00 Ilves Tampere vs KuPs[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=KMK2cmA&t=1734696000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="[LỊCH THI ĐẤU]",20/12 12:50 Adelaide United (w) vs Melbourne City (w)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=PQpqIOU&t=1734673800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="[LỊCH THI ĐẤU]",20/12 15:00 WS Wanderers (w) vs Perth Glory (w)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Hf88UOd&t=1734681600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LỊCH THI ĐẤU]",20/12 15:30 Madura United vs Bali United[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jQZzunD&t=1734683400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LỊCH THI ĐẤU]",20/12 19:00 Persebaya Surabaya vs Borneo FC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=pKBIS3c&t=1734696000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="[LỊCH THI ĐẤU]",20/12 15:35 Adelaide United vs Sydney FC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=MaMDtTw&t=1734683700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",20/12 18:00 Al Quwa Al Jawiya vs Newroz SC(IRQ)[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=fhL4CG2&t=1734692400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png" group-title="[LỊCH THI ĐẤU]",20/12 19:00 FK Kapaz Ganca vs Standard Sumgayit[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=IB0PtYN&t=1734696000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png" group-title="[LỊCH THI ĐẤU]",20/12 19:45 Hatta vs Al-Dhafra[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=oZMqAjU&t=1734698700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c618e7014cfc996ef1c349839835cf0c.png" group-title="[LỊCH THI ĐẤU]",20/12 20:00 Thailand vs Cambodia[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=e0FYtIn&t=1734699600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c618e7014cfc996ef1c349839835cf0c.png" group-title="[LỊCH THI ĐẤU]",20/12 20:00 Malaysia vs Singapore[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=W6HgCi6&t=1734699600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LỊCH THI ĐẤU]",20/12 21:00 FC Goa vs ATK Mohun Bagan[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=je4EREe&t=1734703200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/be003ea0e07f256af4180535d4138c37.png" group-title="[LỊCH THI ĐẤU]",20/12 21:30 Al Duhail vs Al-Arabi SC[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=9GIVRcA&t=1734705000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/28fe29ca21d45f70c379923c2fdde37c.png" group-title="[LỊCH THI ĐẤU]",20/12 22:00 Ramtha Club vs Al-Ahly[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=0dGi4NT&t=1734706800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png" group-title="[LỊCH THI ĐẤU]",20/12 23:00 Mladost Lucani vs Novi Pazar[thapcam]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=if4Dhbg&t=1734710400
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=yGodE9h&t=1734638400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="[LỊCH THI ĐẤU]",21/12 00:00 Sepsi OSK Sfantul Gheorghe vs Universitaea Cluj[thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
