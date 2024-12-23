@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a5675db371ce3e63e58145ca3dd11b54.jpg",23/12 14:00 Balikpapan United vs PSCS Cilacap [thapcam] Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://apisportvb90xltcbk-secure.nsnd.live/lHJfGlYb7APW3JjjnQb2qw/Fv2lucGIbhPi2caWYvF5Lg/1734959707923/live/sd-6MtMPPY86hCRRUCcZy/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",23/12 15:30 Melbourne United vs Tasmania JackJumpers [thapcam] HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -135,6 +139,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=AJ8hGih&t=1735225200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=s9rzAkC&t=1735225200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png" group-title="[LỊCH THI ĐẤU]",26/12 19:00 IMT Novi Beograd vs Backa Topola [thapcam]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ITgdz0b&t=1735214400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="[LỊCH THI ĐẤU]",26/12 19:30 Heart of Midlothian vs Hibernian [thapcam]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
