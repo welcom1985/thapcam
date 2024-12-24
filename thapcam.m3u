@@ -39,10 +39,6 @@ https://live-eu-pzybaks9eeliv.fbcdn.fyi/2fb9c6286be281f79809a474354a2f84/1735081
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 http://xlcbck90.nsnd.live/AocWhmyuuWCiPH1DUAXYKw/2f5c86e8dcb258706feb1f79081dd77d/1735081205/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",25/12 00:30 United Arab Emirates vs Kuwait [TC]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=3M5B14O&t=1735061400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",25/12 21:25 Saudi Arabia vs Yemen [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1679,22 +1675,34 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=jI0PNOa&t=1735545600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=Exds6sA&t=1735088400
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Ngoại hạng Ai Cập",24/12 22:00 ZED FC VS Enppi [caheo] Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Jordan Cup",24/12 22:00 Moghayer Al Sarhan VS Al Faisaly [caheo] Nhà đài
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8 
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo]
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Ai Cập",25/12 01:00 Talaea EI-Gaish VS Zamalek [caheo]
+https://ck-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://ck-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="WAFF Arabian Gulf Cup",25/12 00:30 United Arab Emirates VS Kuwait [caheo] HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Ngoại hạng Ai Cập",25/12 01:00 Talaea EI-Gaish VS Zamalek [caheo] Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vietnam U19 Championship",25/12 15:30 T T Hanoi U19 VS Nam Dinh U19 [caheo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
