@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png",25/12 01:00 TALAEA EI-GAISH VS ZAMALEK [TC][HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z2HD.flv?wsSecret=180f98c2cf4c97280079a327e4cead96&wsTime=1735059605&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png",25/12 01:00 TALAEA EI-GAISH VS ZAMALEK [TC][HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://oisoxu179569584.akainu.xyz/Q3MvwZcPrgT-q2En6GbTBg/Fv2lucGIbhPi2caWYvF5Lg/1735081205837/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png",25/12 01:00 TALAEA EI-GAISH VS ZAMALEK [TC][HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzUwODEyMDUsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzM1MDU5NjA1fQ.8ENk-EuQzGzDDO-Y5yfYnwkLPfAC_aGt8gtYYGmZ9Kc-/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png",25/12 01:00 TALAEA EI-GAISH VS ZAMALEK [TC][SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/2fb9c6286be281f79809a474354a2f84/1735081205838/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png",25/12 01:00 TALAEA EI-GAISH VS ZAMALEK [TC][FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://xlcbck90.nsnd.live/AocWhmyuuWCiPH1DUAXYKw/2f5c86e8dcb258706feb1f79081dd77d/1735081205/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",25/12 21:25 Saudi Arabia vs Yemen [TC]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=BTSlVGV&t=1735136700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",25/12 22:00 Al-Ittihad Alexandria vs Future FC [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -31,6 +7,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=f51e6Pr&t=1735138800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=4iz5YTK&t=1735138800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",25/12 21:25 Saudi Arabia vs Yemen [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=BTSlVGV&t=1735136700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",26/12 19:30 Manchester City vs Everton [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1651,10 +1631,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=jI0PNOa&t=1735545600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=Exds6sA&t=1735088400
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Ngoại hạng Ai Cập",25/12 01:00 Talaea EI-Gaish VS Zamalek [caheo] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vietnam U19 Championship",25/12 15:30 T T Hanoi U19 VS Nam Dinh U19 [caheo]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
