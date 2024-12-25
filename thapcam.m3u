@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png",25/12 17h 40 RYUKYU GOLDEN KINGS VS NEW TAIPEI KINGS (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/luaHD.flv?wsSecret=d25a12e97949fe40605540a626c782f2&wsTime=1735119904&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png",25/12 17h 40 RYUKYU GOLDEN KINGS VS NEW TAIPEI KINGS (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://oisoxu179569584.akainu.xyz/4d0xPMc6c64uhzb12UkR_Q/Fv2lucGIbhPi2caWYvF5Lg/1735141504519/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png",25/12 17h 40 RYUKYU GOLDEN KINGS VS NEW TAIPEI KINGS (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzUxNDE1MDQsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTczNTExOTkwNH0.ePldKp_-JGRYrNJa6_vlMDOuyI-lbR25v4v5YZToqMo-/luaHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png",25/12 17h 40 RYUKYU GOLDEN KINGS VS NEW TAIPEI KINGS (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.fbcdn.fyi/c04b0c7ef3c131ba38821e1155e524ef/1735141504520/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png",25/12 17h 40 RYUKYU GOLDEN KINGS VS NEW TAIPEI KINGS (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://xlcbck90.nsnd.live/ZqbhcDkbBNP3uTDxi7QliA/74b8773ecaa9df430432c2bf2b6bd9e0/1735141504/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",25/12 18h 30 BARANGAY GINEBRA SAN MIGUEL VS MAGNOLIA HOTSHOTS (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -1059,10 +1039,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=RUrQskN&t=1735531500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=VTQ1G8a&t=1735574400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="[LỊCH THI ĐẤU]",25/12 19h10 Taoyuan Pilots vs Hiroshima Dragonflies (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=lvy7ZOE&t=1735128600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",26/12 00h00 Knicks vs Spurs (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
