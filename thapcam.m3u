@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",25/12 12:00 BUASN KCC EGIS VS ANYANG JUNGKWANJANG RED BOOSTERS [TC][HD Nhanh]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/hoiHD.flv?wsSecret=f90efcfbc734ee826ce0e9b76cbde434&wsTime=1735100104&keeptime=21600
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",25/12 12:00 BUASN KCC EGIS VS ANYANG JUNGKWANJANG RED BOOSTERS [TC][HD1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://oisoxu179569584.akainu.xyz/FQw6zqU4yGe4vlupOXbbkw/Fv2lucGIbhPi2caWYvF5Lg/1735121704856/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",25/12 12:00 BUASN KCC EGIS VS ANYANG JUNGKWANJANG RED BOOSTERS [TC][HD2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-kh-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzUxMjE3MDQsInVyaSI6Ii9ob2lIRCIsImlhdCI6MTczNTEwMDEwNH0.A5VpT59q6b_iIX1Sagy0P1a5sT5YMCCaGkaFirviBGA-/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",25/12 12:00 BUASN KCC EGIS VS ANYANG JUNGKWANJANG RED BOOSTERS [TC][SD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://live-eu-pzybaks9eeliv.fbcdn.fyi/823b0d4cfdaa6a432cc916ee661fd3ee/1735121704856/live/hoiSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",25/12 12:00 BUASN KCC EGIS VS ANYANG JUNGKWANJANG RED BOOSTERS [TC][FullHD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+http://xlcbck90.nsnd.live/C-WomIhqbakGu5HjfYL2rQ/9f4a66eaa9212d11b576a17aa8c29a66/1735121704/live/_definst_/stream_1_1bda7@hoiFHD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",25/12 21:25 Saudi Arabia vs Yemen [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1219,14 +1239,38 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=5r81KNS&t=1735362000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=miOde6w&t=1735369200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 12:05 Chiba Jets vs Shimane Susanoo Magic [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=3lllAO5&t=1735362300
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 12:05 Hiroshima Dragonflies vs Utsunomiya Brex [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=kHBgTo5&t=1735362300
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 12:05 Akita Northern Happinets vs Osaka Seven Fukujin [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=J70L0Kf&t=1735362300
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 12:05 Saga Ballooners vs Toyotsu Fighting Eagles Nagoya [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=L8hxGas&t=1735362300
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 13:05 Hamamatsu Higashimikawa vs Yokohama B-Corsairs [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=pE4rMoh&t=1735365900
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 13:05 Nagoya Diamond Dolphins vs Hitachi Sunrockers [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=uhgc1GR&t=1735365900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 13:05 Gunma Crane Thunders vs Alvark Tokyo [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=3V9C0xs&t=1735365900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 13:05 Sendai 89 vs Nagasaki verka [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=8Su90il&t=1735365900
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 13:10 Levanga Hokkaido vs Aisin Sea Horses [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1235,6 +1279,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=Og69RxV&t=1735366200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=0LZoCoL&t=1735376700
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",28/12 16:05 Toshiba Brave Thunders vs Ibaraki Robots [TC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=dR4LM3C&t=1735376700
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="[LỊCH THI ĐẤU]",28/12 16:00 Adelaide 36ers vs Perth Wildcats [TC]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
