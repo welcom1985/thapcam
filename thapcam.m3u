@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png",27/12 00h 00 PIACENZA VS CISTERNA (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive179026907.akainu.xyz/6TvJPz-Vdfmt8RbOnjYq9Q/Fv2lucGIbhPi2caWYvF5Lg/1735250410487/live/may20/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/zi5OYhhD-IXLLskjT.png",27/12 00h 00 SCANDICCI W VS FIRENZE W (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive179026907.akainu.xyz/NxZkQJO-vtcuwBVBriFvpw/Fv2lucGIbhPi2caWYvF5Lg/1735250415564/live/may21/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",27/12 00h 30 WOLVES VS OFF FAN MU (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -1175,6 +1167,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=jBOdfTs&t=1735639200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=39Ez7wp&t=1735239900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="[LỊCH THI ĐẤU]",27/12 02h05 Maccabi Tel Aviv vs Zalgiris (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=39Ez7wp&t=1735239900
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="[LỊCH THI ĐẤU]",27/12 02h30 Olimpia Milano vs Olympiacos Piraeus (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2151,30 +2147,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=KsNo7j7&t=1735711200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=1N0MDGc&t=1735262100
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@lansd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@lanhd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lansd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 00h00 Palermo VS Bari (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lanhd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bỉ",27/12 00h30 KV Mechelen VS Standard Liege (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2243,10 +2215,30 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m104nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m105nd/playlist.m3u8
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",27/12 02h30 Sampdoria VS Carrarese (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heohd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",27/12 03h00 Liverpool VS Leicester City (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
