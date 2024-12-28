@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",29/12 02h 15 PDC WORLD CHAMPIONSHIP (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/hucHD.flv?wsSecret=e998c3f802da8933dff8abe51ab7ac07&wsTime=1735389904&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",29/12 02h 15 PDC WORLD CHAMPIONSHIP (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive179569584.akainu.xyz/XeXMO3eZUVfKLvpU1L75uA/Fv2lucGIbhPi2caWYvF5Lg/1735411504774/live/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",29/12 02h 15 PDC WORLD CHAMPIONSHIP (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontent1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU0MTE1MDQsInVyaSI6Ii9odWNIRCIsImlhdCI6MTczNTM4OTkwNH0.gX1YDZ6p3PbWh2TIkcqjdYYuuwkLCv-Gyn2oQgKg10g-/hucHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",29/12 02h 15 PDC WORLD CHAMPIONSHIP (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://largeobject-pzybaks9eeliv.fbcdn.fyi/061b92efda3abd752196fd1af41749b6/1735411504778/live/hucSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",29/12 02h 15 PDC WORLD CHAMPIONSHIP (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://superidol90p.nsnd.live/uwMV3dbodVFd_hwCTJN51A/f13af37e22c82318c65a375473fc75f2/1735411504/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",29/12 06h 00 HORNETS VS THUNDER (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -39,14 +19,26 @@ https://largeobject-pzybaks9eeliv.fbcdn.fyi/8553cc7982bdff9781121e9d49613514/173
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://superidol90p.nsnd.live/1rCZh-w0o5t9V8fN9p1OaQ/bb30dc1883f5f92057cd67eec640c4d0/1735447505/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",29/12 22h30 Rio Ave vs Nacional da Madeira (TC)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=OCXD3KE&t=1735486200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",29/12 22h30 SC Farense vs Vitoria Guimaraes (TC)
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=d7e30ad1d1ecddddc93297b4e5079405&wsTime=1735426804&keeptime=21600
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=7H0BWUZ&t=1735486200
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://hotlive179569584.akainu.xyz/dBB6KefbBE6wxKbEoKuCQQ/Fv2lucGIbhPi2caWYvF5Lg/1735448404969/live/oldHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://hotcontent1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU0NDg0MDQsInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczNTQyNjgwNH0.9KcQckwAhbZ_njktY0YOEDnNd5GmUngbqo9F5fnT1FQ-/oldHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://largeobject-pzybaks9eeliv.fbcdn.fyi/628b62c39f847bf0d6e6952a4d51994d/1735448404970/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://superidol90p.nsnd.live/TOHl7ulwplEHqsiYV6NfaA/e56ce8a755cda33e7f050da0b700d013/1735448404/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="[LỊCH THI ĐẤU]",29/12 13h00 Western United FC vs Brisbane Roar (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -167,6 +159,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=cEO821o&t=1735480800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=yp6pOlm&t=1735484400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",29/12 22h30 Rio Ave vs Nacional da Madeira (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=OCXD3KE&t=1735486200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",29/12 22h30 SC Farense vs Vitoria Guimaraes (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=7H0BWUZ&t=1735486200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",30/12 00h00 Juventus vs Fiorentina (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -723,10 +723,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=DsJJyQX&t=1735921800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=baqWRar&t=1735428600
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",29/12 06h00 Hornets vs Thunder (TC)
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png" group-title="[LỊCH THI ĐẤU]",29/12 06h30 Czech Republic vs Norway (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=hU59Ow0&t=1735426800
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=baqWRar&t=1735428600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",29/12 07h00 Wizards vs Knicks (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1583,34 +1583,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=TChhlAv&t=1735880400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=yuBrQAK&t=1735434600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) SD 1
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="NBA Nhà Nghề Mỹ",29/12 06h00 Charlotte Hornets VS Oklahoma City Thunder (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heosd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",29/12 03h30 FC Porto VS Boavista FC (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heohd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="NBA Nhà Nghề Mỹ",29/12 06h00 Charlotte Hornets VS Oklahoma City Thunder (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="NBA Nhà Nghề Mỹ",29/12 07h00 Washington Wizards VS New York Knicks (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
