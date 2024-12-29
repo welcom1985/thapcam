@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/oldHD.flv?wsSecret=d7e30ad1d1ecddddc93297b4e5079405&wsTime=1735426804&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive179569584.akainu.xyz/dBB6KefbBE6wxKbEoKuCQQ/Fv2lucGIbhPi2caWYvF5Lg/1735448404969/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontent1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU0NDg0MDQsInVyaSI6Ii9vbGRIRCIsImlhdCI6MTczNTQyNjgwNH0.9KcQckwAhbZ_njktY0YOEDnNd5GmUngbqo9F5fnT1FQ-/oldHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://largeobject-pzybaks9eeliv.fbcdn.fyi/628b62c39f847bf0d6e6952a4d51994d/1735448404970/live/oldSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",29/12 06h 30 CZECH REPUBLIC VS NORWAY (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://superidol90p.nsnd.live/TOHl7ulwplEHqsiYV6NfaA/e56ce8a755cda33e7f050da0b700d013/1735448404/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",29/12 08h 00 WTA 500 BRISBANE INTERNATIONAL (TC) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -207,14 +187,14 @@ https://largeobject-pzybaks9eeliv.fbcdn.fyi/38f31192ebb2829f4200d594a2c4b7f6/173
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://superidol90p.nsnd.live/EJwRXdLvrhMp2IAYZd4oaQ/37c56eb4aaf958eda25bed5c53705fc2/1735474505/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/894423ce8cfc45775e497d43547dcad4.png" group-title="[LỊCH THI ĐẤU]",29/12 18h00 Panseraikos (W) vs PAOK w (Thảo Vy) (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Kfe1XYl&t=1735470000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="[LỊCH THI ĐẤU]",29/12 15h45 Western United FC Women vs Brisbane Roar (w) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=K8yWOxA&t=1735461900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/894423ce8cfc45775e497d43547dcad4.png" group-title="[LỊCH THI ĐẤU]",29/12 18h00 Panseraikos (W) vs PAOK w (Thảo Vy) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Kfe1XYl&t=1735470000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",29/12 18h30 Udinese vs Torino (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -767,10 +747,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=U6W87Ij&t=1735912800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=DsJJyQX&t=1735921800
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png" group-title="[LỊCH THI ĐẤU]",29/12 13h30 Italy vs Switzerland (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Dv0MAm8&t=1735453800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png" group-title="[LỊCH THI ĐẤU]",29/12 16h00 USA vs Canada (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -779,30 +755,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=xrJ0KfH&t=1735462800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=BaDgssc&t=1735455600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 13h05 Gunma Crane Thunders vs Alvark Tokyo (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ghrJ6AF&t=1735452300
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",29/12 14h00 Buasn KCC Egis vs Seoul SK Knights (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=FOAMk85&t=1735455600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 13h05 Gunma Crane Thunders vs Alvark Tokyo (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ghrJ6AF&t=1735452300
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 16h05 Ryukyu Golden Kings vs Kyoto Hannaryz (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=wvAz3wU&t=1735463100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 13h05 Nagoya Diamond Dolphins vs Hitachi Sunrockers (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=V4SWxtf&t=1735452300
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 13h05 Hamamatsu Higashimikawa vs Yokohama B-Corsairs (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=dXRb9DS&t=1735452300
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png" group-title="[LỊCH THI ĐẤU]",29/12 14h05 Toshiba Brave Thunders vs Ibaraki Robots (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1511,6 +1471,22 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=mFIwKL5&t=1735873200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=TChhlAv&t=1735880400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png" group-title="[LỊCH THI ĐẤU]",29/12 19h45 PDC World Championship (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Qhr830C&t=1735476300
+#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 01h00 Philadelphia Eagles vs Dallas Cowboys (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=GroYbHP&t=1735495200
+#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 01h00 Buffalo Bills vs New York Jets (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=qJdnGwu&t=1735495200
+#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 04h05 Cleveland Browns vs Miami Dolphins (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=jpEuRrk&t=1735506300
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: A-League",29/12 13h00 Western United FC VS Brisbane Roar (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
