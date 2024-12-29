@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",30/12 02h 30 GDANSK VS BELCHATOW (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive-179026907.akainu.xyz/dnP_hcrhUFyq6AiaY__stA/Fv2lucGIbhPi2caWYvF5Lg/1735515006823/live/may24/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",30/12 02h 30 REAL MADRID BALONCESTO VS WINTERTHUR F.C. BARCELONA (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=9a2b6a22205ac2d8f1bbc8f1ebccde5b&wsTime=1735497905&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",30/12 02h 30 REAL MADRID BALONCESTO VS WINTERTHUR F.C. BARCELONA (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive-179569584.akainu.xyz/m3A5NLyFoPPZOyV1sY9KiQ/Fv2lucGIbhPi2caWYvF5Lg/1735519505940/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",30/12 02h 30 REAL MADRID BALONCESTO VS WINTERTHUR F.C. BARCELONA (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontent-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU1MTk1MDUsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczNTQ5NzkwNX0.XpFpRiSzyz5BH414OZl7StJ9I9_Dk1OJM2c3EcbmylA-/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",30/12 02h 30 REAL MADRID BALONCESTO VS WINTERTHUR F.C. BARCELONA (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://newobject-pzybaks9eeliv.fbcdn.fyi/f45109075b83a35936b34c6e45c95ef6/1735519505940/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png",30/12 02h 30 REAL MADRID BALONCESTO VS WINTERTHUR F.C. BARCELONA (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://saygex123.nsnd.live/82q5LVMvUfy6HUIGWLIk5Q/9d3c1936b065e6a3605ccd426df0ce6c/1735519505/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png",30/12 02h 45 PDC WORLD CHAMPIONSHIP (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -291,6 +267,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=QcrgGrO&t=1735655400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=HKTiXbg&t=1735587900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/16dba5d4a1a1af3fc06fddb844a1a0d9.png" group-title="[LỊCH THI ĐẤU]",31/12 02h45 Ballymena United vs Glenavon Lurgan (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=SDKLvv0&t=1735587900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/16dba5d4a1a1af3fc06fddb844a1a0d9.png" group-title="[LỊCH THI ĐẤU]",31/12 02h45 Carrick Rangers vs Crusaders (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -299,6 +279,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=ImgVVfK&t=1735587900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=xAz81uv&t=1735587900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/16dba5d4a1a1af3fc06fddb844a1a0d9.png" group-title="[LỊCH THI ĐẤU]",31/12 02h45 Linfield FC vs Larne FC (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=fvRtTtl&t=1735587900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/16dba5d4a1a1af3fc06fddb844a1a0d9.png" group-title="[LỊCH THI ĐẤU]",31/12 02h45 Portadown vs Glentoran FC (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZObzGQy&t=1735587900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="[LỊCH THI ĐẤU]",31/12 03h00 AFC Wimbledon vs Gillingham (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1855,22 +1843,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=fdxOHh1&t=1736006400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=q4rzCq9&t=1736008200
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 04h05 Cleveland Browns vs Miami Dolphins (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jpEuRrk&t=1735506300
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 04h25 Minnesota Vikings vs Green Bay Packers (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=dhSaTtU&t=1735507500
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 04h05 Cleveland Browns vs Miami Dolphins (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jpEuRrk&t=1735506300
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 04h25 Minnesota Vikings vs Green Bay Packers (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=dhSaTtU&t=1735507500
 #EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 08h20 Washington Commanders vs Atlanta Falcons (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
