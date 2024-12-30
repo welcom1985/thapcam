@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 CELTICS VS PACERS (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/cayHD.flv?wsSecret=7036dff02aa93e787b2d0829c9f78b90&wsTime=1735513205&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 CELTICS VS PACERS (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlive-179569584.akainu.xyz/JQnWcQSvVB-louZ3QqV2eA/Fv2lucGIbhPi2caWYvF5Lg/1735534805102/live/cayHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 CELTICS VS PACERS (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontent-1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU1MzQ4MDUsInVyaSI6Ii9jYXlIRCIsImlhdCI6MTczNTUxMzIwNX0.Lg5A3Goimd1TUM91RVK_f4dxpsfKH3k-uhjwZLzNvoc-/cayHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 CELTICS VS PACERS (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://newobject-pzybaks9eeliv.fbcdn.fyi/789d99e2e90138baea51b9c44a2b7ae4/1735534805103/live/caySD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 CELTICS VS PACERS (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://saygex123.nsnd.live/wUmd2zJvvwXvcah5t-qqwA/0fb55f7bffe944b07b26e92c54cb3c98/1735534805/live/_definst_/stream_1_1bda7@cayFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",30/12 06h 00 RAPTORS VS HAWKS (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -163,6 +143,10 @@ https://newobject-pzybaks9eeliv.fbcdn.fyi/d900ca185b4a7843d88bc12cbceab840/17355
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://saygex123.nsnd.live/Zzbs3iFgpa0hQ5Fj33_kHg/bb30dc1883f5f92057cd67eec640c4d0/1735542005/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",30/12 07h 00 WTA 250 AUCKLAND ASB CLASSIC (TC) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://hotlive-179026907.akainu.xyz/zmCIsvJ0rcnGnzdQlawJ1g/Fv2lucGIbhPi2caWYvF5Lg/1735543805150/live/may20/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c618e7014cfc996ef1c349839835cf0c.png" group-title="[LỊCH THI ĐẤU]",30/12 20h00 Thailand vs Philippines (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -235,10 +219,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=E4ULMHj&t=1735587900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=KCBgQw4&t=1735589700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",31/12 21h30 Oman vs Saudi Arabia (TC)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4a132134b4503d6c0a02e588edddbb36.png" group-title="[LỊCH THI ĐẤU]",31/12 20h30 Oman vs Saudi Arabia (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=QcrgGrO&t=1735655400
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=QcrgGrO&t=1735651800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/16dba5d4a1a1af3fc06fddb844a1a0d9.png" group-title="[LỊCH THI ĐẤU]",31/12 02h45 Cliftonville vs Dungannon Swifts (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1119,10 +1103,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=cFEXYdL&t=1735606800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=DIofdd7&t=1735606800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",31/12 09h00 Mississippi State vs Bethune-Cookman (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=5TCqNT9&t=1735610400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",31/12 09h00 Eastern Washington vs Eastern Oregon University (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1775,14 +1755,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=fdxOHh1&t=1736006400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=q4rzCq9&t=1736008200
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 08h20 Washington Commanders vs Atlanta Falcons (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=nxQG6fE&t=1735521600
-#EXTINF:0 tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-kzntgst.png" group-title="[LỊCH THI ĐẤU]",30/12 08h20 Washington Commanders vs Atlanta Falcons (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=nxQG6fE&t=1735521600
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",30/12 06h00 Boston Celtics VS Indiana Pacers (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
