@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",01/01 06h 30 POLAND VS CZECH REPUBLIC (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/xienHD.flv?wsSecret=c8b81df7d879bb863357553cb606f866&wsTime=1735687805&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",01/01 06h 30 POLAND VS CZECH REPUBLIC (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlivex179569584.akainu.xyz/il9xxyQx_PjPW3SKgkdZbg/Fv2lucGIbhPi2caWYvF5Lg/1735709405005/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",01/01 06h 30 POLAND VS CZECH REPUBLIC (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontentx1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzU3MDk0MDUsInVyaSI6Ii94aWVuSEQiLCJpYXQiOjE3MzU2ODc4MDV9.5wMudPDVQoHNNVsaUkNuyLrvMIxIec45sSlXXcMMeU4-/xienHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",01/01 06h 30 POLAND VS CZECH REPUBLIC (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://newobjectxpzybaks9eeliv.fbcdn.fyi/ba92b3375b59931b6b8ee3db10dafbb5/1735709405005/live/xienSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png",01/01 06h 30 POLAND VS CZECH REPUBLIC (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://brothersaylie.nsnd.live/i5NUCtgXzjNYS4hqHm-g0Q/cac03b136a8c356be180b4618c6bfeb5/1735709405/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",01/01 07h 00 ATP250 BRISBANE INTERNATIONAL (TC) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -1415,10 +1395,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=wbmhCle&t=1736105400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=OBKsK2w&t=1736181000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png" group-title="[LỊCH THI ĐẤU]",01/01 13h30 Great Britain vs Australia (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=yXYXyQv&t=1735713000
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/6Xjcf2WI-bqBXLXaf.png" group-title="[LỊCH THI ĐẤU]",01/01 16h00 USA vs China (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
