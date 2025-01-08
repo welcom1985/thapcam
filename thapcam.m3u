@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",08/01 07h 30 ATP250 ADELAIDE INTERNATIONAL (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlivezz179026907.akainu.xyz/LtnzsaY2btkaHrqOGW-sGg/Fv2lucGIbhPi2caWYvF5Lg/1736317806263/live/may10/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",08/01 07h 30 WTA500 ADELAIDE INTERNATIONAL (TC) Center Court
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlivezz179026907.akainu.xyz/3hwnn3sIEFIdM7aty91XMA/Fv2lucGIbhPi2caWYvF5Lg/1736317806605/live/may25/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",08/01 08h 00 PETRONAS MALAYSIA OPEN 2025 (TC) Lông HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -2099,6 +2091,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=QvLlWfJ&t=1736326800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=ksYmPrR&t=1736335800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",08/01 17h00 Ulsan Mobis Phoebus vs Anyang JungKwanJang Red Boosters (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=iVrlCE1&t=1736330400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="[LỊCH THI ĐẤU]",08/01 17h10 Hiroshima Dragonflies vs San Miguel Beermen (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2123,10 +2119,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=82Pv059&t=1736336100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=UGWhXoM&t=1736337600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",08/01 17h00 Ulsan Mobis Phoebus vs Anyang JungKwanJang Red Boosters (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=iVrlCE1&t=1736330400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="[LỊCH THI ĐẤU]",09/01 02h30 Granada vs Real Madrid Baloncesto (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
