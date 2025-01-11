@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",11/01 20h 00 ALAVES VS GIRONA (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/daHD.flv?wsSecret=f83f33161563c9e2c992efbb032009ab&wsTime=1736598606&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",11/01 20h 00 ALAVES VS GIRONA (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotlivezz179569584.akainu.xyz/EVQvs5O3QOgDleiMlIB4vA/Fv2lucGIbhPi2caWYvF5Lg/1736620206446/live/daHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",11/01 20h 00 ALAVES VS GIRONA (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzY2MjAyMDYsInVyaSI6Ii9kYUhEIiwiaWF0IjoxNzM2NTk4NjA2fQ.pJGafHBZDfecJWE-GbTBUt9NUaOiTH1gWcz8RSvBJ-k-/daHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",11/01 20h 00 ALAVES VS GIRONA (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/cdf723467879d0bf2f0ad32c03bcf45b/1736620206447/live/daSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png",11/01 20h 00 ALAVES VS GIRONA (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://ignoretext.nsnd.live/a6dAzC_kiLbw8QaMk-c2Rw/216a439451ab4126df1eead1ba49bd50/1736620206/live/_definst_/stream_1_1bda7@daFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",11/01 20h 45 ZAWIERCIE VS PROJEKT WARSZAWA (TC) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -279,34 +259,14 @@ https://ignoretext.nsnd.live/5ddqPskiABeXM43ZiVoGjA/2f5c86e8dcb258706feb1f79081d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
 https://hotlivezz179026907.akainu.xyz/YiQx-IIUwP_4vsRoNWks_g/Fv2lucGIbhPi2caWYvF5Lg/1736628307425/live/may17/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",11/01 22h 30 HERACLES ALMELO VS SPARTA ROTTERDAM (TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://hotlivezz179026907.akainu.xyz/2O3sOZdcRluddwM4IFHV_Q/Fv2lucGIbhPi2caWYvF5Lg/1736630106071/live/may25/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",11/01 22h15 Real Valladolid vs Real Betis (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=Gde2VII&t=1736608500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 Norwich City vs Brighton Hove Albion (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=RG0cCX8&t=1736607600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 Reading vs Burnley (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=bAgxjA0&t=1736607600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 Chelsea vs Morecambe (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=zMLCtzM&t=1736607600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 AFC Bournemouth vs West Bromwich(WBA) (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=4vxuvA5&t=1736607600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 Nottingham Forest vs Luton Town (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZDU13jW&t=1736607600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",11/01 22h00 Brentford vs Plymouth Argyle (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=cho6oql&t=1736607600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="[LỊCH THI ĐẤU]",11/01 23h00 Stade Brestois vs Lyon (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1395,6 +1355,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=0n9lnyv&t=1737021600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=cN98NwO&t=1737023400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/200.png" group-title="[LỊCH THI ĐẤU]",11/01 22h40 Mexico GP: Qualifying (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=7QzdzCu&t=1736610000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/200.png" group-title="[LỊCH THI ĐẤU]",11/01 22h40 Mexico GP: Qualifying (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
