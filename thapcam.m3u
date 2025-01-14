@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",14/01 07h 00 WIZARDS VS TIMBERWOLVES (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=6e9167a796e32d1f6afe873acbce5961&wsTime=1736811005&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",14/01 07h 00 WIZARDS VS TIMBERWOLVES (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/rGkdl3Q-wXdUzBod7eWj1A/Fv2lucGIbhPi2caWYvF5Lg/1736832605431/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",14/01 07h 00 WIZARDS VS TIMBERWOLVES (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzY4MzI2MDUsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM2ODExMDA1fQ.zKxoCypJlAh4PdccpwjgKYRfrKqCYfxd8igt07FXIsw-/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",14/01 07h 00 WIZARDS VS TIMBERWOLVES (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/92da24e0a915068c363412d4b0a95e2b/1736832605431/live/Z3SD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",14/01 07h 00 WIZARDS VS TIMBERWOLVES (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://ignoretext.nsnd.live/F0VELpJRZQe2Z-TUYNKCqQ/fc724b392eb664de8f0b54609b1e66f5/1736832605/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",14/01 07h 00 AUSTRALIA OPEN (TC) Rod Laver Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -303,6 +283,10 @@ https://ignoretext.nsnd.live/dDWiJ9PqK7b0pRYAd4kPaA/cac03b136a8c356be180b4618c6b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/uGtlonQeR0hszO-qGL1r0g/Fv2lucGIbhPi2caWYvF5Lg/1736842505936/live/may17/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",14/01 14h45 West Adelaide SC vs Adelaide United FC (Youth) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=D30e81e&t=1736840700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="[LỊCH THI ĐẤU]",14/01 17h45 Perth Glory vs Western Sydney (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -919,6 +903,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=Q0Q4YPq&t=1737126000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=hJMDROk&t=1737131400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",17/01 04h30 Madureira vs Flamengo (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=iYvnGdD&t=1737063000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",17/01 07h30 Vasco da Gama vs Bangu (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=hydCvFj&t=1737073800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",17/01 04h45 Club Necaxa (w) vs Club America (w) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -931,14 +923,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=zaOu1Ii&t=1737075600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=zcjNy9x&t=1737083160
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",17/01 05h00 Madureira vs Flamengo (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=iYvnGdD&t=1737064800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",17/01 07h30 Vasco da Gama vs Bangu (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=hydCvFj&t=1737073800
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",17/01 07h00 Internacional RS vs Mexico (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1111,18 +1095,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=zLlWTV4&t=1737136800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=fKH8PXb&t=1737203400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="[LỊCH THI ĐẤU]",18/01 23h00 Farul Constanta vs UTA Arad (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=2wGC6Xd&t=1737216000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="[LỊCH THI ĐẤU]",18/01 23h00 Rapid Bucuresti vs CSM Politehnica Iasi (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=r9AVsBM&t=1737216000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="[LỊCH THI ĐẤU]",18/01 23h00 CS Universitatea Craiova vs Dinamo Bucuresti (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=VMLFehW&t=1737216000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fe15962bd1a347dc85187efe6f87b689.png" group-title="[LỊCH THI ĐẤU]",18/01 02h00 Deportivo La Coruna W vs Levante UD (w) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1399,10 +1375,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=1BgVLM2&t=1737214200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=Yblqk6x&t=1737216000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LỊCH THI ĐẤU]",18/01 23h00 Omonia Aradippou vs Omonia 29is Maiou (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=s3ajTiN&t=1737216000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8639c9ab792fbae1efdc56d398cc664c.png" group-title="[LỊCH THI ĐẤU]",18/01 17h00 Young Lions vs Tanjong Pagar Utd (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2315,10 +2287,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=xvfF95D&t=1737288000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=o7C3uB3&t=1737288000
-#EXTINF:0 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/sports/29a5011a637.png?t=1735768944" group-title="[LỊCH THI ĐẤU]",14/01 09h10 Elena Rybakina vs Emerson Jones (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=nqI987X&t=1736820600
 #EXTINF:0 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/sports/29a5011a637.png?t=1735768944" group-title="[LỊCH THI ĐẤU]",14/01 09h50 Lorenzo Musetti vs Matteo Arnaldi (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
