@@ -1,12 +1,28 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png",15/01 03h 10 MARSEILLE VS LILLE (TC) Backup 1
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",15/01 19h00 Spain U19 vs Italy U19 (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://apisportzz179528093.nsnd.live/Y33IsYjoh28Jv-EyPz_xeA/Fv2lucGIbhPi2caWYvF5Lg/1736908205870/live/sd-6MtMPZK7r4JakzMG9H/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8a441eec56ff81f47f8e927fe2708587.png",15/01 03h 15 SC FARENSE VS BENFICA (TC) Backup 1
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=UgUf5QP&t=1736942400
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",15/01 20h30 Italy U18 vs Spain U18 (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://apisportzz179528093.nsnd.live/xLLZo63gCCAjUtDzkOqh3Q/Fv2lucGIbhPi2caWYvF5Lg/1736908207480/live/sd-6MtMPAaZhctA82Yzrf/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=kcUfffU&t=1736947800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61514fe7eb02e772ea5936abaf014a6c.png" group-title="[LỊCH THI ĐẤU]",15/01 07h30 Guarani SP (Youth) vs Atletico Mineiro Youth (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=J08f7qK&t=1736901000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61514fe7eb02e772ea5936abaf014a6c.png" group-title="[LỊCH THI ĐẤU]",15/01 07h45 Botafogo RJ (Youth) vs Ponte Preta (Youth) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=CXatuwe&t=1736901900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61514fe7eb02e772ea5936abaf014a6c.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Flamengo-SP (Youth) vs Ibrachina Youth (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=WtwSUlb&t=1736949600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61514fe7eb02e772ea5936abaf014a6c.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Gremio (Youth) vs Goias (Youth) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=KlG8fTM&t=1736949600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",15/01 08h00 Independiente vs Olimpia Asuncion (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -27,6 +43,70 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=OGKXhpR&t=1736920800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=VzQ8py9&t=1736928000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",15/01 06h00 Unam Pumas (w) vs Santos Laguna (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZGVx7UG&t=1736895600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="[LỊCH THI ĐẤU]",15/01 18h00 Port FC vs Khonkaen United (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=tBGrTkg&t=1736938800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="[LỊCH THI ĐẤU]",15/01 18h00 Prachuap Khiri Khan vs Sukhothai (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=JnfufGe&t=1736938800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="[LỊCH THI ĐẤU]",15/01 19h00 BG Pathum United vs Ratchaburi FC (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=saJx0hG&t=1736942400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="[LỊCH THI ĐẤU]",15/01 19h00 Buriram United vs Chiangrai United (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=qO5O5Bx&t=1736942400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",15/01 18h30 Al Talaba vs Arbil (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=LWpc1J9&t=1736940600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Al Karma vs AL Najaf (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=uHrrrMS&t=1736949600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Zakho vs AI Kahrabaa (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=BMFo1HN&t=1736949600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",15/01 23h30 Al Zawraa vs Al-Naft (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=SUfTuQn&t=1736958600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="[LỊCH THI ĐẤU]",15/01 20h05 Al Ain vs Ajman (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=EumDdYP&t=1736946300
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Pyramids FC vs Ghazl El Mahallah (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=VD9PDxk&t=1736949600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LỊCH THI ĐẤU]",15/01 21h00 Mohammedan SC vs Chennai Titans (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=dE8BYXt&t=1736949600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png" group-title="[LỊCH THI ĐẤU]",15/01 21h40 Khaitan vs Al-Nasar (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=NEcySsk&t=1736952000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png" group-title="[LỊCH THI ĐẤU]",15/01 23h55 Al-Salmiyah vs Kazma (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=iLqZW5S&t=1736960100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",15/01 22h05 Al-Shabab(KSA) vs Al-Riyadh (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=HuQtSnl&t=1736953500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",15/01 22h30 Dhamk vs Al-Ettifaq (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=iZewldW&t=1736955000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",16/01 02h30 Newcastle United vs Wolves (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
