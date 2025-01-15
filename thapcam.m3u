@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 05 AL-SHABAB(KSA) VS AL-RIYADH (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=fa083d6f80bfdb17be013511804180b8&wsTime=1736950508&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 05 AL-SHABAB(KSA) VS AL-RIYADH (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/W50Q2GPPCrUrZF6DZ5CGmQ/Fv2lucGIbhPi2caWYvF5Lg/1736972108060/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 05 AL-SHABAB(KSA) VS AL-RIYADH (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzY5NzIxMDgsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzM2OTUwNTA4fQ.VxEMm_7g66OnDd1q42qpr_CB8jdHnCTdutJ3JEYwxgs-/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 05 AL-SHABAB(KSA) VS AL-RIYADH (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/f0a9608917a7e069fa35b9b2f3d70a26/1736972108060/live/Z3SD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 05 AL-SHABAB(KSA) VS AL-RIYADH (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://ignoretext.nsnd.live/lNnflPzEVJCudIi9pbPk8A/fc724b392eb664de8f0b54609b1e66f5/1736972108/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",15/01 22h 30 DHAMK VS AL-ETTIFAQ (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -163,10 +143,6 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/ec444a8963578452295a13335ada84e0/1736
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6e3906f24d33dc2b8af56ba07aa6f531/1736981106904/live/may28/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",16/01 00h00 Al Kholood vs Al Ahli (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=M0nOTm0&t=1736960400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",16/01 20h55 Al-Akhdoud vs Al-Feiha (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -175,10 +151,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=3t2lk2A&t=1737035700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=naAKh7E&t=1737039900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="[LỊCH THI ĐẤU]",16/01 00h00 Bourgoin Jallieu vs Lyon (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=4vT3DID&t=1736960400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7c75a750398414cd02e3c7b3899c0b80.png" group-title="[LỊCH THI ĐẤU]",16/01 03h00 Espaly Saint Marcel vs Paris Saint Germain (PSG) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1571,6 +1543,118 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=9Xiu7Ee&t=1737386100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=9VPINhu&t=1737306000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",21/01 03h00 Chelsea vs Wolves (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=gcKAPrE&t=1737403200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",21/01 21h50 Al Khaleej Club vs Al-Nasr(KSA) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=X80lNUJ&t=1737471000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",21/01 00h00 Al-Ettifaq vs Al Ahli Jeddah (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=NnY0OEN&t=1737392400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",21/01 22h10 Al-Riyadh vs Al-Taawon (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=XMpXdn5&t=1737472200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="[LỊCH THI ĐẤU]",21/01 00h00 Trabzonspor vs Sivasspor (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=yXRgdvb&t=1737392400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b26998c04db8eaebfba34484aa08b10b.png" group-title="[LỊCH THI ĐẤU]",21/01 00h00 AEK Larnaca vs APOEL Nicosia (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=lJC9HZY&t=1737392400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png" group-title="[LỊCH THI ĐẤU]",21/01 00h00 Al-Ttadamon(KUW) vs Al-Salmiyah (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=NisrGQt&t=1737392400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1def107dcf08c88a806947d8cf531683.png" group-title="[LỊCH THI ĐẤU]",21/01 21h45 Al Fahaheel SC vs Al-Yarmouk (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=n92vj1o&t=1737470700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="[LỊCH THI ĐẤU]",21/01 01h00 Rapid Bucuresti vs CSM Politehnica Iasi (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=r9AVsBM&t=1737396000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="[LỊCH THI ĐẤU]",21/01 02h30 Mirandes vs Malaga (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=MLzJd0g&t=1737401400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",21/01 02h45 Como vs Udinese (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=HG6W8bU&t=1737402300
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",21/01 03h00 Villarreal vs Mallorca (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=YaeDpJx&t=1737403200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="[LỊCH THI ĐẤU]",21/01 03h15 Boavista FC vs Casa Pia AC (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=cQ7tfOj&t=1737404100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",21/01 06h00 Saint Louis Athletica (w) vs Tijuana (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=SxykUmk&t=1737414000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",21/01 06h00 Club Leon Women vs Tigres (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=xqV184V&t=1737414000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",21/01 08h00 Toluca (w) vs Queretaro (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=21LdGPK&t=1737421200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png" group-title="[LỊCH THI ĐẤU]",21/01 10h10 Juarez FC (w) vs Unam Pumas (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=TpXZuTB&t=1737429000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LỊCH THI ĐẤU]",21/01 08h00 Pachuca vs Santos Laguna (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=9bCyVLO&t=1737421200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg" group-title="[LỊCH THI ĐẤU]",21/01 15h00 Western United FC Women vs Perth Glory (w) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ALl5RVy&t=1737446400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="[LỊCH THI ĐẤU]",21/01 19h30 Reading vs Wrexham (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=gGfiHMg&t=1737462600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="[LỊCH THI ĐẤU]",21/01 20h05 Ajman vs Khor Fakkan (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=EYcI2ll&t=1737464700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="[LỊCH THI ĐẤU]",21/01 20h05 Al-Jazira(UAE) vs Al Ahli(UAE) (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=DmTApVt&t=1737464700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="[LỊCH THI ĐẤU]",21/01 23h00 Al Nasr Dubai vs Al Ain (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Iyi3BJG&t=1737475200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",21/01 21h00 El Gounah vs NBE SC (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=pzWHhUX&t=1737468000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",21/01 21h00 Ghazl El Mahallah vs Haras El Hedoud (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=MPB6IAF&t=1737468000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="[LỊCH THI ĐẤU]",21/01 21h00 Chennai Titans vs ATK Mohun Bagan (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=z2QWMf0&t=1737468000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",21/01 22h30 Galatasaray vs Dynamo Kyiv (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=GCHVg8y&t=1737473400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/67a530b2c82340aa15d70578e506deb2.png" group-title="[LỊCH THI ĐẤU]",21/01 19h30 Salford City vs Chesterfield (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=nVToOb4&t=1737462600
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png" group-title="[LỊCH THI ĐẤU]",16/01 01h00 St. Nazaire vs Halkbank (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1787,22 +1871,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=aXmVcgD&t=1737302400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=I2oZiBq&t=1737302400
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 00h00 Projekt Warszawa vs Barkom (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=AWfB1vw&t=1737219600
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 02h30 Gdansk vs Bedzin (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=sEiXaNB&t=1737228600
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 20h45 Belchatow vs Kedzierzyn-Kozle (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=uaXMLpP&t=1737294300
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 23h30 Slepsk Suwalki vs Lublin (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jYbjTLk&t=1737304200
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="[LỊCH THI ĐẤU]",19/01 02h30 Padova vs Cisterna (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1819,6 +1887,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=VrlLtSd&t=1737302400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=ABJZpqu&t=1737302400
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 02h30 Gdansk vs Bedzin (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=sEiXaNB&t=1737228600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 20h45 Belchatow vs Kedzierzyn-Kozle (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=uaXMLpP&t=1737294300
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",19/01 23h30 Slepsk Suwalki vs Lublin (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=jYbjTLk&t=1737304200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8SNAZ1kD-SruM3diD.png" group-title="[LỊCH THI ĐẤU]",19/01 09h05 Body Queenseis W vs Hisamitsu Springs W (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1927,6 +2007,22 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=TLXZ9Kk&t=1737372600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=FZ88k22&t=1737385200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png" group-title="[LỊCH THI ĐẤU]",21/01 17h00 Rush & Cash vs Kepco (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=dy4pwG0&t=1737453600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/teams/cBFT7r9.png" group-title="[LỊCH THI ĐẤU]",21/01 17h00 Hungkuk W vs IBK W (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=ATGuXpB&t=1737453600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/2147b4ac0435e6e9ddcac7f62fca22fa.png" group-title="[LỊCH THI ĐẤU]",21/01 23h00 Alba Blaj W vs Avarca de Menorca W (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=1EAD8fM&t=1737475200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",21/01 23h30 Olsztyn vs Jastrzebski (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=o3jd1s9&t=1737477000
 #EXTINF:0 tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/sports/29a5011a637.png?t=1735768944" group-title="[LỊCH THI ĐẤU]",16/01 07h00 Hubert Hurkacz vs Miomir Kecmanović (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2919,3 +3015,159 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=2vBWOki&t=1737313200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZlqV2kT&t=1737316800
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 00h00 Hornets vs Mavericks (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=LY52SKG&t=1737392400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 02h00 Rockets vs Pistons (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=AEMOjDm&t=1737399600
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 02h30 Grizzlies vs Timberwolves (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=fXt58AQ&t=1737401400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 03h00 Knicks vs Hawks (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=cEdT9nQ&t=1737403200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 03h30 Cavaliers vs Suns (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=I8RrBhT&t=1737405000
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 05h00 Warriors vs Celtics (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=VU9VgSo&t=1737410400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="[LỊCH THI ĐẤU]",21/01 08h00 Pelicans vs Jazz (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=qkn7zTX&t=1737421200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="[LỊCH THI ĐẤU]",21/01 17h10 Buasn KCC Egis vs New Taipei Kings (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Mw9w0v1&t=1737454200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="[LỊCH THI ĐẤU]",21/01 18h35 Shandong Hi-Speed vs Ningbo Rockets (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=mE9Wofh&t=1737459300
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="[LỊCH THI ĐẤU]",21/01 18h35 Suzhou Kendiya vs Tianjin Pioneers (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=mYDqwZU&t=1737459300
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 01h00 Wagner College vs saint francis university (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=FGdNVlk&t=1737396000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 01h00 NC-Wilmington vs William Mary University (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=3ARVCe8&t=1737396000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 02h00 Cornell vs Brown (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=zVGOEkc&t=1737399600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 02h00 Harvard vs Penn (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=vGbPDyH&t=1737399600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 05h00 New Mexico vs California State University Fresno Bulldog (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=GXOt4To&t=1737410400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 06h00 Villanova vs Georgetown (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=kqNvsTo&t=1737414000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 06h30 Penn State vs Rutgers-Newark (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Bzo3Qp6&t=1737415800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h00 Bethune-Cookman vs University of Arkansas at Pine Bluff (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=6Pyh1jA&t=1737417600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h00 North Carolina A&T vs Hampton (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=8DPh6ig&t=1737417600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h00 Colgate vs Bucknell (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=2aQznkv&t=1737417600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h00 Chicago State vs Fairleigh Dickinson University (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=V8rjxQX&t=1737417600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h00 McNess State vs Stephen F. Austin (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=DXGvIS8&t=1737417600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 07h30 Northwestern State vs New Orleans (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=upxsDSr&t=1737419400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 08h00 Houston Christian University vs Texas A&M-Corpus Christi (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=nXtQPVo&t=1737421200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 08h30 Prairie View A&M vs Alcorn State (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=mf5NP1J&t=1737423000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 09h00 Montana State vs Eastern Washington (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=i66sbtc&t=1737424800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 12h00 UConn Huskies vs Butler (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=Fr08cBd&t=1737435600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 12h00 Seton Hall vs Marquette (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=MMRFZRt&t=1737435600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 12h00 Rhode Island vs Virginia Commonwealth (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=aDUY8Oj&t=1737435600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 12h00 West Virginia vs Arizona State (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=682FR3R&t=1737435600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 12h00 Duquesne University Dukes vs Dayton (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=fiPk29h&t=1737435600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 DePaul Blue Demons vs Creighton (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=HteuIFk&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Alabama vs Vanderbilt (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=jBNj6X3&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Iowa vs Minnesota (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=tVVs0cT&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Tennessee State vs Tennessee-Martin (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=VbE0hK0&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Illinois State vs Indiana State (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=KdWuJnl&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Northern Iowa vs Missouri State (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=zg5mcH9&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 University of Alabama at Birmingham vs UTSA Roadrunner (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=zAURFiM&t=1737439200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",21/01 13h00 Tulsa vs East Carolina (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=87vwSW3&t=1737439200
