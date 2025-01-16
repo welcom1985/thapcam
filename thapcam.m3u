@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) HD Nhanh Lông
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=547e6033c01dbe07e4551979b71d26d4&wsTime=1736997305&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) HD Lông
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/Nb1N7Jk1m9eW5Vg2e7ElOQ/Fv2lucGIbhPi2caWYvF5Lg/1737018905882/live/longHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) HD Nhanh Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/thuHD.flv?wsSecret=375843fb3580d8c8751bd5e4cf9d25d8&wsTime=1736997305&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) HD Thủ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/AqqvDd05S9uhC2eXO7cgcg/Fv2lucGIbhPi2caWYvF5Lg/1737018905882/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) Sân 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/euxmLrWpNSI9-Bd_QVkH8g/Fv2lucGIbhPi2caWYvF5Lg/1737018905882/live/may241/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) Sân 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/4Mjv0BtL1yva3wtD8hh6Gg/Fv2lucGIbhPi2caWYvF5Lg/1737018905882/live/may251/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",16/01 10h 30 YONEX-SUNRISE INDIA OPEN 2025 (TC) Sân 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/x-g4kPWURq6lRis7lIomUQ/Fv2lucGIbhPi2caWYvF5Lg/1737018905882/live/may261/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://d32qys9a6wm9no.cloudfront.net/images/sports/29a5011a637.png?t=1735768944",16/01 13h 00 DANIELLE COLLINS VS DESTANEE AIAVA (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -547,10 +519,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=mC9NG6L&t=1737133200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=HHCibP6&t=1737133200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",18/01 00h00 Waf Brigittenau vs SC Mannsdorf (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=AY6P38t&t=1737133200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",18/01 01h30 FV Bonn-Endenich 08 vs Eintracht Hohkeppel (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=u8KcTlt&t=1737138600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",18/01 01h30 SV Oberwart vs FC Magna Wiener Neustadt (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=lFWFQEh&t=1737138600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",18/01 02h00 Micheldorf vs Donau Linz (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2167,10 +2147,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=GCHVg8y&t=1737473400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=nVToOb4&t=1737462600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="[LỊCH THI ĐẤU]",16/01 17h30 THY W vs Kuzey Boru Genclik W (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=cN98NwO&t=1737023400
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png" group-title="[LỊCH THI ĐẤU]",17/01 00h00 Ceske Budejovice vs Perugia (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2491,10 +2467,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=1EAD8fM&t=1737475200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=o3jd1s9&t=1737477000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="[LỊCH THI ĐẤU]",16/01 17h30 Dplus vs T1 (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=xQlQy5l&t=1737023400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/vsrKtEm%20-%20Imgur.png" group-title="[LỊCH THI ĐẤU]",16/01 18h00 Complexity vs Virtus Pro (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2503,10 +2475,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=BPjz8DO&t=1737025200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=B7k0Qxh&t=1737034200
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/League_of_Legends_Champions_Korea_logo.svg" group-title="[LỊCH THI ĐẤU]",16/01 17h30 Dplus vs T1 (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=xQlQy5l&t=1737023400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/vsrKtEm%20-%20Imgur.png" group-title="[LỊCH THI ĐẤU]",16/01 18h00 Complexity vs Virtus Pro (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
