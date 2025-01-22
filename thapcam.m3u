@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",22/01 07h30 AUSTRALIA OPEN (TC) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/ebPk_KNVtCfH4z2Zr6W5Tw/Fv2lucGIbhPi2caWYvF5Lg/1737525603968/live/may27/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",22/01 08h00 DAIHATSU INDONESIA MASTERS 2025 (TC) Sân 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -39,6 +35,26 @@ http://ignoretext.nsnd.live/EEceG2Miy3yAztlMlHcBnw/67544df98adad7c165ac45843eec8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/rpTldub3dvcRjZhRS0eIog/Fv2lucGIbhPi2caWYvF5Lg/1737541803356/live/may27/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png",22/01 15h00 DPLUS KIA VS FEARX (TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fdcdn.livestreameuro.live/live/lungHD.flv?wsSecret=d393abfb66350c68ff2859b3d5c40f10&wsTime=1737531904&keeptime=21600
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png",22/01 15h00 DPLUS KIA VS FEARX (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179569584.akainu.xyz/tzcewi2SZvqULu8nEVpYuQ/Fv2lucGIbhPi2caWYvF5Lg/1737553504329/live/lungHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png",22/01 15h00 DPLUS KIA VS FEARX (TC) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzc1NTM1MDQsInVyaSI6Ii9sdW5nSEQiLCJpYXQiOjE3Mzc1MzE5MDR9.EchoXmC-Um-zetk9NJsTj588O9w6h0k86l3r0sMFHfw-/lungHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png",22/01 15h00 DPLUS KIA VS FEARX (TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6b514eebcfdcbe6aa88901de06fa55f6/1737553504330/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png",22/01 15h00 DPLUS KIA VS FEARX (TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+http://ignoretext.nsnd.live/MVRvxpf6yO-JrAjxhGWrRQ/883ca40e5184f080c92fcfdbaf37405d/1737553504/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4882cc6cf460ceca9f2e45402e673433.png" group-title="[LỊCH THI ĐẤU]",22/01 15h30 Adelaide United vs Auckland FC (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
