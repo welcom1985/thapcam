@@ -63,7 +63,7 @@ http://ignoretext.nsnd.live/BjKeVDMeN3BNb8rHhRWi-w/aa2414c41b563aa2e0f4a276a0f50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/gBnbKX_xwdblND9eh7DNYg/Fv2lucGIbhPi2caWYvF5Lg/1737847811592/live/may25/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",26/01 03h00 GRONINGEN VS SC HEERENVEEN (TC) SD
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",26/01 03h10 GRONINGEN VS SC HEERENVEEN (TC) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://newobjectzzpzybaks9eeliv.fbcdn.fyi/ac9182a7e1dd1b5f50d5603c8b13bf63/1737849609634/live/may6/playlist.m3u8
@@ -1071,6 +1071,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=y6THr7G&t=1738335600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=7kFSAhe&t=1738339200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/453f28050a0a2f71ddc68789ec958f8d.png" group-title="[LỊCH THI ĐẤU]",26/01 21h15 Verona vs Lube Civitanova (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=lLGfS4D&t=1737900900
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png" group-title="[LỊCH THI ĐẤU]",26/01 20h45 Kedzierzyn-Kozle vs Slepsk Suwalki (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2030,7 +2034,7 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bỉ",26/01 02h45 Club Brugge VS KV Kortrijk (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@m203nd.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",26/01 02h45 Empoli VS Bologna (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
