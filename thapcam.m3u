@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",30/01 20h30 ATP250 MONTPELLIER OPEN (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179026907.akainu.xyz/FdhyetVMJdlbISPc23wBoQ/Fv2lucGIbhPi2caWYvF5Lg/1738268103281/live/may20/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",31/01 02h30 SASKI BASKONIA VS WINTERTHUR F.C. BARCELONA (TC) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -351,30 +347,6 @@ http://ignoretext.nsnd.live/zm9QEVOuJtudlNZrJGHEjw/aa2414c41b563aa2e0f4a276a0f50
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/DDpe2wLjkNqf_tegdudrjw/Fv2lucGIbhPi2caWYvF5Lg/1738288442214/live/may102/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 FC Steaua Bucuresti vs Off fan MU (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=RPU6D1K&t=1738267260
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 FC Steaua Bucuresti vs Đầu cầu MU (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=iFW635A&t=1738267260
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 Chống Mân vs Manchester United (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=efWs3bP&t=1738267260
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 FC Steaua Bucuresti vs Off fan MU (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=RPU6D1K&t=1738267260
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 FC Steaua Bucuresti vs Đầu cầu MU (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=iFW635A&t=1738267260
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1792ba5a12171fedc6d543bdf173f37c.png" group-title="[LỊCH THI ĐẤU]",31/01 03h01 Chống Mân vs Manchester United (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=efWs3bP&t=1738267260
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",31/01 07h30 Flamengo vs Sampaio Correa (RJ) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2335,6 +2307,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=XSUSsjt&t=1738303200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=c0NoXW0&t=1738310400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="[LỊCH THI ĐẤU]",31/01 19h00 WTA500 Linz Open (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=rmWKKur&t=1738324800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png" group-title="[LỊCH THI ĐẤU]",31/01 15h00 DN Freecs vs KT Rolster (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
