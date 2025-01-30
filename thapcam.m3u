@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/421.png" group-title="[LỊCH THI ĐẤU]",31/01 18h00 Bốc thăm play-off C1 (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=OyuXTz8&t=1738321200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png" group-title="[LỊCH THI ĐẤU]",31/01 07h30 Flamengo vs Sampaio Correa (RJ) (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2035,6 +2039,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=c0NoXW0&t=1738310400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=rmWKKur&t=1738324800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="[LỊCH THI ĐẤU]",31/01 20h30 ATP250 Montpellier Open (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=lXvRG26&t=1738330200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png" group-title="[LỊCH THI ĐẤU]",31/01 15h00 DN Freecs vs KT Rolster (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
