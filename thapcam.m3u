@@ -3,14 +3,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://newobjectzzpzybaks9eeliv.fbcdn.fyi/915c794b894b6cce33c893050ec6f4c2/1739046611211/live/may9/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png",08/02 22h30 HERACLES ALMELO VS GO AHEAD EAGLES(TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/4773b86331a157824605c9f61f9ff153/1739046611948/live/may92/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",08/02 22h30 AVS FUTEBOL SAD VS SANTA CLARA(TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/a01d2a63318c398470c6fc951c12f225/1739046612662/live/may91/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",08/02 23h30 RZESZOW VS OLSZTYN(TC) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -307,6 +299,10 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/4d9778e2f8fef7d126f55a14d024bbd9/1739
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 http://ignoretext.nsnd.live/JSpnxp89H1tWgTg95MsZpQ/bb30dc1883f5f92057cd67eec640c4d0/1739056807/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 00h45 Birmingham City vs Newcastle United (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=FX9D3PB&t=1739036700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",09/02 02h45 Torino vs Genoa (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -323,10 +319,30 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=0g2d8l2&t=1739109600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=lWUlYju&t=1739109600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",09/02 00h30 Las Palmas vs Villarreal (TC)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 00h45 Birmingham City vs Newcastle United (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=TOW5nyr&t=1739035800
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=FX9D3PB&t=1739036700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 00h45 Birmingham City vs Newcastle United (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=UwXwGK3&t=1739036700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 03h00 Brighton Hove Albion vs Chelsea (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=LzIoJTr&t=1739044800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 03h00 Brighton Hove Albion vs Chelsea (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=61PECBS&t=1739044800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 22h00 Plymouth Argyle vs Liverpool (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=7GN8cHU&t=1739113200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 19h30 Blackburn Rovers vs Wolves (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=BurSkvb&t=1739104200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",09/02 03h00 Real Madrid vs Atletico Madrid (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -347,10 +363,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=NPjazUy&t=1739106000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=5J42G08&t=1739114100
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LỊCH THI ĐẤU]",09/02 00h30 Borussia Monchengladbach vs Eintracht Frankfurt (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=yiK8PbH&t=1739035800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LỊCH THI ĐẤU]",09/02 21h30 Holstein Kiel vs VfL Bochum (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -391,30 +403,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=ssEdmr8&t=1739115900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=sv1zrBe&t=1739115900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 00h45 Birmingham City vs Newcastle United (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=UwXwGK3&t=1739036700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 00h45 Birmingham City vs Newcastle United (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=FX9D3PB&t=1739036700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 03h00 Brighton Hove Albion vs Chelsea (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=LzIoJTr&t=1739044800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 03h00 Brighton Hove Albion vs Chelsea (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=61PECBS&t=1739044800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 22h00 Plymouth Argyle vs Liverpool (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=7GN8cHU&t=1739113200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/72a855055e78bf040a26745225c8e1ec.png" group-title="[LỊCH THI ĐẤU]",09/02 19h30 Blackburn Rovers vs Wolves (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=BurSkvb&t=1739104200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="[LỊCH THI ĐẤU]",09/02 01h00 Lille vs Le Havre (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1779,6 +1767,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=hfmCe7O&t=1739076300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=v2PeqC3&t=1739088000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",09/02 01h00 Navi vs Spirit (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=6hSNw2v&t=1739037600
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",09/02 01h00 Navi vs Spirit (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
