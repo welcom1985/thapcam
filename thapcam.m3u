@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/dd7a036a45bcc680f0e52d21fea70923.png",10/02 14h30 SHANGHAI JIUSHI VS TIANJIN PIONEERS(TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=d9e7d094a2a5331f114b3e4b000e13b8&wsTime=1739172005&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/dd7a036a45bcc680f0e52d21fea70923.png",10/02 14h30 SHANGHAI JIUSHI VS TIANJIN PIONEERS(TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/4o7cBeB2i__7LXUi6dgiWQ/Fv2lucGIbhPi2caWYvF5Lg/1739193605674/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/dd7a036a45bcc680f0e52d21fea70923.png",10/02 14h30 SHANGHAI JIUSHI VS TIANJIN PIONEERS(TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzkxOTM2MDUsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczOTE3MjAwNX0.jAn5qEtltSrD-iZbOMbIpk35GGFzN5Q95Q1EYTrcK-M-/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/dd7a036a45bcc680f0e52d21fea70923.png",10/02 14h30 SHANGHAI JIUSHI VS TIANJIN PIONEERS(TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/e88084f291abba49a4db4275d9dea976/1739193605675/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/dd7a036a45bcc680f0e52d21fea70923.png",10/02 14h30 SHANGHAI JIUSHI VS TIANJIN PIONEERS(TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-http://ignoretext.nsnd.live/YcQywyeVQwo8bcTcCEYtxg/9d3c1936b065e6a3605ccd426df0ce6c/1739193605/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9c/Lpl_newlogo.png",10/02 16h00 ANYONE'S LEGEND VS TEAM WE(TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -1683,6 +1663,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=NaoFBtr&t=1739206800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=bCqbhD3&t=1739210400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",10/02 17h00 Anyang JungKwanJang Red Boosters vs Buasn KCC Egis (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=5zQiKMg&t=1739181600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",10/02 17h00 Anyang JungKwanJang Red Boosters vs Buasn KCC Egis (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
