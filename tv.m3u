@@ -473,24 +473,6 @@ http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/1Mz7xzf/bbc6.jpg",BBC 6 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kaction"  tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action 1
-https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kaction"  tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action 2
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv340/sc-gaFEAA/m1023_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kaction"  tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action 3
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv314/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kcinehd"  tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine 1
-https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kcinehd"  tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine 2
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv339/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kcinehd"  tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine 3
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv313/sc-gaFEAA/m00123_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kkidshd"  tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids 1
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kkidshd"  tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids 2
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv599/sc-gaFEAA/m20123_index.m3u8
-#EXTINF:-1 group-title="Kênh K+" tvg-id="kkidshd"  tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids 3
-https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv600/sc-gaFEAA/m20123_index.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd"  tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd"  tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 2
@@ -557,30 +539,12 @@ https://509942876.r.vtvcdn.com/onplus/D_DRAMAS_HD/m20_index.m3u8
 https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab19hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab19.png",ON DRAMA 3
 http://thvip.site/360/177/index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 1
-https://509942876.r.vtvcdn.com/onplus/BIBI/m20_index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 2
-http://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 3
-http://thvip.site/360/178/index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 1
-https://509942876.r.vtvcdn.com/onplus/BIBI_PLUS_clear/m20_index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 2
-http://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 3
-http://thvip.site/360/179/index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab4hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab4.png",ON MOVIES 1
 https://509942876.r.vtvcdn.com/onplus/VAN_HOA/m20_index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab4hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab4.png",ON MOVIES 2
 https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab4hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab4.png",ON MOVIES 3
 http://thvip.site/360/181/index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 1
-https://509942876.r.vtvcdn.com/onplus/PHIM_VIET/m20_index.m3u8
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 2
-https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 3
-http://thvip.site/360/175/index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab5hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab5.png",ON E-CHANEL 1
 https://509942876.r.vtvcdn.com/onplus/E_CHANNEL/m30_index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab5hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab5.png",ON E-CHANEL 2
@@ -635,6 +599,24 @@ https://509942876.r.vtvcdn.com/onplus/LIFE_TV/m20_index.m3u8
 https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab22hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab22.png",ON LIFE TV 3
 http://thvip.site/360/188/index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 1
+https://509942876.r.vtvcdn.com/onplus/PHIM_VIET/m20_index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 2
+https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab2hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab2.png",ON PHIMVIET 3
+http://thvip.site/360/175/index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 1
+https://509942876.r.vtvcdn.com/onplus/BIBI/m20_index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 2
+http://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab8hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab8.png",ON BIBI 3
+http://thvip.site/360/178/index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 1
+https://509942876.r.vtvcdn.com/onplus/BIBI_PLUS_clear/m20_index.m3u8
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 2
+http://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab21hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab21.png",ON KIDS 3
+http://thvip.site/360/179/index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab16hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab16.png",ON FOOTBALL HD 1
 https://s7770.cdn.mytvnet.vn/pkg20/__cl/vstv265/sc-gaFEAA/m002_index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab16hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab16.png",ON FOOTBALL HD 2
