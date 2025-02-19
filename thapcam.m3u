@@ -53,8 +53,6 @@ http://live-xlvb.nsnd.live/a3_z3h357fT-OV4aZ32E6A/aa2414c41b563aa2e0f4a276a0f501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/4mFfb5Ep5K3E5KDmMH-Ikg/Fv2lucGIbhPi2caWYvF5Lg/1740025210113/live/sd-6MtMdzkF2dfHoU37pF/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d347b7da32f8adf7e933913156919b0f.png" group-title="[LỊCH THI ĐẤU]",20/02 06h30 Herediano vs Real Salt Lake(TC)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d347b7da32f8adf7e933913156919b0f.png" group-title="[LỊCH THI ĐẤU]",20/02 08h00 FC Kansas City vs Inter Miami CF(TC)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d347b7da32f8adf7e933913156919b0f.png" group-title="[LỊCH THI ĐẤU]",20/02 08h00 Antigua GFC vs Seattle Sounders(TC)
@@ -1205,6 +1203,10 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="[LỊCH THI ĐẤU]",20/02 18h30 ATP500 Qatar Open(TC)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",20/02 17h00 Mirra Andreeva vs Iga Swiatek(TC)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png" group-title="[LỊCH THI ĐẤU]",20/02 12h00 Nongshim Red Force vs Gen.G(TC)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png" group-title="[LỊCH THI ĐẤU]",20/02 10h00 Lakers vs Hornets(TC)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png" group-title="[LỊCH THI ĐẤU]",21/02 07h00 Pacers vs Grizzlies(TC)
@@ -1599,6 +1601,7 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",25/02 12h00 Kent State vs Toledo(TC)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTM3U
 #EXTM3U
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img0.aiscore.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png",20/02 05h00 BOSTON RIVER VS NUBLENSE(CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
