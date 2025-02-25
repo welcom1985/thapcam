@@ -1102,9 +1102,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/XsvbAWR.png",One Piece 1
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="davinci"  tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci 1
-https://bkm.beetv.kz/btv/live/hls/000000333.m3u8
-#EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="davinci"  tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci 2
-https://wintv.fun/360/214/index.m3u8
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="dreamworks"  tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 1
 https://tth.vn/dreamworks
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="dreamworks"  tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 2
