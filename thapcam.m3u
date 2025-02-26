@@ -1979,6 +1979,7 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/b60c026d0c03af082035714ac096d1b0.png" group-title="[LỊCH THI ĐẤU]",03/03 03h00 Belmont vs Murray State(TC)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTM3U
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img0.aiscore.com/football/competition/1911c8304da546932dea3a7ad11ae7a9.png",26/02 08h00 INTER MIAMI CF VS FC KANSAS CITY(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -2291,10 +2292,6 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",01/03 02h30 VfB Stuttgart VS Bayern Munchen (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d347b7da32f8adf7e933913156919b0f.png",10h00 Inter Miami CF vs FC Kansas City Backup 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/1H0iNgeN-RDS2jwGxF1fAQ/Fv2lucGIbhPi2caWYvF5Lg/1740553256881/live/hd-en-6MtMPAZqiZrBe1vTYw/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",10h00 Tigres UANL vs FC Juarez FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
