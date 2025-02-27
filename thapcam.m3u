@@ -71,6 +71,30 @@ https://179463904.cdnfree.pro/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/cohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/lulusd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/luluhd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Malaysia",20h00 SELANGOR VS SABAH(CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -83,10 +107,6 @@ https://179421011.cdnfree.pro/live/m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8 
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Thổ Nhĩ Kỳ",20h00 GAZISEHIR GAZIANTEP VS FENERBAHCE(CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m204nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/613992f25f20f204d13e4b690e25d840.png",18h00 Tractor S.C. VS Sepahan (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
