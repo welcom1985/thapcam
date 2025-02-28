@@ -91,6 +91,18 @@ https://179463904.cdnfree.pro/live/m302nd.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/m303nd.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Pháp",02h00 ANNECY VS PARIS FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m403nd.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Hà Lan",02h00 RKC WAALWIJK VS FORTUNA SITTARD (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Pháp",02h00 CLERMONT VS CAEN (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m404nd.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="VĐQG Ả Rập Xê Út",02h00 AL-HILAL SAUDI FC VS AL-AHLI SFC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -115,6 +127,10 @@ https://179463904.cdnfree.pro/live/caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/cayhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",02h00 AL-SHABAB FC VS DAMAC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="VĐQG Ả Rập Xê Út",02h00 AL-ORUBAH VS AL NASSR FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -139,22 +155,10 @@ https://179463904.cdnfree.pro/live/thoxaysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/thoxayhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Pháp",02h00 CLERMONT VS CAEN (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng Nhì Tây Ban Nha",02h30 FC CARTAGENA VS EIBAR (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/m404nd.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",02h00 AL-SHABAB FC VS DAMAC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Hà Lan",02h00 RKC WAALWIJK VS FORTUNA SITTARD (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Pháp",02h00 ANNECY VS PARIS FC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/m403nd.flv
+https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ba Lan",02h30 GORNIK ZABRZE VS CRACOVIA KRAKOW (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -187,10 +191,6 @@ https://179463904.cdnfree.pro/live/dohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m202nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng Nhì Tây Ban Nha",02h30 FC CARTAGENA VS EIBAR (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="French Ligue 1",02h45 MONACO VS REIMS (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -219,6 +219,34 @@ https://179463904.cdnfree.pro/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/m204nd.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplussd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="English FA Cup",03h00 ASTON VILLA VS CARDIFF CITY (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplushd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/31beaaee73f7b112e64c14e0c20b0fbe.png",02h30 Deportivo Rayo Zuliano VS Portuguesa FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/R4H7DLIGtl-LkPtJz88R3w/Fv2lucGIbhPi2caWYvF5Lg/1740792726545/live/sd-6MtN8m9VBPb54jXgH1/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png",02h00 Troyes VS Bastia (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -227,34 +255,10 @@ https://apisportzz179528093.nsnd.live/18MNCVCPTCoAN0vsVCIcdg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/je7rqKGfCJ4h5ytU5MI5nw/Fv2lucGIbhPi2caWYvF5Lg/1740791771968/live/sd-6MtN8UszQwyR3uHi3M/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) HD Nhanh
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8f8bc56bdfd14c69ff4f32eb297e87cf.png",02h30 SV Ried VS Floridsdorfer AC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/voiHD.flv?expire=1740785530&sign=1bf6a9c483c115dc9d8ecb7f7ebc09f3
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/pvX3hlwneo-3iq1M37OyDw/Fv2lucGIbhPi2caWYvF5Lg/1740785530737/live/voiHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODU1MzAsInVyaSI6Ii92b2kxSEQiLCJpYXQiOjE3NDA3NjM5MzB9.8oAWfI1dxG0bEEbOO5rktULHQzVESWWPPW_TtMZyeS4-/voi1HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/79afc4c8fc545c79d791288068092a30/1740785530739/live/voiSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/HzM7oBXMOfRnJLTK46tidw/0d429cee859d1413d31a3e1db44fd57e/1740785530/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/uBTTfddKJ9kx2YkWml-Mgw/Fv2lucGIbhPi2caWYvF5Lg/1740785530739/live/sd-6MsGeqCRLPLDz1Xa4j/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4f0b2d70523ecad73159c3b89d1f9cf3.png",00h30 Degerfors IF VS Trelleborgs FF (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/bfFQFq30fydvRc3UmsiwXg/Fv2lucGIbhPi2caWYvF5Lg/1740785536941/live/sd-6MtMNzjtsCbbDcSvpT/playlist.m3u8
+https://apisportzz179528093.nsnd.live/UtCv5sWm7fUyBY5hfv86zQ/Fv2lucGIbhPi2caWYvF5Lg/1740792733313/live/sd-6MsGeDLiU8NSXKJ7hV/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/90f0e3d0c2b3d1d11df55d7d4a012f16.png",01h00 Vendsyssel VS AC Horsens (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -291,10 +295,22 @@ https://live-xlvb.nsnd.live/-9xLw0BeGeqoX4ZiZp7IPQ/8ea4ad32686fd43bf1bf1c1424d75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/xdQlLOVxcPmhf98SxU5gfg/Fv2lucGIbhPi2caWYvF5Lg/1740791303253/live/sd-6MsGPwga22XAJovmEb/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b480a16cd74497a00b3a40f81690efcf.png",02h30 Arka Gdynia VS Wisla Krakow (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/G4tNIedbh9aXMcQdKI3ZRw/Fv2lucGIbhPi2caWYvF5Lg/1740792750033/live/sd-6MsFQvG1iZRKTvgg3u/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png",02h30 ASD Alcione VS Clodiense (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/CmcLwLER4CZHyX0hTVJ5tA/Fv2lucGIbhPi2caWYvF5Lg/1740792753608/live/sd-6MsDBUVdpxu6rpThNB/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png",02h00 Dordrecht VS Emmen (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/utmivAH7gYSvW3aJgAD_XA/Fv2lucGIbhPi2caWYvF5Lg/1740791319606/live/sd-6MsG9ZVgmULgHe4Uio/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/25a5cf3b6d2436affa2573abc0ba0abf.png",02h30 Gornik Zabrze VS Cracovia Krakow (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/5KLfg3J-V9HpcDIuvhdU2w/Fv2lucGIbhPi2caWYvF5Lg/1740792760234/live/sd-6MsFQaf6JLwMHQjR55/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png",01h00 Sepsi OSK Sfantul Gheorghe VS CFR Cluj (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -315,6 +331,10 @@ https://hotlivezz179026907.akainu.xyz/TbXtOMCNu97wAu6wZCAgbg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/3BrqmujY0Z17A0CJ2kEEiA/Fv2lucGIbhPi2caWYvF5Lg/1740791329231/live/sd-6MsG9ZS11CHvvC3YVy/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png",02h30 Giana VS Lumezzane (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/vi4uTY3DFtSQC0t90Vm3Tw/Fv2lucGIbhPi2caWYvF5Lg/1740792771450/live/sd-6MsDBUVdq3J4bn7Xfy/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c48508454f43d926a553270b1b4ebcd7.png",02h00 Al Hilal vs Al Ahli (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -343,30 +363,6 @@ https://apisportzz179528093.nsnd.live/lFVkb3qS7P9uvHFG595NBw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/Yy4f_dryk7umCmZa1eF3Rw/Fv2lucGIbhPi2caWYvF5Lg/1740791336034/live/sd-6MsG9ZVgmYje2biK2b/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/mapHD.flv?expire=1740785566&sign=872b7ba21be0851220f1c4af6d31fcdc
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/nZqWJL1o6nAt6323VeqgUQ/Fv2lucGIbhPi2caWYvF5Lg/1740785566335/live/mapHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODU1NjYsInVyaSI6Ii9tYXBIRCIsImlhdCI6MTc0MDc2Mzk2Nn0.sJzAnZCX1_5Y1Fk6boP2WW5c6gFsxJBQDzEqxdFqbtc-/mapHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/81794aded15ed71b1d51eaffe4342737/1740785566336/live/mapSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/h2aEb7s_bNphZ505BO5Zqw/2ab36550347e65f07744d25bb0b46764/1740785566/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/9vBgcExMK_I-tZXbDHf_Bg/Fv2lucGIbhPi2caWYvF5Lg/1740785566337/live/sd-6MsGeqCRAeTjJiD3eK/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4275e652e6c64d896869dc9519f4e654.png",01h00 FC Viktoria Köln VS 1. FC Saarbrücken (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -375,34 +371,18 @@ https://apisportzz179528093.nsnd.live/QYQJGih_Bm2Lb44xSx2Buw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/2baNRra9-LGY05B2AJQzbw/Fv2lucGIbhPi2caWYvF5Lg/1740791823350/live/may41/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",00h30 Anadolu Efes Sports Club vs Alba Berlin (CK) HD nhanh
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",02h30 FC Cartagena VS Eibar (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1740785082&sign=793cc87f53883539b7603d38d290aa92
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",00h30 Anadolu Efes Sports Club vs Alba Berlin (CK) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/U7ZycMau9juQMO6-Asy9hg/Fv2lucGIbhPi2caWYvF5Lg/1740785082411/live/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",00h30 Anadolu Efes Sports Club vs Alba Berlin (CK) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODUwODIsInVyaSI6Ii9aMkhEIiwiaWF0IjoxNzQwNzYzNDgyfQ.QeMmd2OeebKXUufHhrgVIvXw7ry36kNCHoenTKyKcrs-/Z2HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",00h30 Anadolu Efes Sports Club vs Alba Berlin (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/1e2e73310b4a222de441fc7eaaef8a7f/1740785082412/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",00h30 Anadolu Efes Sports Club vs Alba Berlin (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/w_oyJ3mTtvNO6m45q7Fp5A/2f5c86e8dcb258706feb1f79081dd77d/1740785082/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/EGplyRuqpFzlNoTy9MGnmQ/Fv2lucGIbhPi2caWYvF5Lg/1740792781481/live/sd-6MsGeKsS7WM7poWxFV/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/7b204fc4df9a3da91d3a82fc26ee866d.png",01h30 Stade Ouchy VS FC Wil 1900 (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/KptB6EmMt6E4EMDOgkum0w/Fv2lucGIbhPi2caWYvF5Lg/1740789617556/live/sd-6MtN8UszRSYfN92d31/playlist.m3u8
+https://apisportzz179528093.nsnd.live/qSaFlsqTTklA7aFZujqOow/Fv2lucGIbhPi2caWYvF5Lg/1740789189836/live/sd-6MtN8UszRSYfN92d31/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png",02h00 Stade Lavallois MFC VS Martigues (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/t6b9OOoS4D8XQIcitScAzA/Fv2lucGIbhPi2caWYvF5Lg/1740791106407/live/sd-6MsGQ4AMEFEwdAd4rP/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Qk90RLS4LtdtN2S0TErJXQ/Fv2lucGIbhPi2caWYvF5Lg/1740791347555/live/sd-6MsGQ4AMEFEwdAd4rP/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png",01h00 Randers FC vs Aarhus AGF (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -414,67 +394,75 @@ https://apisportzz179528093.nsnd.live/PxhEHAbnUVLM1y_C4D0u3A/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png",02h00 Annecy VS Paris FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/41huChp4AlxZzdSpUs7qeg/Fv2lucGIbhPi2caWYvF5Lg/1740791106730/live/sd-6MsGQ4AMED3Tkgo9hV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/2PGzMayxI9S5Xsi7fdET9w/Fv2lucGIbhPi2caWYvF5Lg/1740791352203/live/sd-6MsGQ4AMED3Tkgo9hV/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/daoHD.flv?expire=1740792795&sign=70f830bc9e59f67361e9ec33c9bd3d7b
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/mSzxiZObms2KkWoRqtKGNg/Fv2lucGIbhPi2caWYvF5Lg/1740792795945/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3OTI3OTUsInVyaSI6Ii9kYW9IRCIsImlhdCI6MTc0MDc3MTE5NX0.w6BS4YaZxw8hxKunObjnqLrHDV5-oBBXiRJmC1E8ENY-/daoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/d6b6acdd99cc3ff786ef3e6b3c17f5a0/1740792795946/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/rrU9-4BogctNs0HPpRjv9A/67544df98adad7c165ac45843eec88d6/1740792795/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/Fb11ezp47GlngmuCmghXOA/Fv2lucGIbhPi2caWYvF5Lg/1740792795946/live/may11/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/bqnYjPDsDov4Zsjvm-Ve6w/Fv2lucGIbhPi2caWYvF5Lg/1740792795946/live/sd-6MsGA1VxUfkcHKcJvF/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munich (CK) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/uXw-EjfrBMIIE2ay3YHkOw/Fv2lucGIbhPi2caWYvF5Lg/1740792795946/live/hd-en-6MsGA1VxUfkcHKcJvF/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png",02h00 FC Utrecht (Youth) VS Jong Ajax (Youth) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/tOCxdHBH3kbg273U34thmA/Fv2lucGIbhPi2caWYvF5Lg/1740791116459/live/sd-6MsG9ZVhGcZCaaNDgF/playlist.m3u8
+https://apisportzz179528093.nsnd.live/o_myAgjvnKziYzovLjmTlw/Fv2lucGIbhPi2caWYvF5Lg/1740791359423/live/sd-6MsG9ZVhGcZCaaNDgF/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a808c778b477ba6dd32d5290b9d133cc.png",02h00 Volendam VS Helmond Sport (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/q0PIBrzG1uMeUbu7BNyBKQ/Fv2lucGIbhPi2caWYvF5Lg/1740791116751/live/sd-6MsG9ZVgmaw7u5YEBV/playlist.m3u8
+https://apisportzz179528093.nsnd.live/rNTY1NfYKCFVWNtDjxC2yA/Fv2lucGIbhPi2caWYvF5Lg/1740791359758/live/sd-6MsG9ZVgmaw7u5YEBV/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/79b7bbc74fab92edf125a270bfe07c19.png",02h00 Clermont VS Caen (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/qLvOQpTh8ZwB3giTn8yrCA/Fv2lucGIbhPi2caWYvF5Lg/1740791106998/live/sd-6MsGQ4AMDiUDST4Ehq/playlist.m3u8
+https://apisportzz179528093.nsnd.live/GgieIEGD8AxpqBD5v1_fBg/Fv2lucGIbhPi2caWYvF5Lg/1740791365617/live/sd-6MsGQ4AMDiUDST4Ehq/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/7c994eb6a160d5fecc5f50d5bab368bf.png",01h00 Chemik Police Women vs Mogilno Women (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1740787756&sign=761633187a143e7c7bfd1b08a7172710
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/7c994eb6a160d5fecc5f50d5bab368bf.png",01h00 Chemik Police Women vs Mogilno Women (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/ISRZb3wRraa0pPOPQOQBgg/Fv2lucGIbhPi2caWYvF5Lg/1740787756778/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/7c994eb6a160d5fecc5f50d5bab368bf.png",01h00 Chemik Police Women vs Mogilno Women (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODc3NTYsInVyaSI6Ii9jdW5IRCIsImlhdCI6MTc0MDc2NjE1Nn0.qeZrwJMhJnYYWrcb3bH-owzqKQCzCQQj1QSu8ausQyo-/cunHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/7c994eb6a160d5fecc5f50d5bab368bf.png",01h00 Chemik Police Women vs Mogilno Women (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/0da92b90237d03d8f994652f57f5958f/1740787756779/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/7c994eb6a160d5fecc5f50d5bab368bf.png",01h00 Chemik Police Women vs Mogilno Women (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/HPsF508QkFWvTSi4QB_qBw/317070d9a306b71c37e6ea9e37f2842f/1740787756/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/10540a07f57639f4599e0c59544418c7.png",01h00 Ena Shibahara vs Ajla Tomljanovic (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/T8Lhg5eE_YPXqlfpzPJkEA/Fv2lucGIbhPi2caWYvF5Lg/1740788234407/live/may10/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs Greuther Furth (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179536519.akainu.xyz/live/phoHD.flv?expire=1740780722&sign=a72a1f6bc10c8b3e9709a91711ec2a27
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs Greuther Furth (VB) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179569584.akainu.xyz/OYrQghQpiAO025HQcJxXSg/Fv2lucGIbhPi2caWYvF5Lg/1740780722828/live/phoHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs Greuther Furth (VB) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODA3MjIsInVyaSI6Ii9waG9IRCIsImlhdCI6MTc0MDc1OTEyMn0.60wflL0kED5qC6Mz_-yfDto7uOGQRJYqRPi8J3Vsg2g-/phoHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs Greuther Furth (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/2e9057585fb492f5cff9a3b4a84a9996/1740780722829/live/phoSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs Greuther Furth (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://live-xlvb.nsnd.live/GUZWr9om-rmJE4oB_TCCQw/4f331a41223542c17c4032aeaac138d5/1740780722/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1740781022&sign=8bdf173ed733299f02e760784e09f45b
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (VB) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179569584.akainu.xyz/2vSDDuH5I29IKfU15BHC1Q/Fv2lucGIbhPi2caWYvF5Lg/1740781022887/live/trauHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (VB) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3ODEwMjIsInVyaSI6Ii90cmF1SEQiLCJpYXQiOjE3NDA3NTk0MjJ9.hslc-HvaXOvYc1u5zYrwffxgaFUlXB7T-GjMExLBzR4-/trauHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/4253c1dafe1a1bbccdab8cd74e09e540/1740781022888/live/trauSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://live-xlvb.nsnd.live/tqNkKIMM29W_Fv2QHqkZ0w/847878fb5be3ca4c0539d0883bc5274a/1740781022/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4f0b2d70523ecad73159c3b89d1f9cf3.png",00h30 Degerfors IF vs Trelleborgs FF (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/0_UlXa7a5S1RGtzkrJsftA/Fv2lucGIbhPi2caWYvF5Lg/1740785544512/live/sd-6MtMNzjtsCbbDcSvpT/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png",01h00 Randers FC vs Aarhus AGF (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -587,6 +575,70 @@ https://apisportzz179528093.nsnd.live/0ABeCTQNOfjwadDMOXdTgA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/oqin1ah5vYodL54huiK-BA/Fv2lucGIbhPi2caWYvF5Lg/1740791802949/live/sd-6MtN8UszQwyR3uHi3M/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e28d747bd5c156dfd233fb60fce48292.png",02h30 Gornik Zabrze vs Cracovia Krakow (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/2vimyqaQHZRn51cGOpBqWw/Fv2lucGIbhPi2caWYvF5Lg/1740792760305/live/sd-6MsFQaf6JLwMHQjR55/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b480a16cd74497a00b3a40f81690efcf.png",02h30 Arka Gdynia vs Wisla Krakow (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/gmmVNVASNGuNR6Z-cwZAgA/Fv2lucGIbhPi2caWYvF5Lg/1740792760640/live/sd-6MsFQvG1iZRKTvgg3u/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1740792762&sign=8cac132fbce6616976ed0af661e0f655
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/MyUZl4qMD3LcHRbHTaaLOw/Fv2lucGIbhPi2caWYvF5Lg/1740792762520/live/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA3OTI3NjIsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzQwNzcxMTYyfQ.7fnCWNhRFZtM7u3EVYRQJW0f1yJCzqNiMpZGmLjAGOc-/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/2bb737230c3bd3fb6fcdf403144e0865/1740792762521/live/Z1SD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://live-xlvb.nsnd.live/x-81BodDdRvRchQT0NbzgA/bf44ba621235a4936d4c6ae6054d551e/1740792762/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://f2.banhkhuc3.org/truc-tiep/vfb-stuttgart-vs-bayern-munchen-ata95j7
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179026907.akainu.xyz/rEV87rrB5xBloFnMp47SZQ/Fv2lucGIbhPi2caWYvF5Lg/1740792762521/live/may11/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/RNj-q_cPKkQz4fx0FLiOvw/Fv2lucGIbhPi2caWYvF5Lg/1740792762521/live/sd-6MsGA1VxUfkcHKcJvF/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs Bayern Munchen (VB) Backup 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/_Tm-tkOPr9GTz53nkjGWyQ/Fv2lucGIbhPi2caWYvF5Lg/1740792762521/live/hd-en-6MsGA1VxUfkcHKcJvF/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png",02h30 FC Cartagena vs Eibar (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/tyYBue5nLemNQMITTejY9w/Fv2lucGIbhPi2caWYvF5Lg/1740792763290/live/sd-6MsGeKsS7WM7poWxFV/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8f8bc56bdfd14c69ff4f32eb297e87cf.png",02h30 SV Ried vs Floridsdorfer AC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/321iK_YyskEyqW_KU-gSug/Fv2lucGIbhPi2caWYvF5Lg/1740792763615/live/sd-6MsGeDLiU8NSXKJ7hV/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png",02h30 ASD Alcione vs Clodiense (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/uEPs-tsAXMY63r3KVsgc1w/Fv2lucGIbhPi2caWYvF5Lg/1740792764384/live/sd-6MsDBUVdpxu6rpThNB/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png",02h30 Giana vs Lumezzane (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/Y6D8XeKJ2GcBMZKPPagQEA/Fv2lucGIbhPi2caWYvF5Lg/1740792765201/live/sd-6MsDBUVdq3J4bn7Xfy/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/31beaaee73f7b112e64c14e0c20b0fbe.png",02h30 Deportivo Rayo Zuliano vs Portuguesa FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/M9J9aZvZ2ugfuOQ79GTZuQ/Fv2lucGIbhPi2caWYvF5Lg/1740792769016/live/sd-6MtN8m9VBPb54jXgH1/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",00:30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (CKH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -751,6 +803,30 @@ https://179463904.cdnfree.pro/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/cohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplussd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",03:00 Aston Villa vs Cardiff City (CKH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplushd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c48508454f43d926a553270b1b4ebcd7.png",02h00 Al-Orubah vs Al Nassr FC (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -775,34 +851,6 @@ https://179939170.vipcdnlive.xyz/live/momsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Fortuna Dusseldorf vs SpVgg Greuther Fürth (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m308qt/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/phusd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/phuhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/phusd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/phuhd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/phusd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png",00h30 Schalke 04 vs Preuben Munster (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/275fbebeca574500a79c9ad931e49d37.png",01h00 Sepsi OSK Sfantul Gheorghe vs CFR Cluj (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -839,3 +887,39 @@ https://179939633.vipcdnlive.xyz/live/m310qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",02h30 FC Cartagena vs Eibar (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://liveflvhot-qt.vipcdnlive.xyz/live/taosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://liveflvhot-qt.vipcdnlive.xyz/live/taohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/taosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/taohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/taosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/taohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png",02h30 VfB Stuttgart vs FC Bayern Munich (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/25a5cf3b6d2436affa2573abc0ba0abf.png",02h30 Gornik Zabrze vs Cracovia Krakow (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m103qt/playlist.m3u8
