@@ -87,7 +87,7 @@ https://179463904.cdnfree.pro/live/hplushd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Ngoại hạng Armenia",20h00 GANDZASAR KAPAN VS ARARAT YEREVAN (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Ngoại hạng Armenia",20h10 GANDZASAR KAPAN VS ARARAT YEREVAN (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
@@ -119,6 +119,34 @@ https://179463904.cdnfree.pro/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/lanhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/caysd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Qatar",20h45 AL DUHAIL VS AL SHAHANIYA (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/cayhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png",20h25 Al-Hamriyah VS Gulf United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/dGrfuUVE3eArYi1CVLIIeQ/Fv2lucGIbhPi2caWYvF5Lg/1740771127452/live/sd-6MtM8tsTK3irf2De3u/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/1a376e9186a7276a0ce8a7e048c210a8.png",20h00 Hapoel Afula VS  Hapoel Nof HaGalil (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -151,10 +179,22 @@ https://apisportzz179528093.nsnd.live/IphzFngN1UZvUSFmGju9XA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/RwFPz_-f9-b6MoSoqoiZuA/Fv2lucGIbhPi2caWYvF5Lg/1740766090340/live/sd-6MsGPzvpcvnQJMNbmd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png",20h25 Gulf Heroes FC VS Masfout (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/r2SU5LW7yvv45lRnOffn-Q/Fv2lucGIbhPi2caWYvF5Lg/1740771132125/live/sd-6MtM8tsTK5vLXW3ZCo/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/1a376e9186a7276a0ce8a7e048c210a8.png",20h00 Hapoel Kfar Saba VS Hapoel Umm Al Fahm (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/wxYE1YAT59UO_WjLN7EOXA/Fv2lucGIbhPi2caWYvF5Lg/1740769219638/live/sd-6MsDBUZM5z2mSSXMhD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/684a3d03405f1e1f3db1a06088745316.png",20h25 Al Thaid VS Al-Dhafra (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/rDN_TolqH9T8knldpCT48Q/Fv2lucGIbhPi2caWYvF5Lg/1740771138021/live/sd-6MtM8tsTKAKJGThPWb/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c114e9d93a21aa1c47cc4c8e5b380d.png",20h00 Vitalo VS LLB Academic (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/VPZSPJZKrC6H3P5RMS3L8Q/Fv2lucGIbhPi2caWYvF5Lg/1740769224543/live/sd-6MtN89PhsRrutzmM8P/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a9d9726d17514f81abb93899ef407f3a.png",19h00 Zira FK VS Araz Nakhchivan (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -195,6 +235,10 @@ https://apisportzz179528093.nsnd.live/4MKMC2PtSX5yLBDjSAACiw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/_DwTHT8PMp7RZQgdeIxR9Q/Fv2lucGIbhPi2caWYvF5Lg/1740769234698/live/sd-6MsDBUZMbYRaJevBLX/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png",20h30 FC Vorskla Poltava VS Dynamo Kyiv (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wG3RXoYVM2zmqSDDMfWggw/Fv2lucGIbhPi2caWYvF5Lg/1740771149711/live/sd-6MsGeDGJix5e9mxJnX/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",18h15 Rain or Shine Elastopainters vs TNT Tropang Giga (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -239,14 +283,6 @@ https://live-xlvb.nsnd.live/7eip38DP822dJuQsyaSNaA/317070d9a306b71c37e6ea9e37f28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/rqzX7PCbYDJMJ2IvZ-k7dA/Fv2lucGIbhPi2caWYvF5Lg/1740770204612/live/may111/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port vs Changchun Yatai (VB) Người Cá
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://v13.cakeo36.diy/truc-tiep/shanghai-port-fc-vs-changchun-yatai-fc-wi1j9dcbm0-rid-swl1b20grz
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port vs Changchun Yatai (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/GbKTNQmsIg_o1qCiAzLhdw/Fv2lucGIbhPi2caWYvF5Lg/1740764403275/live/sd-6MtMtKhbAvA7ZHUn4K/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d9dd5dfa3d7545e5742ae0f8ff760f29.png",19h00 Mahasarakham United FC vs Trat FC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -303,6 +339,26 @@ https://apisportzz179528093.nsnd.live/14F7C9SnBTLS_PdxtYyiNA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/2uYnVJvm69qxcDaEx3JmdQ/Fv2lucGIbhPi2caWYvF5Lg/1740769218694/live/sd-6MsDBUZMbYRaJevBLX/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/29c114e9d93a21aa1c47cc4c8e5b380d.png",20h00 Vitalo vs LLB Academic (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/UKPCXGKVYJni1j1RfB9I6w/Fv2lucGIbhPi2caWYvF5Lg/1740771146146/live/sd-6MtN89PhsRrutzmM8P/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png",20h25 Al-Hamriyah vs Gulf United (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/wsV8uIcsuoD7SVbWuc550w/Fv2lucGIbhPi2caWYvF5Lg/1740770464533/live/sd-6MtM8tsTK3irf2De3u/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png",20h25 Gulf Heroes FC vs Masfut (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/tvf6LDcwGFvjyOv76Z3XWg/Fv2lucGIbhPi2caWYvF5Lg/1740771095839/live/sd-6MtM8tsTK5vLXW3ZCo/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png",20h25 Al Thaid vs Al-Dhafra (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/pD2wyg49Z3RjmIyfY59-QA/Fv2lucGIbhPi2caWYvF5Lg/1740771096350/live/sd-6MtM8tsTKAKJGThPWb/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d3934b6c112331b44aed3e1c14badcaa.png",20h30 FC Vorskla Poltava vs Dynamo Kyiv (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/aH5HHtu3zkrid0AtMAP4bA/Fv2lucGIbhPi2caWYvF5Lg/1740771151998/live/sd-6MsGeDGJix5e9mxJnX/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",18:35 Shanghai Port FC vs Changchun Yatai FC (CKH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -387,30 +443,30 @@ https://179463904.cdnfree.pro/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/lanhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) SD Nhanh
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/phusd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) HD Nhanh
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/caysd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/phuhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) SD 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/cayhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/phusd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) HD 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/phuhd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) SD 2
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/phusd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",18h35 Shanghai Port FC vs Changchun Yatai FC (LK) HD 2
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/caysd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",20:45 Al Duhail vs Al Shahaniya (CKH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/cayhd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png",19h15 Viettel FC vs Nam Định (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -439,3 +495,7 @@ https://179939170.vipcdnlive.xyz/live/momhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5edae2b7b8f5eef8c1a6ee1b46118eae.png",20h30 FC Vorskla Poltava vs Dynamo Kyiv (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m201qt/playlist.m3u8
