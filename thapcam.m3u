@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tennis1.png",07h00 ATP500 Acapulco Open [TC] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179026907.akainu.xyz/Paq9_UpZamZlfEsud6mRpw/Fv2lucGIbhPi2caWYvF5Lg/1740700629817/live/may101/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/motoGP.png",09h00 Grand Prix of Thailand: Moto3, Moto2 Free Practice 1 [TC] Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179026907.akainu.xyz/8fuq8Hj_SZSHpQjTJem9Qg/Fv2lucGIbhPi2caWYvF5Lg/1740706869357/live/may21/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/motoGP.png",13h15 Grand Prix of Thailand: Moto3, Moto2 Practice [TC] Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -15,6 +7,10 @@ https://hotlivezz179026907.akainu.xyz/DXu1YIvArlfX4lZS9D_C9Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179569584.akainu.xyz/ctGWMya1ZJdfN2uVoaQ8Ew/Fv2lucGIbhPi2caWYvF5Lg/1740724396153/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/2418779.png",14h00 F1 Pre Season Testing [TC] Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179026907.akainu.xyz/LIdnnNSMEdMNCLbqPOGrIw/Fv2lucGIbhPi2caWYvF5Lg/1740726548670/live/may17/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: A-League Women",12h50 CENTRAL COAST MARINERS (W) VS WS WANDERERS (W)(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -91,10 +87,22 @@ https://apisportzz179528093.nsnd.live/xtPOK4b-IKa1jKc2R9gD9w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/PbnSW4AxPWi2-Tiv1tcplQ/Fv2lucGIbhPi2caWYvF5Lg/1740745927971/live/hd-en-6MsGQPkYVyQHcDEbLF/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png",14h00 Tianjin Shengde (w) VS Beijing (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ptgQ_AojySDkdciLBCYKgg/Fv2lucGIbhPi2caWYvF5Lg/1740748090587/live/sd-6MtJQoLWdqsB5aZPYX/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png",14h00 Qingdao West Coast(w) VS Dalian(w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/N4uT3oXud80bkGu8gnPb_Q/Fv2lucGIbhPi2caWYvF5Lg/1740748090949/live/sd-6MtJQoLWeLSRPpJJYB/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/30a07d99f1e998754b127edb48f9fbd9.png",13h30 Dessie Ketema VS Siltie Worabe (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/yXVgUDr7rsC0CnQ_7_t0MQ/Fv2lucGIbhPi2caWYvF5Lg/1740745930637/live/sd-6MtJQk3Jc9HAKC27md/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4f75e9026f344c172306b440528a7018.png",14h00 Adamstown Rosebud Reserves VS Maitland FC Reserves (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/XnhNt_WgbhhJ1sj_G45QbA/Fv2lucGIbhPi2caWYvF5Lg/1740748093272/live/sd-6MtJQoMzStXA9VCf23/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/3391c527d7cfb37ff6f5c9c05042869b.png",12h50 Central Coast Mariners women vs WS Wanderers (w) (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -155,6 +163,18 @@ https://apisportzz179528093.nsnd.live/Tdk3haFV3-modZdC6_c1mw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/bQdE-3jGdLur-nXa0-1z1w/Fv2lucGIbhPi2caWYvF5Lg/1740746885082/live/sd-6MtJQgkqDmeT5NWzDy/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png",14h00 WEST COAST QINGDAO (WOMEN) vs Dalian football School (w) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/GcAle76CywmeO7CTiIr53Q/Fv2lucGIbhPi2caWYvF5Lg/1740748086454/live/sd-6MtJQoLWeLSRPpJJYB/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png",14h00 Tianjin Shengde Women vs Beijing Beikong (w) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/HJQp41lUYC7E1fW0O74vrA/Fv2lucGIbhPi2caWYvF5Lg/1740748086874/live/sd-6MtJQoLWdqsB5aZPYX/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4f75e9026f344c172306b440528a7018.png",14h00 Adamstown Rosebud Reserves vs Maitland FC Reserves Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/uPbbVAo_cUvnG6_YcPfXCA/Fv2lucGIbhPi2caWYvF5Lg/1740748088479/live/sd-6MtJQoMzStXA9VCf23/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",10:00 Vancouver Whitecaps vs Deportivo Saprissa(CK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
