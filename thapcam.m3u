@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",03h30 Cavaliers vs Blazers (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179569584.akainu.xyz/Ca_I4Z-0PlbgJvf-d5nynw/Fv2lucGIbhPi2caWYvF5Lg/1740945435866/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",05h00 Pacers vs Bulls (TC) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -35,6 +31,10 @@ https://hotlivezz179569584.akainu.xyz/XaALpvgk2rdkS-f74s27NQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179569584.akainu.xyz/FmnVbclV28wZO6vfFidy5A/Fv2lucGIbhPi2caWYvF5Lg/1740957430997/live/may2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/da1dda51570a5ed27e79e3ddb49d4e60.png",06h45 Santos vs Bragantino (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/3QQJNV17wR1KtJIAD4Gf7g/Fv2lucGIbhPi2caWYvF5Lg/1740959398393/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",05h00 Queretaro FC vs Puebla (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -87,26 +87,26 @@ https://apisportzz179528093.nsnd.live/4hVieBBLRpel47bAq5GOMQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/l3OeRxPSWJWT7P_p3lZbpw/Fv2lucGIbhPi2caWYvF5Lg/1740979622540/live/sd-6MtMtP2H1pC2sVxyvK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h30 Cavaliers vs Portland Trail Blazers Cavaliers vs Portland Trail Blazers (CK) HD nhanh
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Bragantino (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z3HD.flv?expire=1740966970&sign=8d8dd975fdc59a6d12ced03b37880b1d
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h30 Cavaliers vs Portland Trail Blazers Cavaliers vs Portland Trail Blazers (CK) HD1
+https://hotlivezz179536519.akainu.xyz/live/may1HD.flv?expire=1740977522&sign=eef9eba5627fd67c99f5775cdd49cc0a
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Bragantino (VB) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/JdqFQLc-n294bARuNrcKwA/Fv2lucGIbhPi2caWYvF5Lg/1740966970512/live/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h30 Cavaliers vs Portland Trail Blazers Cavaliers vs Portland Trail Blazers (CK) HD2
+https://hotlivezz179569584.akainu.xyz/pegZnSmaBiREW8Gz45-3yg/Fv2lucGIbhPi2caWYvF5Lg/1740977522281/live/may1HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Bragantino (VB) HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5NjY5NzAsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzQwOTQ1MzcwfQ.XO-fvMftAZBrMElMjDzRcEp1ZEfblzBlpBQRkGcKFg4-/Z3HD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h30 Cavaliers vs Portland Trail Blazers Cavaliers vs Portland Trail Blazers (CK) SD
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5Nzc1MjIsInVyaSI6Ii9tYXkxSEQiLCJpYXQiOjE3NDA5NTU5MjJ9.Cx3Ag29QJTCyEF3g53n-PrhroxLFbMoBtGtLn3YxgGY-/may1HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Bragantino (VB) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6d7a67929dc11230014bbd866ede6dc3/1740966970514/live/Z3SD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h30 Cavaliers vs Portland Trail Blazers Cavaliers vs Portland Trail Blazers (CK) FullHD
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/bc6bd4e27af59c6af3761ddd2e2c4c78/1740977522281/live/may1SD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Bragantino (VB) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/i92G-u01A75bmtRgU6zVMA/fc724b392eb664de8f0b54609b1e66f5/1740966970/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/sMSXRbawh8lgYsqDcjSJ-g/a75e9b78c79480f30c7ea83b12c71e42/1740977522/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",05h00 Pacers vs Bulls Pacers vs Bulls (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -263,6 +263,30 @@ https://apisportzz179528093.nsnd.live/ySju2Erjp2pPGR3SQa-dow/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/-dIDw7uf-gnADUqY6wSuTQ/Fv2lucGIbhPi2caWYvF5Lg/1740979926439/live/sd-6MtMtP2H1pC2sVxyvK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/caHD.flv?expire=1740980886&sign=a70295b1a7d105fe6e2f71dcb44e4635
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/ZdWx6ZQ1ray8JodtdczF3g/Fv2lucGIbhPi2caWYvF5Lg/1740980886672/live/caHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5ODA4ODYsInVyaSI6Ii9jYUhEIiwiaWF0IjoxNzQwOTU5Mjg2fQ.kY39fVzn4glVi6ICd1B0kmWfCB5AEI5syUvid3Maxec-/caHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/8fc1ed1826782a7ef1e0de6eab893e19/1740980886673/live/caSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/WDnV3Sp1-FwEUfXtx9-K6w/cfb1d1e3eb5f383163a349652a8f21a5/1740980886/live/_definst_/stream_1_1bda7@caFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h45 Santos vs Red Bull Bragantino Santos vs Red Bull Bragantino (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/VzkhyqBHK7paC_nlI9RZYw/Fv2lucGIbhPi2caWYvF5Lg/1740980886673/live/sd-6MtJQQZ1Dn2GHsbU91/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/b480a16cd74497a00b3a40f81690efcf.png",18h00 Chrobry Glogow vs Stal Stalowa Wola (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -619,3 +643,11 @@ https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/682947432b57fb3dba64d9f6c7b8a4d7.png",06h30 Union La Calera vs O.Higgins (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/a2e4bc9d8bf956eced7e1ba91d67507c.png",06h45 Santos vs Red Bull Bragantino (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m103qt/playlist.m3u8
