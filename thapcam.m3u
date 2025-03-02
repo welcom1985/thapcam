@@ -27,10 +27,6 @@ https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Kazakhstan]" tvg-logo="",17h00 Kaisar Kyzylorda vs Zhenis (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/m401nd.flv
 #EXTINF:0 group-title="[Belarusian Cup]" tvg-logo="",17h00 Dinamo Brest vs FC Torpedo Zhodino (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -71,6 +67,30 @@ https://179421011.cdnfree.pro/live/m404nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m403nd/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoisd1.flv
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoihd1.flv
 #EXTINF:0 group-title="Chinese Super League" tvg-logo="",14h30 Qingdao West Coast FC vs Wuhan Three Towns FC Qingdao West Coast FC vs Wuhan Three Towns FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -95,10 +115,6 @@ https://live-xlvb.nsnd.live/rW9t8SP7JJFMTfFjS7V5bQ/adb8de5045254f4388ff92b08aeba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/6ldiuneWYl5E6O1hDHa06g/Fv2lucGIbhPi2caWYvF5Lg/1740924486884/live/sd-6MtMsvv7b2wdTsNiSw/playlist.m3u8
-#EXTINF:0 group-title="Australia Queensland State League 1" tvg-logo="",15h00 Brisbane Strikers VS Southside Eagles Brisbane Strikers VS Southside Eagles (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/fa-TWjErIQduzaRem3Sdlg/Fv2lucGIbhPi2caWYvF5Lg/1740924487721/live/sd-6MtMsm98gbNpjinBu5/playlist.m3u8
 #EXTINF:0 group-title="QLD D2" tvg-logo="",15h30 Taringa Rovers VS Souths United Taringa Rovers VS Souths United (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -179,14 +195,14 @@ https://apisportzz179528093.nsnd.live/jvduT0TJDnWp3XsRuOe5jA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/eYQXBinmxvU6Em0Nwn7K6Q/Fv2lucGIbhPi2caWYvF5Lg/1740930486350/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
+#EXTINF:0 group-title="Austrian Frauen Bundesliga" tvg-logo="",17h00 Neulengbach (w) VS Dornbirn (W) Neulengbach (w) VS Dornbirn (W) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/uzIEVjwAQsY7x2voR2xbzg/Fv2lucGIbhPi2caWYvF5Lg/1740931687512/live/sd-6MsCvaxLPDXMz4CHLw/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",15h00 Brisbane Olympic United FC vs Moreton Bay United (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/_bWh7yhhoO8wmIt0CZ_1Iw/Fv2lucGIbhPi2caWYvF5Lg/1740924131856/live/sd-6MtMsvv7b2wdTsNiSw/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/83da3307e1d67e67f68520382e22ed93.png",15h00 Brisbane Strikers vs Southside Eagles (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/iDahMpFqsFv9PylSxqopbQ/Fv2lucGIbhPi2caWYvF5Lg/1740924491213/live/sd-6MtMsm98gbNpjinBu5/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5813bc7c416988a9c80020c680a6f1a5.png",15h30 Taringa Rovers vs Souths United (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -211,6 +227,18 @@ https://apisportzz179528093.nsnd.live/vQ_q5eRJti3Wx0EUmkLJwg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/UWCh5m-Sl1GecIf95S6R_g/Fv2lucGIbhPi2caWYvF5Lg/1740930497765/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2ba8698b79439589fdd2b0f7218d8b07.jpg",17h00 Neulengbach (w) vs Dornbirn (W) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/xEFiV2IIzBdDdk0H8tKVMA/Fv2lucGIbhPi2caWYvF5Lg/1740930905926/live/sd-6MsCvaxLPDXMz4CHLw/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b1b67c63e3a4b74010028210dd42a77f.png",17h00 Khánh Hòa vs Long An (VB) NHÀ ĐÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179026907.akainu.xyz/TZLsGBqcd3xsHaojkyLElg/Fv2lucGIbhPi2caWYvF5Lg/1740928563041/live/may10/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b2db315c601e35550890342833f2b693.png",17h00 Kaisar Kyzylorda vs Zhenis (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/gBuByycRN-OnrvkOxYSm_g/Fv2lucGIbhPi2caWYvF5Lg/1740931665446/live/sd-6MtJQTjZt6Q4BUK6jM/playlist.m3u8
 #EXTINF:0 group-title="[VĐ Queensland (Úc)]" tvg-logo="",15h00 Brisbane Olympic United FC vs Moreton Bay United (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -219,10 +247,6 @@ https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Kazakhstan]" tvg-logo="",17h00 Kaisar Kyzylorda vs Zhenis (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/m401nd.flv
 #EXTINF:0 group-title="[Belarusian Cup]" tvg-logo="",17h00 Dinamo Brest vs FC Torpedo Zhodino (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -263,7 +287,59 @@ https://179421011.cdnfree.pro/live/m403nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m404nd/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoisd1.flv
+#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoihd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4e9bbe69138e2dce52b250649b110435.png",16h00 FC West Armenia vs BKMA (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m101qt/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://liveflvhot-qt.vipcdnlive.xyz/live/phusd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://liveflvhot-qt.vipcdnlive.xyz/live/phuhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/phusd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/phuhd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phusd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179421011.cdnfree.pro/live/m305nd/playlist.m3u8
