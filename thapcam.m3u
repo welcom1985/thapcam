@@ -39,6 +39,34 @@ https://179463904.cdnfree.pro/live/m401nd.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/sunsd1.flv
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/sunhd1.flv
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m305nd/playlist.m3u8
 #EXTINF:0 group-title="Chinese Super League" tvg-logo="",14h30 Qingdao West Coast FC vs Wuhan Three Towns FC Qingdao West Coast FC vs Wuhan Three Towns FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -147,10 +175,10 @@ https://apisportzz179528093.nsnd.live/4yeyLeHdMkuz72UtzqTz9g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/jvduT0TJDnWp3XsRuOe5jA/Fv2lucGIbhPi2caWYvF5Lg/1740929046826/live/sd-6MtJQQUZdvXnuoetSF/playlist.m3u8
-#EXTINF:0 group-title="Czech Third League" tvg-logo="",16h15 Jablonec B VS Mlada Boleslav B Jablonec B VS Mlada Boleslav B (CK) Backup 1
+#EXTINF:0 group-title="Czech Third League" tvg-logo="",16h15 Chlumec nad Cidlinou VS Banik Most-Sous Chlumec nad Cidlinou VS Banik Most-Sous (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/AERjb5wPMdtYg6BNfPsZdA/Fv2lucGIbhPi2caWYvF5Lg/1740929047181/live/sd-6MtJQQUZdtLK3KpyHM/playlist.m3u8
+https://apisportzz179528093.nsnd.live/eYQXBinmxvU6Em0Nwn7K6Q/Fv2lucGIbhPi2caWYvF5Lg/1740930486350/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",15h00 Brisbane Olympic United FC vs Moreton Bay United (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -183,6 +211,10 @@ https://apisportzz179528093.nsnd.live/GPLDwJvU2Jn-QhasXTn3IA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/vQ_q5eRJti3Wx0EUmkLJwg/Fv2lucGIbhPi2caWYvF5Lg/1740929041637/live/sd-6MtJQQUZdtLK3KpyHM/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png",16h15 Chlumec nad Cidlinou vs Most Mus (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/UWCh5m-Sl1GecIf95S6R_g/Fv2lucGIbhPi2caWYvF5Lg/1740930497765/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
 #EXTINF:0 group-title="[Vô Địch Philippines]" tvg-logo="",15h00 Maharlika vs Davao Aguilas (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -202,7 +234,35 @@ https://179463904.cdnfree.pro/live/m401nd.flv
 #EXTINF:0 group-title="[Belarusian Cup]" tvg-logo="",17h00 Dinamo Brest vs FC Torpedo Zhodino (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
+https://179463904.cdnfree.pro/live/m402nd.flv
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/sunsd1.flv
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/sunhd1.flv
+#EXTINF:0 group-title="[V-League 2]" tvg-logo="",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m305nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4e9bbe69138e2dce52b250649b110435.png",16h00 FC West Armenia vs BKMA (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
