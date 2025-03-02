@@ -31,14 +31,6 @@ https://hotlivezz179569584.akainu.xyz/S_EsvZV-tWnoDtPF9jY-oA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179569584.akainu.xyz/Uxxmb3avJMYM6RdJrdY0XQ/Fv2lucGIbhPi2caWYvF5Lg/1740898150427/live/chimHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J1 League",12h00 FAGIANO OKAYAMA VS SHIMIZU S-PULSE (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J2 League",12h00 IWAKI FC VS TOKUSHIMA VORTIS (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: K League 1",12h00 DAEJEON CITIZEN VS SUWON FC (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -63,14 +55,10 @@ https://179463904.cdnfree.pro/live/bipsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/biphd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: K League 2",12h00 BUSAN I PARK VS GYEONGNAM FC (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J2 League",12h00 IWAKI FC VS TOKUSHIMA VORTIS (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: K League 2",12h00 HWASEONG FC VS CHUNGNAM ASAN (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
+https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J1 League",12h00 TOKYO VERDY VS GAMBA OSAKA (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -99,6 +87,14 @@ https://179463904.cdnfree.pro/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/lanhd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J1 League",12h00 FAGIANO OKAYAMA VS SHIMIZU S-PULSE (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m201nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: K League 2",12h00 BUSAN I PARK VS GYEONGNAM FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m205nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J1 League",12h00 ALBIREX NIIGATA VS CEREZO OSAKA (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -175,6 +171,10 @@ https://179463904.cdnfree.pro/live/heosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/heohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: A-League Women",13h00 SYDNEY FC (W) VS BRISBANE ROAR (W) (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: J1 League",13h00 URAWA RED DIAMONDS VS KASHIWA REYSOL (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -199,18 +199,14 @@ https://179463904.cdnfree.pro/live/loisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/loihd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: A-League Women",13h00 SYDNEY FC (W) VS BRISBANE ROAR (W) (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Chinese Hong Kong FA Cup",14h00 EASTERN A.A FOOTBALL TEAM VS KOWLOON CITY (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
+https://179421011.cdnfree.pro/live/m303nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h00 Nagoya Grampus VS Machida Zelvia (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/LsvanRs0LbIe8a7GOQ0XzA/Fv2lucGIbhPi2caWYvF5Lg/1740913686846/live/sd-6MtMPH4LQ8RD6FYpDZ/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a1f1648054ac32596f2e18db095c52b4.png",12h00 Gainare Tottori VS Vanraure Hachinohe FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/M_vOMa9ZTh4eRrT2b85H-w/Fv2lucGIbhPi2caWYvF5Lg/1740917770964/live/sd-6MtMPDmtBSJiHHYSd9/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h00 Fagiano Okayama vs Shimizu S-Pulse (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -235,10 +231,6 @@ https://live-xlvb.nsnd.live/7cH3nfr7GsGrny5oI3BsWw/3eccd6392218a7eb1e58eb18b5b47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/Aac-tIeknA6Nc0O1PGjcxQ/Fv2lucGIbhPi2caWYvF5Lg/1740913691637/live/sd-6MtMPH4MQVFDR5p8SF/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/83da3307e1d67e67f68520382e22ed93.png",12h00 SWQ Thunder VS Redlands United FC (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/opKT6YbzK_lCxCG1nUtesA/Fv2lucGIbhPi2caWYvF5Lg/1740917773838/live/sd-6MtMsm8NMzK23c2YvP/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h30 Sanfrecce Hiroshima vs Yokohama FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -263,10 +255,6 @@ https://live-xlvb.nsnd.live/wqPOHXShOTzS-L-LGjaLqQ/522fa8a1e6086eda6ae886e796133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/3N9tvV5KTc_9n3pQev0FVA/Fv2lucGIbhPi2caWYvF5Lg/1740915134937/live/sd-6MtMPH4MQNemoeLNyZ/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen VS Suwon Football Club (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/AxrCUZ-9yWng45lQPmaFsQ/Fv2lucGIbhPi2caWYvF5Lg/1740913697717/live/sd-6MtN8RfvH4nkLSjeHy/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5813bc7c416988a9c80020c680a6f1a5.png",12h00 Samford Ranges VS Pine Hills (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -279,10 +267,6 @@ https://apisportzz179528093.nsnd.live/UOzNox7fKMsOm6xzhPIcsQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/2gva5MrtJg7WON0fM-dxIA/Fv2lucGIbhPi2caWYvF5Lg/1740917781138/live/sd-6MtMsscutUKHDm3F8o/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Jeonbuk Hyundai Motors II VS Gimhae City (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/M1EnmTC_0Bme9ZSAYq70Og/Fv2lucGIbhPi2caWYvF5Lg/1740917781954/live/sd-6MtJQaFYhXztG4BC75/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/3110d1717fed14a7b4367e0b9171f334.png",12h30 New Lambton FC VS Broadmeadow Magic (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -327,10 +311,6 @@ https://apisportzz179528093.nsnd.live/94FLhPIXBXnMSZtTDPmRyQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/Nx9vLoHipCoBXtmnSgdFvg/Fv2lucGIbhPi2caWYvF5Lg/1740919707662/live/sd-6MtMPH4MaGKBxrxa1Z/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/35e5286e9344ce4b09525c4cdf149cce.png",12h00 Souths United SC (w) VS Mitchelton (w) (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/QgfqoqU531SE3Jyx_qhlMA/Fv2lucGIbhPi2caWYvF5Lg/1740917792303/live/sd-6MtJQk4mQXXJ6RnjoH/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",13h00 Brisbane City VS Eastern Suburbs Brisbane (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -339,38 +319,34 @@ https://apisportzz179528093.nsnd.live/nbkVS9TFFua3dTVZZn-mAg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/7f0dO5kYTnVDO_yafl6Orw/Fv2lucGIbhPi2caWYvF5Lg/1740917794332/live/sd-6MtMPH7JrCKX5SjZMd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",12h00 Hwaseong FC VS Chungnam Asan (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/l62R8uloyj-UuumvygMang/Fv2lucGIbhPi2caWYvF5Lg/1740917795476/live/sd-6MtMsscutYiExih5Sb/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png",12h00 Renofa Yamaguchi VS Hokkaido Consadole Sapporo (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/pBFJTYd7l_qfYKYLfuWx4g/Fv2lucGIbhPi2caWYvF5Lg/1740917796906/live/sd-6MtMPH7J1cZVJPcgiF/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD nhanh
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",14h00 Goyang Sono Skygunners vs Daegu KOGAS Pegasus (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1740912981&sign=a1555e5489a1161e93bd8886155d00c7
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD1
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1740920193&sign=42e0aabe1411dee88b07aa84375d2bf4
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",14h00 Goyang Sono Skygunners vs Daegu KOGAS Pegasus (CK) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/-9vJ6I-GfqC_hsGgc3WMAw/Fv2lucGIbhPi2caWYvF5Lg/1740912981330/live/gayHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD2
+https://hotlivezz179569584.akainu.xyz/l3PmIPa12jG_8ELTfcsbwQ/Fv2lucGIbhPi2caWYvF5Lg/1740920193879/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",14h00 Goyang Sono Skygunners vs Daegu KOGAS Pegasus (CK) HD2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MTI5ODEsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTc0MDg5MTM4MX0.sont1fEMD5v7fmTl1L4JAPZWgEmgYmwzY7o13cvnGnk-/gayHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) SD
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MjAxOTMsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTc0MDg5ODU5M30.cDp90a1sBSNxcKkVdThDsGNgaHxX_LbHe00-0uKG83g-/gayHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",14h00 Goyang Sono Skygunners vs Daegu KOGAS Pegasus (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/0c390a37a5c8f3e2b4cd8d382715fab8/1740912981331/live/gaySD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) FullHD
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/a6542d633e40561a59665e3e1071901f/1740920193881/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",14h00 Goyang Sono Skygunners vs Daegu KOGAS Pegasus (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/2SBNayI4biNcvfCAMUKINA/84da5215d1a1dcfaac34c074325b27a0/1740912981/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/IMxEQ1uEr8kpfnBuTL_2IQ/84da5215d1a1dcfaac34c074325b27a0/1740920193/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/83da3307e1d67e67f68520382e22ed93.png",13h00 Capalaba Bulldogs VS Rochedale Rovers (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/isLoDyDHuz19UlQ00UyEGQ/Fv2lucGIbhPi2caWYvF5Lg/1740918759941/live/sd-6MtMsm97MAz7dZxuXR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/pU8-i14o_W_dYIVN7-9DqA/Fv2lucGIbhPi2caWYvF5Lg/1740917317575/live/sd-6MtMsm97MAz7dZxuXR/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/76722a157176d354a952c671bb46cc7e.png",13h00 Western Sydney vs Perth Glory (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -395,10 +371,6 @@ https://live-xlvb.nsnd.live/rM0KWjdkKr8Yc2wHT0kGAA/8ea4ad32686fd43bf1bf1c1424d75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/vtFvdM1Suoc2cut9OSZWiw/Fv2lucGIbhPi2caWYvF5Lg/1740917318350/live/sd-6MsGQPkYLA8qBxGEc3/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Mokpo City VS Changwon City (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/XGtHiMLLNQ0aE2zIaviWbw/Fv2lucGIbhPi2caWYvF5Lg/1740917800735/live/sd-6MtJQaEqPhqFabcAZH/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",13h00 Urawa Red Diamonds vs Kashiwa Reysol (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -414,7 +386,7 @@ https://apisportzz179528093.nsnd.live/9WI2p81l3L2uo63Vk6KHGg/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/077498aa221410ff314434a011e8d65f.png",13h30 White City Woodville VS Adelaide Raiders SC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/eASeWF3AAluWMZt5m3fvAA/Fv2lucGIbhPi2caWYvF5Lg/1740918760103/live/sd-6MtMsvst8XhDmSPVSs/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Z2Mcq-Bua17Mf3LBn-IBUQ/Fv2lucGIbhPi2caWYvF5Lg/1740920199272/live/sd-6MtMsvst8XhDmSPVSs/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Siheung City VS Chuncheon Citizen (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -471,46 +443,18 @@ https://apisportzz179528093.nsnd.live/gY6WUZdug68wj4RzWDd1EQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/RUTYu_gAQZpCMBy62o6UdQ/Fv2lucGIbhPi2caWYvF5Lg/1740913264091/live/sd-6MtMPH7J1cZVJPcgiF/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon FC (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/RPtOne88aLl2wHupGicoRw/Fv2lucGIbhPi2caWYvF5Lg/1740913206769/live/sd-6MtN8RfvH4nkLSjeHy/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",12h00 Busan I Park vs Gyeongnam FC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/5oFTsN5OQBgOxIS8UFOQ2Q/Fv2lucGIbhPi2caWYvF5Lg/1740913143500/live/sd-6MtMsscutUKHDm3F8o/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",12h00 Hwaseong FC vs Chungnam Asan (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/MQkgbmBBFjA-pqTeTXaJKQ/Fv2lucGIbhPi2caWYvF5Lg/1740913143819/live/sd-6MtMsscutYiExih5Sb/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/83da3307e1d67e67f68520382e22ed93.png",12h00 SWQ Thunder vs Redlands United FC (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/jlLIl5Cizpc0uO9926zSSQ/Fv2lucGIbhPi2caWYvF5Lg/1740913693191/live/sd-6MtMsm8NMzK23c2YvP/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5813bc7c416988a9c80020c680a6f1a5.png",12h00 Samford Ranges vs Pine Hills (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/FvO4o1ZkYoUuztuue2N_pQ/Fv2lucGIbhPi2caWYvF5Lg/1740913693565/live/sd-6MtMsmAbzERvRLLJLs/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Mokpo City vs Changwon City (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/rNnNqEdpN_Re5hdRR9J-Vw/Fv2lucGIbhPi2caWYvF5Lg/1740913694631/live/sd-6MtJQaEqPhqFabcAZH/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Siheung City vs Chuncheon Citizen (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/NW57kIrp6SjIgTYRwbbpLg/Fv2lucGIbhPi2caWYvF5Lg/1740913695655/live/sd-6MtJQaEqPtpevzjkKm/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",12h00 Jeonbuk Hyundai Motors II vs Gimhae City (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/AjHyvGoMRl-2Vbyc2rM8Dg/Fv2lucGIbhPi2caWYvF5Lg/1740913696468/live/sd-6MtJQaFYhXztG4BC75/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/35e5286e9344ce4b09525c4cdf149cce.png",12h00 Souths United SC (w) vs Mitchelton (w) (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/pqAI6jlguFFO3XuFxTv7zA/Fv2lucGIbhPi2caWYvF5Lg/1740913697564/live/sd-6MtJQk4mQXXJ6RnjoH/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4bf2c6a769e6403b9e98b780fe76b211.png",12h00 Gainare Tottori vs Vanraure Hachinohe FC (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/50wlddoygADDKi8B38ndyQ/Fv2lucGIbhPi2caWYvF5Lg/1740914170466/live/sd-6MtMPDmtBSJiHHYSd9/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4bf2c6a769e6403b9e98b780fe76b211.png",12h00 Tochigi SC vs Miyazaki (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -703,10 +647,6 @@ https://179463904.cdnfree.pro/live/biphd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m205nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",12:00 Hwaseong FC vs Chungnam Asan (CKH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",12:30 Sanfrecce Hiroshima vs Yokohama FC (CKH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -783,6 +723,10 @@ https://179463904.cdnfree.pro/live/loisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/loihd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",14:00 Eastern A.A Football Team vs Kowloon City (CKH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m303nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h00 Albirex Niigata vs Cerezo Osaka (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -811,34 +755,6 @@ https://179939170.vipcdnlive.xyz/live/honghanhihd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h00 Nagoya Grampus vs Machida Zelvia (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/duongtiensd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://liveflvhot-qt.vipcdnlive.xyz/live/duongtienhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/duongtiensd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/duongtienhd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",12h00 Daejeon Citizen vs Suwon Football Club (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",12h30 Sanfrecce Hiroshima vs Yokohama FC (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
