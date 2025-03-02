@@ -35,10 +35,6 @@ https://hotlivezz179569584.akainu.xyz/KZbxoGCEcZAgw44vlpA6eQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179569584.akainu.xyz/wc4umJxYfnCl8zqr4WCBYA/Fv2lucGIbhPi2caWYvF5Lg/1740913030388/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại hạng Armenia]" tvg-logo="",16h00 FC West Armenia vs BKMA (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
 #EXTINF:0 group-title="[Belarusian Cup]" tvg-logo="",17h00 Dinamo Brest vs FC Torpedo Zhodino (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -195,6 +191,34 @@ https://179463904.cdnfree.pro/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/paohd1.flv
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplussd1.flv
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/hplushd1.flv
+#EXTINF:0 group-title="[Italian Serie A]" tvg-logo="",18h30 Monza vs Torino (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="Chinese Super League" tvg-logo="",14h30 Qingdao West Coast FC vs Wuhan Three Towns FC Qingdao West Coast FC vs Wuhan Three Towns FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -283,14 +307,6 @@ https://hotlivezz179026907.akainu.xyz/dyM_2_sZ-uNh4yyXY3iM1Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/4yeyLeHdMkuz72UtzqTz9g/Fv2lucGIbhPi2caWYvF5Lg/1740928567331/live/sd-6MtJQQUZdPm4j664Hh/playlist.m3u8
-#EXTINF:0 group-title="Czech Third League" tvg-logo="",16h15 Hradec Kralove B VS Jiskra Usti nad Orlici Hradec Kralove B VS Jiskra Usti nad Orlici (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/jvduT0TJDnWp3XsRuOe5jA/Fv2lucGIbhPi2caWYvF5Lg/1740929046826/live/sd-6MtJQQUZdvXnuoetSF/playlist.m3u8
-#EXTINF:0 group-title="Czech Third League" tvg-logo="",16h15 Chlumec nad Cidlinou VS Banik Most-Sous Chlumec nad Cidlinou VS Banik Most-Sous (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/eYQXBinmxvU6Em0Nwn7K6Q/Fv2lucGIbhPi2caWYvF5Lg/1740930486350/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
 #EXTINF:0 group-title="Austrian Frauen Bundesliga" tvg-logo="",17h00 Neulengbach (w) VS Dornbirn (W) Neulengbach (w) VS Dornbirn (W) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -399,26 +415,62 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/7bd4270f15862230785cb125f9f7da27/1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/RHEli3FTRpuZNX9gGsDaaQ/9d3c1936b065e6a3605ccd426df0ce6c/1740934566/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2cf1e35cdd6ee2d7e7ba1a90c8e8f137.png",16h00 FC West Armenia vs BKMA (VB) Backup 1
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/OoajiiZc15BdA11B2Elg5Q/Fv2lucGIbhPi2caWYvF5Lg/1740928096514/live/sd-6MsGPzst1VtHTCxiGT/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/mapHD.flv?expire=1740935287&sign=dae7f3fc27ab87f70cc49919ac8b4568
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/tWlNqMqp4qQ2nJybjjE6KA/Fv2lucGIbhPi2caWYvF5Lg/1740935287463/live/mapHD/playlist.m3u8
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MzUyODcsInVyaSI6Ii9tYXBIRCIsImlhdCI6MTc0MDkxMzY4N30.1LlAS3-8327jSe7MM_jru1NTYePpS2QvR1sMyFC4MLE-/mapHD/playlist.m3u8
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/e58f3202b4723c47881bb46297968f21/1740935287465/live/mapSD/playlist.m3u8
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/UGrF6Mn4i7bp5ipaSaKsjw/2ab36550347e65f07744d25bb0b46764/1740935287/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
+#EXTINF:0 group-title="Serie A" tvg-logo="",18h30 Monza vs Torino Monza vs Torino (CK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/oAnwcEJvIofDdSIoPGf2Lw/Fv2lucGIbhPi2caWYvF5Lg/1740935287465/live/may101/playlist.m3u8
+#EXTINF:0 group-title="Russian National Football League" tvg-logo="",18h00 Chaika Peschanokopskoe VS FK Ufa Chaika Peschanokopskoe VS FK Ufa (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/y3_zJ5wObqXB47pVqSKhwg/Fv2lucGIbhPi2caWYvF5Lg/1740935287868/live/sd-6MsFu84YvHHKNHXmkF/playlist.m3u8
+#EXTINF:0 group-title="Russian Premier League" tvg-logo="",18h00 Khimki VS Fakel Voronezh Khimki VS Fakel Voronezh (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/W7iBg6UbLU3Hf9bCuXp5rg/Fv2lucGIbhPi2caWYvF5Lg/1740935288698/live/sd-6MsG9SuGhCcbjpyreP/playlist.m3u8
+#EXTINF:0 group-title="Ukrainian Premier League" tvg-logo="",18h00 FC Inhulets Petrove VS Kryvbas FC Inhulets Petrove VS Kryvbas (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/mOb7jTw-K7dXAgaIBcKc5g/Fv2lucGIbhPi2caWYvF5Lg/1740935289515/live/sd-6MsGeDGJDMVMR5jZzK/playlist.m3u8
+#EXTINF:0 group-title="Indian League Division 1" tvg-logo="",18h00 Sreenidi Deccan VS Namdhari FC Sreenidi Deccan VS Namdhari FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ai13HHdBAn0EHCev499SdQ/Fv2lucGIbhPi2caWYvF5Lg/1740935290320/live/sd-6MtMdfEVg3k1Cgse7V/playlist.m3u8
+#EXTINF:0 group-title="Poland Liga 1" tvg-logo="",18h00 Chrobry Glogow VS Stal Stalowa Wola Chrobry Glogow VS Stal Stalowa Wola (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/kNDOMCHJAk-wfmTFZPwzqw/Fv2lucGIbhPi2caWYvF5Lg/1740935291132/live/sd-6MsFQvG1ig1m5NARWb/playlist.m3u8
+#EXTINF:0 group-title="Liga Portugal 2" tvg-logo="",18h00 Portimonense VS Leixoes Portimonense VS Leixoes (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/xB-OR8GvgcAEj9ZtMDzm3A/Fv2lucGIbhPi2caWYvF5Lg/1740935291935/live/sd-6MsGeYqjfPcXn4whXZ/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png",16h15 Slovan Liberec II vs SK Zapy (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/3xk1TMEGQZiKx4ld7VHOOg/Fv2lucGIbhPi2caWYvF5Lg/1740928587303/live/sd-6MtJQQUZdPm4j664Hh/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png",16h15 Hradec Kralove B vs Jiskra Usti nad Orlici (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/GPLDwJvU2Jn-QhasXTn3IA/Fv2lucGIbhPi2caWYvF5Lg/1740929063246/live/sd-6MtJQQUZdvXnuoetSF/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png",16h15 Jablonec B vs Mlada Boleslav B (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/vQ_q5eRJti3Wx0EUmkLJwg/Fv2lucGIbhPi2caWYvF5Lg/1740929041637/live/sd-6MtJQQUZdtLK3KpyHM/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/399fdcf6d58e3ed5086ad401ee1bfbf8.png",16h15 Chlumec nad Cidlinou vs Most Mus (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/UWCh5m-Sl1GecIf95S6R_g/Fv2lucGIbhPi2caWYvF5Lg/1740930497765/live/sd-6MtJQQUZdowMJNB8yZ/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2ba8698b79439589fdd2b0f7218d8b07.jpg",17h00 Neulengbach (w) vs Dornbirn (W) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -459,10 +511,34 @@ https://apisportzz179528093.nsnd.live/UR9eJnw7Cn_PLWBlESaXKQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/n9q3Xetjk-TKOcBQXyKIVg/Fv2lucGIbhPi2caWYvF5Lg/1740933644642/live/sd-6MtJQQYH58uicUx52T/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại hạng Armenia]" tvg-logo="",16h00 FC West Armenia vs BKMA (CKhia) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b480a16cd74497a00b3a40f81690efcf.png",18h00 Chrobry Glogow vs Stal Stalowa Wola (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/DP-km9RHhr_R-vcgpXUbOw/Fv2lucGIbhPi2caWYvF5Lg/1740935319261/live/sd-6MsFQvG1ig1m5NARWb/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png",18h00 Khimki vs Fakel (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/bz6iE3plUVEn7KYV5WQOkQ/Fv2lucGIbhPi2caWYvF5Lg/1740935320772/live/sd-6MsG9SuGhCcbjpyreP/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/086e2a4aff248001dd42cfc6bd246c03.png",18h00 FK Chayka Pesch vs FC Ufa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/Q6_Gs08NJe4mVTaibRLLtg/Fv2lucGIbhPi2caWYvF5Lg/1740935321596/live/sd-6MsFu84YvHHKNHXmkF/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png",18h00 Sukhothai vs Bangkok United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/OPHgv6tuxPZaMVolAjzwNQ/Fv2lucGIbhPi2caWYvF5Lg/1740935321923/live/sd-6MsFuTbnQu2L5LEemh/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d3934b6c112331b44aed3e1c14badcaa.png",18h00 FC Inhulets Petrove vs Kryvbas (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/H2cLdgKdpbQP8PZOHdUyBQ/Fv2lucGIbhPi2caWYvF5Lg/1740935323034/live/sd-6MsGeDGJDMVMR5jZzK/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/a725e20ce8fe99d067b01c91abd88e43.png",18h00 Portimonense vs Leixoes (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/1E1rHGQwlypfzLLg_ErpcQ/Fv2lucGIbhPi2caWYvF5Lg/1740935323774/live/sd-6MsGeYqjfPcXn4whXZ/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/fd3a8019ad4593e751abe7c1fbaab83a.png",18h00 Sreenidi Deccan vs Namdhari FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/l_2gDYCpah8z_8IJrKavIQ/Fv2lucGIbhPi2caWYvF5Lg/1740935360949/live/sd-6MtMdfEVg3k1Cgse7V/playlist.m3u8
 #EXTINF:0 group-title="[Belarusian Cup]" tvg-logo="",17h00 Dinamo Brest vs FC Torpedo Zhodino (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -619,10 +695,6 @@ https://179463904.cdnfree.pro/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/paohd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4e9bbe69138e2dce52b250649b110435.png",16h00 FC West Armenia vs BKMA (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m101qt/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",17h00 Khatoco Khanh Hoa vs Dong Tam Long An (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -679,3 +751,7 @@ https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",18h00 Khimki vs Fakel Voronezh (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939633.vipcdnlive.xyz/live/m103qt/playlist.m3u8
