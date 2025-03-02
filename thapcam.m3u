@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/motoGP.png",12h00 Grand Prix of Thailand: Moto3, Moto2 Race (TC) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179026907.akainu.xyz/GK8LW-_8jsKBkoD40DhfCw/Fv2lucGIbhPi2caWYvF5Lg/1740889989352/live/may21/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png",16h00 TNT Tropang Giga vs Rain or Shine Elastopainters (TC) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -19,6 +15,22 @@ https://hotlivezz179569584.akainu.xyz/-AyQRtV9IpBSqc2Ld02itA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179026907.akainu.xyz/HLfdAqzIHBdlyOAui5InVA/Fv2lucGIbhPi2caWYvF5Lg/1740905829545/live/may211/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",18h00 Yonex German Open (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/V02hKn4t__hEEWg6ZYjFCg/Fv2lucGIbhPi2caWYvF5Lg/1740911589063/live/myHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png",18h00 Yonex German Open (TC) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179026907.akainu.xyz/ExEN8apPjeJ7NzsbEHE31w/Fv2lucGIbhPi2caWYvF5Lg/1740911589064/live/may25/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b1b67c63e3a4b74010028210dd42a77f.png",17h00 Khánh Hòa vs Long An (TC) NHÀ ĐÀI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179026907.akainu.xyz/uMQdzfF6k2-E4Xg-mrDr-Q/Fv2lucGIbhPi2caWYvF5Lg/1740912072765/live/may10/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/e097169ba1a6ce73cb62ee42daa43f5f.png",18h30 Barangay Ginebra San Miguel vs NorthPort Batang Pier (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/KZbxoGCEcZAgw44vlpA6eQ/Fv2lucGIbhPi2caWYvF5Lg/1740912548541/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="[Ngoại hạng Armenia]" tvg-logo="",16h00 FC West Armenia vs BKMA (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -115,6 +127,46 @@ https://179463904.cdnfree.pro/live/loisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/loihd1.flv
+#EXTINF:0 group-title="[Thai League 1]" tvg-logo="",18h00 Sukhothai vs Bangkok United FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m405nd.flv
+#EXTINF:0 group-title="[VĐQG Campuchia]" tvg-logo="",18h00 Visakha FC vs Nagaworld FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Campuchia]" tvg-logo="",18h00 National Police Commissary vs Life FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Ba Lan]" tvg-logo="",18h15 Puszcza Niepolomice vs Motor Lublin (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/heosd1/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/heohd1/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/heosd1.flv
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/heohd1.flv
 #EXTINF:0 group-title="Chinese Super League" tvg-logo="",14h30 Qingdao West Coast FC vs Wuhan Three Towns FC Qingdao West Coast FC vs Wuhan Three Towns FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -255,6 +307,50 @@ https://apisportzz179528093.nsnd.live/66aGYAc0gq_Gtjtc2AC21g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/t6QLAXcSLBgW8iAi40G4qA/Fv2lucGIbhPi2caWYvF5Lg/1740933129795/live/sd-6MsDB5ms1ZmSymLDaj/playlist.m3u8
+#EXTINF:0 group-title="Western cup football invitational" tvg-logo="",17h30 Guangxi Hengchen Football Club VS Guizhou Zhucheng Jingji FC Guangxi Hengchen Football Club VS Guizhou Zhucheng Jingji FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ILI6H9tTzH_Xli_5A4jCQQ/Fv2lucGIbhPi2caWYvF5Lg/1740933609628/live/sd-6MtJQQYH58uicUx52T/playlist.m3u8
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/soiHD.flv?expire=1740934086&sign=714b43a768eb2b49841d372153e69b05
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/lJ6UnawKZrafp3QHRa6LYw/Fv2lucGIbhPi2caWYvF5Lg/1740934086326/live/soiHD/playlist.m3u8
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MzQwODYsInVyaSI6Ii9zb2lIRCIsImlhdCI6MTc0MDkxMjQ4Nn0.nkVXdaZJwiHmYrnOX5jtrYc7NtSt2cGub1k9xuCGI0o-/soiHD/playlist.m3u8
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/4adf15e67e8f11bf211b4f45b0719d7f/1740934086327/live/soiSD/playlist.m3u8
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/lup5GrqwacZMvkqvqkfFgw/522fa8a1e6086eda6ae886e796133e2d/1740934086/live/_definst_/stream_1_1bda7@soiFHD/playlist.m3u8
+#EXTINF:0 group-title="CÃºp bÃ³ng rá» Philippines" tvg-logo="",18h15 Barangay Ginebra San Miguel vs NorthPort Batang Pier Barangay Ginebra San Miguel vs NorthPort Batang Pier (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1740934086&sign=9bc729c21f81b7ee529d932fa73307cc
+#EXTINF:0 group-title="CÃºp bÃ³ng rá» Philippines" tvg-logo="",18h15 Barangay Ginebra San Miguel vs NorthPort Batang Pier Barangay Ginebra San Miguel vs NorthPort Batang Pier (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/YsSS2T5UwhfuJ8u28CUdYA/Fv2lucGIbhPi2caWYvF5Lg/1740934086705/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="CÃºp bÃ³ng rá» Philippines" tvg-logo="",18h15 Barangay Ginebra San Miguel vs NorthPort Batang Pier Barangay Ginebra San Miguel vs NorthPort Batang Pier (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MzQwODYsInVyaSI6Ii9sdWFIRCIsImlhdCI6MTc0MDkxMjQ4Nn0.9v1ElVTpHctTM1XZYPfhGLLQs9KeV8TYIq00QKZ0ELU-/luaHD/playlist.m3u8
+#EXTINF:0 group-title="CÃºp bÃ³ng rá» Philippines" tvg-logo="",18h15 Barangay Ginebra San Miguel vs NorthPort Batang Pier Barangay Ginebra San Miguel vs NorthPort Batang Pier (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/50dd77347cd660fb43273ef698058d17/1740934086706/live/luaSD/playlist.m3u8
+#EXTINF:0 group-title="CÃºp bÃ³ng rá» Philippines" tvg-logo="",18h15 Barangay Ginebra San Miguel vs NorthPort Batang Pier Barangay Ginebra San Miguel vs NorthPort Batang Pier (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/6qiQFzSEi11PurEAEJVp1Q/74b8773ecaa9df430432c2bf2b6bd9e0/1740934086/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2cf1e35cdd6ee2d7e7ba1a90c8e8f137.png",16h00 FC West Armenia vs BKMA (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -311,6 +407,10 @@ https://apisportzz179528093.nsnd.live/oIPiuoIpxMqz8ROnQTpJTg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/UR9eJnw7Cn_PLWBlESaXKQ/Fv2lucGIbhPi2caWYvF5Lg/1740933214730/live/sd-6MtMtKhbAYBJrVDcXM/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="",17h30 Guangxi Hengchen Football Club vs Guizhou Zhucheng Jingji FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://apisportzz179528093.nsnd.live/n9q3Xetjk-TKOcBQXyKIVg/Fv2lucGIbhPi2caWYvF5Lg/1740933644642/live/sd-6MtJQQYH58uicUx52T/playlist.m3u8
 #EXTINF:0 group-title="[Ngoại hạng Armenia]" tvg-logo="",16h00 FC West Armenia vs BKMA (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -407,6 +507,46 @@ https://179463904.cdnfree.pro/live/loisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/loihd1.flv
+#EXTINF:0 group-title="[Thai League 1]" tvg-logo="",18h00 Sukhothai vs Bangkok United FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m405nd.flv
+#EXTINF:0 group-title="[VĐQG Campuchia]" tvg-logo="",18h00 Visakha FC vs Nagaworld FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Campuchia]" tvg-logo="",18h00 National Police Commissary vs Life FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Ba Lan]" tvg-logo="",18h15 Puszcza Niepolomice vs Motor Lublin (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/heosd1/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/heohd1/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/heosd1.flv
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/heohd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/4e9bbe69138e2dce52b250649b110435.png",16h00 FC West Armenia vs BKMA (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
