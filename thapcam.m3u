@@ -35,34 +35,6 @@ https://hotlivezz179569584.akainu.xyz/KZbxoGCEcZAgw44vlpA6eQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179569584.akainu.xyz/wc4umJxYfnCl8zqr4WCBYA/Fv2lucGIbhPi2caWYvF5Lg/1740913030388/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[Hạng nhất Thổ Nhĩ Kỳ]" tvg-logo="",17h30 Boluspor vs Erzurum BB (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/chuoisd1.flv
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/chuoihd1.flv
 #EXTINF:0 group-title="[Thai League 1]" tvg-logo="",18h00 Sukhothai vs Bangkok United FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -243,6 +215,50 @@ https://179463904.cdnfree.pro/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Romania]" tvg-logo="",20h00 CSM Politehnica Iasi vs Petrolul Ploiesti (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m304nd.flv
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoisd1.flv
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoihd1.flv
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Thổ Nhĩ Kỳ]" tvg-logo="",20h00 Kasimpasa vs Galatasaray (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[Hạng Nhì Tây Ban Nha]" tvg-logo="",20h00 Cordoba vs Granada CF (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m303nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",20h30 Almere City FC vs AFC Ajax (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m305nd/playlist.m3u8
 #EXTINF:0 group-title="Chinese Super League" tvg-logo="",14h30 Qingdao West Coast FC vs Wuhan Three Towns FC Qingdao West Coast FC vs Wuhan Three Towns FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -263,26 +279,6 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/77357f2b8c891347ee282a361f31b7dc/1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/rW9t8SP7JJFMTfFjS7V5bQ/adb8de5045254f4388ff92b08aeba831/1740921388/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="Chinese Super League" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1740927326&sign=3b135f34ab72c2043506b6a7993e6aaa
-#EXTINF:0 group-title="Chinese Super League" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CK) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/iMZTXifqkfWZbJr6b5ky5A/Fv2lucGIbhPi2caWYvF5Lg/1740927326179/live/thuHD/playlist.m3u8
-#EXTINF:0 group-title="Chinese Super League" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CK) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MjczMjYsInVyaSI6Ii90aHVIRCIsImlhdCI6MTc0MDkwNTcyNn0.T_tdNHXbyWDCaFTUuA0EreMOj7RVs5l_7PYmxL3jWng-/thuHD/playlist.m3u8
-#EXTINF:0 group-title="Chinese Super League" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/e02c6fe83612c6f7288e30144f5e70f0/1740927326180/live/thuSD/playlist.m3u8
-#EXTINF:0 group-title="Chinese Super League" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/1aZRG1Lpc37-T-sHoiWyMA/23c640f28fcd1bae0920b90a9358ecbd/1740927326/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
 #EXTINF:0 group-title="Thai League 1" tvg-logo="",18h00 Sukhothai vs Bangkok United FC Sukhothai vs Bangkok United FC (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -303,10 +299,6 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/52a8af6b5a09b515a1c2aca8fb2b44f2/1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/vBd3E-2WzVIOaLR5TbYQ0w/adb8de5045254f4388ff92b08aeba831/1740933127/live/_definst_/stream_1_1bda7@nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="Turkish First League" tvg-logo="",17h30 Boluspor VS Erzurum BB Boluspor VS Erzurum BB (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/PfX9d3bHb1I0MBw_OpTXAA/Fv2lucGIbhPi2caWYvF5Lg/1740933128989/live/sd-6MsDB5ms1XZy7HWJRq/playlist.m3u8
 #EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",18h15 SC Heerenveen vs AZ Alkmaar SC Heerenveen vs AZ Alkmaar (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -607,10 +599,34 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/087fdff5377cedee7267714793566208/1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/NZCqrGalwekxjNwPzEwBPA/f7d74fcca7b86aaec98d69192d99ee8f/1740939846/live/_definst_/stream_1_1bda7@coFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",17h30 Chengdu Better City FC vs Tianjin Tigers (VB) Backup 1
+#EXTINF:0 group-title="Women's Super League" tvg-logo="",19h30 Manchester United (w) VS Leicester City (w) Manchester United (w) VS Leicester City (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://apisportzz179528093.nsnd.live/UR9eJnw7Cn_PLWBlESaXKQ/Fv2lucGIbhPi2caWYvF5Lg/1740933214730/live/sd-6MtMtKhbAYBJrVDcXM/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ac1oYTJZhk3T0SsKCZZ4lw/Fv2lucGIbhPi2caWYvF5Lg/1740940807584/live/sd-6MsDAyFsMARnRL662f/playlist.m3u8
+#EXTINF:0 group-title="Bundesliga 2" tvg-logo="",19h30 1. FC Magdeburg VS SV Darmstadt 98 1. FC Magdeburg VS SV Darmstadt 98 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/9Ww2nHcsVctvPvzrLRWZkA/Fv2lucGIbhPi2caWYvF5Lg/1740940808417/live/sd-6MsGeqCRKvxTYFcaDy/playlist.m3u8
+#EXTINF:0 group-title="Singapore Cup" tvg-logo="",19h30 Balestier Khalsa FC VS BG Pathum United Balestier Khalsa FC VS BG Pathum United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/IByoYe10mwQEOSMAXjzPMg/Fv2lucGIbhPi2caWYvF5Lg/1740940809304/live/sd-6MtN8NMG6oWAPcvMaB/playlist.m3u8
+#EXTINF:0 group-title="Scottish Premiership" tvg-logo="",19h30 Hibernian VS Heart of Midlothian Hibernian VS Heart of Midlothian (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/BvRBoWUo5V-lJPHafoyRUA/Fv2lucGIbhPi2caWYvF5Lg/1740940810276/live/sd-6MsGeP6ythKGvsPm3y/playlist.m3u8
+#EXTINF:0 group-title="Belgian Second Division" tvg-logo="",19h30 Genk U23 VS SC Lokeren-Temse Genk U23 VS SC Lokeren-Temse (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/SfPMxG2XR0jT7o8fq2Cgtg/Fv2lucGIbhPi2caWYvF5Lg/1740940810734/live/sd-6MsFQvDnvbUbuQtU3d/playlist.m3u8
+#EXTINF:0 group-title="German 3.Liga" tvg-logo="",19h30 SV Waldhof Mannheim VS Alemannia Aachen SV Waldhof Mannheim VS Alemannia Aachen (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OPLuDV0EP1rDPN3Ez23cEw/Fv2lucGIbhPi2caWYvF5Lg/1740940811106/live/sd-6MsFuTZaHWanXDTNv7/playlist.m3u8
+#EXTINF:0 group-title="VÃ´ Äá»ch quá»c gia HÃ  Lan" tvg-logo="",20h30 Heracles Almelo vs PEC Zwolle Heracles Almelo vs PEC Zwolle (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/masHB9TuBl3vnQyKagVa9g/Fv2lucGIbhPi2caWYvF5Lg/1740941285855/live/may201/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/b480a16cd74497a00b3a40f81690efcf.png",18h00 Chrobry Glogow vs Stal Stalowa Wola (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -863,34 +879,6 @@ https://apisportzz179528093.nsnd.live/ew1bkQoAwti6SQrnjddRtw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://apisportzz179528093.nsnd.live/EfgQD92tzMWvKWvo75KqBQ/Fv2lucGIbhPi2caWYvF5Lg/1740940436668/live/sd-6MtN8NMG6oWAPcvMaB/playlist.m3u8
-#EXTINF:0 group-title="[Hạng nhất Thổ Nhĩ Kỳ]" tvg-logo="",17h30 Boluspor vs Erzurum BB (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/chuoisd1.flv
-#EXTINF:0 group-title="[Ngoại Hạng Trung Quốc]" tvg-logo="",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/chuoihd1.flv
 #EXTINF:0 group-title="[Thai League 1]" tvg-logo="",18h00 Sukhothai vs Bangkok United FC (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1071,10 +1059,50 @@ https://179463904.cdnfree.pro/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m104nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png",17h30 Chengdu Rongcheng FC vs Tianjin Jinmen Tiger FC (LK) Nhà đài
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m102qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoisd1.flv
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/chuoihd1.flv
+#EXTINF:0 group-title="[La Liga]" tvg-logo="",20h00 Leganes vs Getafe (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m301nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Thổ Nhĩ Kỳ]" tvg-logo="",20h00 Kasimpasa vs Galatasaray (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m302nd/playlist.m3u8
+#EXTINF:0 group-title="[Hạng Nhì Tây Ban Nha]" tvg-logo="",20h00 Cordoba vs Granada CF (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m303nd/playlist.m3u8
+#EXTINF:0 group-title="[VĐQG Romania]" tvg-logo="",20h00 CSM Politehnica Iasi vs Petrolul Ploiesti (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/m304nd.flv
+#EXTINF:0 group-title="[VĐQG Hà Lan]" tvg-logo="",20h30 Almere City FC vs AFC Ajax (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m305nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d4d461679eedfed50374d47d84431ef3.png",18h00 Khimki vs Fakel Voronezh (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
