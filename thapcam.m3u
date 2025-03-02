@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/vmjma3B7-fD55TIOh.png",08h30 Emiliana Arango vs Daria Saville (TC) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179026907.akainu.xyz/Z8EKoHp9U_dvyRO_8afmlw/Fv2lucGIbhPi2caWYvF5Lg/1740876553202/live/may20/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/I971dRmd-nXRC2CWu.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
-https://hotlivezz179569584.akainu.xyz/XRMkSS7w801ZSGFJaM9Iag/Fv2lucGIbhPi2caWYvF5Lg/1740883747507/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png",10h30 South East Melbourne Phoenix vs Illawarra Hawks (TC) HD1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
@@ -31,6 +23,14 @@ https://hotlivezz179569584.akainu.xyz/sQ-ZFbvRgEfIHQolk_NUwA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
 https://hotlivezz179026907.akainu.xyz/GK8LW-_8jsKBkoD40DhfCw/Fv2lucGIbhPi2caWYvF5Lg/1740889989352/live/may21/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Ulsan Mobis Phoebus vs Suwon KT Sonicboom (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/sQMnlPSCtatowjs9O5j4uw/Fv2lucGIbhPi2caWYvF5Lg/1740891457398/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
+https://hotlivezz179569584.akainu.xyz/kJYSSAY-Dk7leVDAWrH25w/Fv2lucGIbhPi2caWYvF5Lg/1740891459546/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Major League Soccer",09h30 COLORADO RAPIDS VS FC DALLAS (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -287,6 +287,26 @@ https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1740908900&sign=8f9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/OUXd3031WgdRF7eHXdbnxg/Fv2lucGIbhPi2caWYvF5Lg/1740908900078/live/sd-6MtMPPY6mVzbYCLq7h/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/gayHD.flv?expire=1740912981&sign=a1555e5489a1161e93bd8886155d00c7
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/-9vJ6I-GfqC_hsGgc3WMAw/Fv2lucGIbhPi2caWYvF5Lg/1740912981330/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MTI5ODEsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTc0MDg5MTM4MX0.sont1fEMD5v7fmTl1L4JAPZWgEmgYmwzY7o13cvnGnk-/gayHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/0c390a37a5c8f3e2b4cd8d382715fab8/1740912981331/live/gaySD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png",12h00 Seoul SK Knights vs Buasn KCC Egis (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/2SBNayI4biNcvfCAMUKINA/84da5215d1a1dcfaac34c074325b27a0/1740912981/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",10h10 Pumas U.N.A.M. VS Chivas Guadalajara (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -343,26 +363,6 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/d96b20d4d9a509ad1f374bc653e8c037/1740
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/-GvA_lLr2m7Ae56e7nKLlg/bee03a114a12e586ce1aa6c439f97251/1740910584/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/0f43fa913a8e4caf9e47f5814578523c.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (CK) HD nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1740906988&sign=e373a56bd7cd13f3a78dc7d39bc8bc71
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/0f43fa913a8e4caf9e47f5814578523c.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (CK) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/HuGwPFMpLsiEml2WQYDLhA/Fv2lucGIbhPi2caWYvF5Lg/1740906988138/live/Z1HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/0f43fa913a8e4caf9e47f5814578523c.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (CK) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDA5MDY5ODgsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzQwODg1Mzg4fQ.kqS4PS1Yyg8PfYICS5veXmq9Dv_8PhbFlJrUBEQ4jdA-/Z1HD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/0f43fa913a8e4caf9e47f5814578523c.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/b1dc71943d6c360418c1b3bdb69f6119/1740906988139/live/Z1SD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/0f43fa913a8e4caf9e47f5814578523c.png",10h00 Tomas Machac vs Alejandro Davidovich Fokina (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/MGZIOtOxZFQwHUc2H-xXog/bf44ba621235a4936d4c6ae6054d551e/1740906988/live/_definst_/stream_1_1bda7@Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/5751ec3e9a4feab575962e78e006250d.jpg",10h00 Wellington Phoenix (W) vs Adelaide United (w) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz
