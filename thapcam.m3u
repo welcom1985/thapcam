@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",00h00 Flyquest vs Pain (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1741021754&sign=72dbf446155d67be20be9fe32061173b
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",00h00 Flyquest vs Pain (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/8jX6Yr9gQjrEMwSm-vdnUw/Fv2lucGIbhPi2caWYvF5Lg/1741021754721/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",00h00 Flyquest vs Pain (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepSD.flv?expire=1741021754&sign=eac3d534c614486c4ace400455e7cc40
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",00h00 Flyquest vs Pain (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/dxTiWlL9DeiEARj4d1jBXg/Fv2lucGIbhPi2caWYvF5Lg/1741021754721/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -235,6 +219,10 @@ https://179463904.cdnfree.pro/live/dosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/dohd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",04h45 Cruz Azul (w) vs Monterrey (w) (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m201nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 MKS Kalisz Women vs Bydgoszcz Women MKS Kalisz Women vs Bydgoszcz Women (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -687,6 +675,10 @@ https://179463904.cdnfree.pro/live/dosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/dohd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",04h45 Cruz Azul (w) vs Monterrey (w) (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m201nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png",02h00 FK Čukarički vs Radnicki 1923 Kragujevac (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -699,10 +691,6 @@ https://179939633.vipcdnlive.xyz/live/m106qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939633.vipcdnlive.xyz/live/m107qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/c0e3d4d8939af75629435259bdae95bd.png",02h00 Pharco vs El Gounah (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m108qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/e8d38514cbb040848b373ab571a0f11c.png",02h30 Mirandes vs Tenerife (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
