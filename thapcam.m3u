@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",21h30 Furia vs MIBR (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/caoHD.flv?expire=1741009757&sign=a8c98d9441d18dde6012d48f4332bd8d
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",21h30 Furia vs MIBR (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/YAgZK5_Hscv-yC4Ra2SnEA/Fv2lucGIbhPi2caWYvF5Lg/1741009757309/live/caoHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",21h30 Furia vs MIBR (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/caoSD.flv?expire=1741009757&sign=4d16e72a0aff9cd62afe238b1ba6e73d
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",21h30 Furia vs MIBR (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/O-Irq9Sxxuq5VGGCJLZsvQ/Fv2lucGIbhPi2caWYvF5Lg/1741009757309/live/caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",21h30 M80 vs SAW (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -31,22 +15,6 @@ https://hotlivezz179536519.akainu.xyz/live/phepSD.flv?expire=1741011914&sign=516
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179569584.akainu.xyz/X6YMSVAAqnbiwNagmOUtWA/Fv2lucGIbhPi2caWYvF5Lg/1741011914369/live/phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/satHD.flv?expire=1741015988&sign=83c1d3b0510a41441725b34a0351ae51
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/WEgBRlTb5KQ1dfoDNm5BXA/Fv2lucGIbhPi2caWYvF5Lg/1741015988915/live/satHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/satSD.flv?expire=1741015988&sign=6ee07280b5eea683ef0c9d9d766f6cc1
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/UaeVA0guzWpX1UwhOum1tg/Fv2lucGIbhPi2caWYvF5Lg/1741015988915/live/satFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",22h30 Ludogorets Razgrad vs Septemvri Sofia (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -131,6 +99,22 @@ https://hotlivezz179536519.akainu.xyz/live/phepSD.flv?expire=1741021754&sign=eac
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179569584.akainu.xyz/dxTiWlL9DeiEARj4d1jBXg/Fv2lucGIbhPi2caWYvF5Lg/1741021754721/live/phepFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1741022708&sign=dc2158cc2385b06cc84f7d38531d4ade
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/2zXNvWS2HhVgoyO2uITMyw/Fv2lucGIbhPi2caWYvF5Lg/1741022708769/live/luaHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/luaSD.flv?expire=1741022708&sign=abf1562a2f6b33e2cf16780d61e347f5
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/wLinwHCH9qD8sp-oGUSzcw/Fv2lucGIbhPi2caWYvF5Lg/1741022708769/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Novi Pazar vs FK Napredak Krusevac (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -215,22 +199,6 @@ https://179463904.cdnfree.pro/live/thoxayhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m504nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Standard Sumgayit vs Qarabag Standard Sumgayit vs Qarabag (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1741035366&sign=17308c52c14ba6d74ca723d0e7d73ae4
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Standard Sumgayit vs Qarabag Standard Sumgayit vs Qarabag (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/ZaHtZy-6j0-Eb9XidNZM2A/Fv2lucGIbhPi2caWYvF5Lg/1741035366951/live/oldHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Standard Sumgayit vs Qarabag Standard Sumgayit vs Qarabag (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/oldSD.flv?expire=1741035366&sign=78e361e4772eb222d6aa446af3afe1c7
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Standard Sumgayit vs Qarabag Standard Sumgayit vs Qarabag (CK) FULLHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/fS4E2GkR1sAapEx9bey6sQ/Fv2lucGIbhPi2caWYvF5Lg/1741035366951/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Ludogorets Razgrad vs Septemvri Sofia Ludogorets Razgrad vs Septemvri Sofia (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -267,10 +235,6 @@ https://hotlivezz179569584.akainu.xyz/MGDzeV0djng1Mu1eIybGlQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/urcnU_6sl09SjBQd95Bmcg/Fv2lucGIbhPi2caWYvF5Lg/1741037526611/live/may10/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",22h30 Novi Pazar VS FK Napredak Krusevac Novi Pazar VS FK Napredak Krusevac (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/sjIBy-8ctLmJORznBeINSg/Fv2lucGIbhPi2caWYvF5Lg/1741037527101/live/sd-6MsFQXM8SVwQTCskWo/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",23h30 Olsztyn vs Norwid Czestochowa Olsztyn vs Norwid Czestochowa (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -311,6 +275,22 @@ https://apisportzz179528093.nsnd.live/dor0mkky7_A1XqVFQaBwUA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/u260gVaJQYvB5CjbBveVxg/Fv2lucGIbhPi2caWYvF5Lg/1741043768365/live/sd-6MtJQaJWz8R4fJppu1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Al-Wasl SC vs Al-Sadd Al-Wasl SC vs Al-Sadd (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/voiHD.flv?expire=1741044248&sign=42516aecc549f8df3a32914175c08a35
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Al-Wasl SC vs Al-Sadd Al-Wasl SC vs Al-Sadd (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/_x1RXfA0k0ejqZvKt-Hieg/Fv2lucGIbhPi2caWYvF5Lg/1741044248169/live/voiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Al-Wasl SC vs Al-Sadd Al-Wasl SC vs Al-Sadd (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/voiSD.flv?expire=1741044248&sign=331c507cfde37ce17ac9f8ce8c86874f
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Al-Wasl SC vs Al-Sadd Al-Wasl SC vs Al-Sadd (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/QjoWzLTYxdvHKgLQHh4CqQ/Fv2lucGIbhPi2caWYvF5Lg/1741044248169/live/voiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",23h00 Esteghlal Tehran vs Al Nassr (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -331,10 +311,6 @@ https://hotlivezz179569584.akainu.xyz/S4nG3LUmqUENEBICwx-eUw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/_jt4K2wTF_cGRy9EmIGWCg/Fv2lucGIbhPi2caWYvF5Lg/1741037041560/live/may10/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png",22h30 Novi Pazar vs FK Napredak Krusevac (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Plx7sLF9xpfv7Zmghrcjdw/Fv2lucGIbhPi2caWYvF5Lg/1741037499605/live/sd-6MsFQXM8SVwQTCskWo/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png",22h30 Ludogorets Razgrad vs Septemvri Sofia (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -351,22 +327,6 @@ https://hotlivezz179536519.akainu.xyz/live/daSD.flv?expire=1741035340&sign=3f1c9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179569584.akainu.xyz/M6ZHCMUeifWWDA3r-YRshQ/Fv2lucGIbhPi2caWYvF5Lg/1741035340614/live/daFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/satHD.flv?expire=1741034801&sign=9b30f8527f2637392490953c07d3f1a1
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (VB) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/O9ysEv2rawrz2WOoQlvdXg/Fv2lucGIbhPi2caWYvF5Lg/1741034801383/live/satHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/satSD.flv?expire=1741034801&sign=545bcef9392a9386ae01b795aced55d7
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/7ec5916b4a6a5a4616b8150944f88763.png",22h30 Standard Sumgayit vs Qarabag (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/DUa3uXXQtab0AQm680mvlQ/Fv2lucGIbhPi2caWYvF5Lg/1741034801383/live/satFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/14c0fe418966f38de7fb573148830ed6.png",23h00 Macva Sabac vs Zemun (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -527,10 +487,38 @@ https://179463904.cdnfree.pro/live/chuoisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/chuoihd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/53c39d0e222d0707324dcf86dd20ca23.png",22h30 Novi Pazar vs FK Napredak Krusevac (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939633.vipcdnlive.xyz/live/m201qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/loisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/loihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/loisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/loihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/loisd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Başakşehir Futbol Kulübü vs Sivasspor (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/loihd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Rakow Czestochowa vs Lechia Gdansk (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h00 Dinamo Bucuresti vs Hermannstadt (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m204nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png",22h30 Ludogorets Razgrad vs Septemvri Sofia (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
