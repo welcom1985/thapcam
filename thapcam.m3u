@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1741022708&sign=dc2158cc2385b06cc84f7d38531d4ade
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/2zXNvWS2HhVgoyO2uITMyw/Fv2lucGIbhPi2caWYvF5Lg/1741022708769/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaSD.flv?expire=1741022708&sign=abf1562a2f6b33e2cf16780d61e347f5
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",01h00 Germany vs Brazil (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/wLinwHCH9qD8sp-oGUSzcw/Fv2lucGIbhPi2caWYvF5Lg/1741022708769/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",03h15 Sporting CP vs Estoril (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -71,14 +55,6 @@ https://179463904.cdnfree.pro/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h45 Ajaccio vs USL Dunkerque (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h00 Barracas Central vs Godoy Cruz Antonio Tomba (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -275,14 +251,6 @@ https://179463904.cdnfree.pro/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h45 Ajaccio vs USL Dunkerque (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h00 Barracas Central vs Godoy Cruz Antonio Tomba (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m403nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
