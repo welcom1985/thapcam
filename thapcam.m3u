@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",23h30 Olsztyn vs Norwid Czestochowa (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1741021028&sign=8fe664e31db645516c3c0ad71a94f268
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",23h30 Olsztyn vs Norwid Czestochowa (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/ZJSuq9_afCH1vs4i9razzQ/Fv2lucGIbhPi2caWYvF5Lg/1741021028190/live/cunHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",23h30 Olsztyn vs Norwid Czestochowa (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/cunSD.flv?expire=1741021028&sign=35a93e07f492fb867b27b48fe0819fbb
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",23h30 Olsztyn vs Norwid Czestochowa (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/Man1lyF1fLLp0S8r3ytvOw/Fv2lucGIbhPi2caWYvF5Lg/1741021028190/live/cunFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/600px-ESL_Pro_League_Season_17_darkmode.png",00h00 Eternal Fire vs NRG Esports (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -351,6 +335,10 @@ https://apisportzz179528093.nsnd.live/HhDZi3C3BLaBiPrIU4PvmQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/e-H5_k55ySEYjiICh3vGaQ/Fv2lucGIbhPi2caWYvF5Lg/1741047366912/live/sd-6MsGeYqjq464iQcPeB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",01h30 Hapoel Beer Sheva VS Maccabi Haifa Hapoel Beer Sheva VS Maccabi Haifa (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/W_YBGEjJpyw2jHiuoQrutQ/Fv2lucGIbhPi2caWYvF5Lg/1741048809929/live/sd-6MsDB5jdt85k4etxjd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/1a376e9186a7276a0ce8a7e048c210a8.png",00h00 Hapoel Acre FC vs Kafr Qasim (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -427,6 +415,10 @@ https://hotlivezz179026907.akainu.xyz/nmK0RLOX7YpOuWlV0KGKkg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/1-Pw4td-VBr5Da8QbcT6yw/Fv2lucGIbhPi2caWYvF5Lg/1741047369201/live/sd-6MsGeYqjq464iQcPeB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png",01h30 Hapoel Beer Sheva vs Maccabi Haifa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/rZBnIooSJzT8mrrRlQeDqA/Fv2lucGIbhPi2caWYvF5Lg/1741047904113/live/sd-6MsDB5jdt85k4etxjd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",00h30 Mladost Lucani vs FK Zeleznicar Pancevo (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
