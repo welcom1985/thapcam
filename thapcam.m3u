@@ -1,52 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/hplussd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/hplushd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/hplussd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dosd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dohd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dosd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dohd1.flv
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",04h45 Cruz Azul (w) vs Monterrey (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -79,6 +31,46 @@ https://179463904.cdnfree.pro/live/sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Pachuca (w) vs Club Necaxa (w) (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h00 Manta FC vs Delfin SC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h00 Charlotte Hornets vs Golden State Warriors (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h10 All Boys vs Racing de Cordoba (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",04h45 Cruz Azul (w) VS Monterrey (w) Cruz Azul (w) VS Monterrey (w) (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -103,6 +95,22 @@ https://apisportzz179528093.nsnd.live/SmpfdT3ZqXx9SUhEDtg3aA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/t52eStFuYNJFbOJPVVLwyQ/Fv2lucGIbhPi2caWYvF5Lg/1741061287984/live/sd-6MtJQk3HmbicQcjAH9/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino Sao Paulo vs Gremio Novorizontino (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuHD.flv?expire=1741063686&sign=30a501c0862f81d1c74ef104257607c5
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino Sao Paulo vs Gremio Novorizontino (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/IP9fAQZWqRbpXIDoJfbK_w/Fv2lucGIbhPi2caWYvF5Lg/1741063686944/live/thuHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino Sao Paulo vs Gremio Novorizontino (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuSD.flv?expire=1741063686&sign=4a4d38751b2e9330cf5d5a2b82685d07
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino Sao Paulo vs Gremio Novorizontino (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/TRzKnv8ErYMr4H1Zc4LaGQ/Fv2lucGIbhPi2caWYvF5Lg/1741063686944/live/thuFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/3b36ef290c1a7a5b1f300cc64d521961.png",04h45 Cruz Azul (w) vs Monterrey (w) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -127,54 +135,6 @@ https://apisportzz179528093.nsnd.live/M0imzGKvj0jNPvGBy7_wDg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/eHXOWIBVmGFVKlUS0rcaEg/Fv2lucGIbhPi2caWYvF5Lg/1741060903621/live/sd-6MtJQdayY9UdLxAaif/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/hplussd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/hplushd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/hplussd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",02h30 Nottingham Forest vs Ipswich Town (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dosd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dohd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dosd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",03h15 Sporting CP vs Estoril (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dohd1.flv
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",04h45 Cruz Azul (w) vs Monterrey (w) (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -207,6 +167,46 @@ https://179463904.cdnfree.pro/live/sunsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Pachuca (w) vs Club Necaxa (w) (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",06h00 Sao Paulo vs Gremio Novorizontino (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h00 Manta FC vs Delfin SC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h00 Charlotte Hornets vs Golden State Warriors (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",07h10 All Boys vs Racing de Cordoba (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",05h00 San Lorenzo vs Racing Club de Avellaneda (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
