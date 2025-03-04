@@ -295,36 +295,30 @@ https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
 https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/R06kX3q/vov3.jpg",VOV3 1
 https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1e/VOV4_logo_2020.png/revision/latest?cb=20201204121329&path-prefix=vi",VOV4 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/Q7D81bg5/vov4-tb.png",VOV4 1
 https://stream-cdn.vov.vn/live/vov4-audio_only.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/64ZucRJ.png",VOV4 Tây Nguyên 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/vCFGsbKK/vov4-tn.png",VOV4 Tây Nguyên 1
 https://stream.vovmedia.vn/vov4tn
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/64ZucRJ.png",VOV4 Đông Bắc 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/jk2MYLPz/vov4-db.png",VOV4 Đông Bắc 1
 https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/7XxWatS.png",VOV5 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/0pfQC15Y/vov-5.png",VOV5 1
 https://stream.vovmedia.vn/vov5
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/jjfSOYm.png",VOV5 24/7 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/cK2SVw6C/vov-24-7.png",VOV5 24/7 1
 https://stream.vovmedia.vn/vov247
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/rllXbD6.png",VOVGT HN 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/ZR4xR5Xt/vov-gt-hn.png",VOVGT HN 1
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/SyQBB9I.png",VOVGT HCM 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/6Rswms4P/vov-gt-hcm.png",VOVGT HCM 1
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/2uTCy6B.png",VOVGT Mekong 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/PvQFgxN6/vov-gt-mk.png",VOVGT Mekong 1
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/hBCG8yD.png",VOH 99.9Mhz 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/PsTqFc9s/voh-99-9.png",VOH 99.9Mhz 1
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/ITTPjxo.png",VOH 95.6Mhz 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/XcD1tkT/voh-95-6.png",VOH 95.6Mhz 1
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/Kk7NnHq.png",VOH 87.7Mhz 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/SDQvPmWh/voh-87-8.png",VOH 87.7Mhz 1
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/aJA9Yyb.png",VOH 610Khz 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/27YyYdMP/voh-610.png",VOH 610Khz 1
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/XAoko2p.png",VNRC Radio 1 1
-https://stream.zeno.fm/mjsezf1recduv
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/j5wXQwd.png",VNRC Radio 2 1
-https://stream.zeno.fm/qnbaox4th7ruv
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/ed6rHm7.png",VNRC Radio 3 1
-https://stream.zeno.fm/rdpoyhoaul3uv
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/4Yn7ubH.jpg",Chạm 1
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/CBi2ZzC.jpg",Vpop 1
@@ -337,13 +331,13 @@ https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace80
 https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/M1vpbXg/kpop.jpg",Kpop 1
 https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/vDXb068/cpop.jpg",Cpop 1
-https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/LywzzYj/15c2abf5f4554b416384d4f675b2151e-1.png",Cpop 1
+https://vnso-pt-48-tf-multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",USUK 1
 https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/BC7fJ99/edm.jpg",EDM 1
 https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/l3ixRz3.png",XONE 1
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/XoneFMlogo.png",XONE 1
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/H2c0qKv/indie.jpg",Indie 1
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
