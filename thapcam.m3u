@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",08h00 Raw (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1741046950&sign=36da6dc87625e47cc87d606f0d7f7034
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",08h00 Raw (TC) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/nNtGljNbqxTt9U1F-9LMOw/Fv2lucGIbhPi2caWYvF5Lg/1741046950250/live/nuiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",08h00 Raw (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/nuiSD.flv?expire=1741046950&sign=aaee7be108cf634ac349459c38693f9a
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",08h00 Raw (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/957CIG-DVFTfmT40wASr7g/Fv2lucGIbhPi2caWYvF5Lg/1741046950250/live/nuiFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/WWE.png",08h00 Raw (TC) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/ZTo5WoEmtMObnuDGeMCH9g/Fv2lucGIbhPi2caWYvF5Lg/1741046950250/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/WBC_logo.svg/1200px-WBC_logo.svg.png",08h00 China vs Colombia (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
