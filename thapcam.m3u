@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png",17h30 LPB Ninh Bình vs Hà Nội (TC) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/IDeTRNN3s74OhD41Jvocfg/Fv2lucGIbhPi2caWYvF5Lg/1741077189934/live/may20/playlist.m3u8
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://g7w1r.4shares.live/files/chuyen.png",20h45 LPB Ninh Bình vs Geleximco Thái Bình (TC) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -187,30 +183,6 @@ https://179463904.cdnfree.pro/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dosd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dohd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dosd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dohd1.flv
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Turan Tovuz vs Zira FK (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -235,6 +207,30 @@ https://179463904.cdnfree.pro/live/bipsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",19h00 Shanghai Port FC vs Yokohama F. Marinos Shanghai Port FC vs Yokohama F. Marinos (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -531,30 +527,30 @@ https://179463904.cdnfree.pro/live/bipsd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/biphd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) SD 1
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dosd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) HD 1
+https://179421011.cdnlive.pro/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dohd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) SD 2
+https://179421011.cdnlive.pro/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) HD 2
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dosd1.flv
-#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",20h30 Persija Jakarta vs PSIS Semarang (CKhia) HD 3 (Nhanh)
+https://179463904.cdnfree.pro/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="",21h00 Buriram United vs Johor Darul Takzim (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dohd1.flv
+https://179463904.cdnfree.pro/live/cohd1.flv
 #EXTINF:0 group-title="ĐANG DIỄN RA" tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png",19h00 Shanghai Port FC vs Yokohama F. Marinos (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
