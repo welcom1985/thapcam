@@ -426,7 +426,7 @@ https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/sGcRJVP.png",QNR2 - Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/yIHs2sI.png",Quảng Trị 1
-http://vncdn.mediatech.vn/qrtvlive/radio.m3u8
+https://vncdn.mediatech.vn/qrtvlive/radio.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/QZT6GIh.png",Sơn La 1
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/29px2Qy.png",Thừa Thiên Huế 1
@@ -448,25 +448,23 @@ https://code.vthanhtivi.pw/getlink/dp/thvlradio/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/AELRXuX.png",Yên Bái 1
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/YcTvgq1/bbc1.jpg",BBC 1 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=320000
+https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/k5Gh8Yh/bbc1-xtra.jpg",BBC 1 Xtra 1
-http://lstn.lv/bbc.m3u8?station=bbc_1xtra&bitrate=320000
+https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/FH7hX4W/bbc1-dance.jpg",BBC 1 Dance 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_one_dance&bitrate=320000
-#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/LNkRt1z/bbc1-relax.jpg",BBC 1 Relax 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_one_relax&bitrate=320000
+https://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/kGpY25h/bbc2.jpg",BBC 2 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=320000
+https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/SvkH7FZ/bbc3.jpg",BBC 3 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/rGHYNT6/bbc4.jpg",BBC 4 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=320000
+https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/rZHXgmK/bbc4-xtra.jpg",BBC 4 Extra 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/Ldxzny1/bbc5.jpg",BBC 5 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/1Mz7xzf/bbc6.jpg",BBC 6 1
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd"  tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 1
 https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv1hd"  tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 2
