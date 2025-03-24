@@ -515,10 +515,6 @@ http://thvip.site/360/115/index.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh VTV" tvg-id="vtv9hd"  tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9 2
 https://thvip.site/vtv9/index.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="antvhd"  tvg-logo="https://i.imgur.com/eGkFbAh.png",An Ninh TV 1
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
-#EXTINF:-1 group-title="Kênh VTV" tvg-id="qpvnhd"  tvg-logo="https://i.imgur.com/UIGZw0y.png",Quốc Phòng VN 1
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab1hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab1.png",ON GIAITRI 1
 https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab1hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab1.png",ON GIAITRI 2
