@@ -752,40 +752,60 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctvhdpth"  tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png",SCTV PHIM 2
 https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/01.m3u8?token=lP_2pLWnaPN4UZF29u5gng&e=1736806032
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="hollywoodclassics"  tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics 1
-http://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/160/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="hollywoodclassics"  tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics 2
+http://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="hollywoodclassics"  tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxmovie1"  tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1 1
-http://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/159/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxmovie1"  tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1 2
+http://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxmovie1"  tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxhits"  tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits 1
-http://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/239/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxhits"  tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits 2
+http://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxhits"  tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits 3
 http://thvip.site/360/239/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="inthebox"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",In The Box 1
-http://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/235/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="inthebox"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",In The Box 2
+http://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="inthebox"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",In The Box 3
 http://thvip.site/360/235/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="happykids"  tvg-logo="https://i.imgur.com/Cz2Kju8.png",Happy Kids 1
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/212/index.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="happykids"  tvg-logo="https://i.imgur.com/Cz2Kju8.png",Happy Kids 2
 http://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="musicbox"  tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Music Box 1
-http://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/289/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="musicbox"  tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Music Box 2
+http://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="musicbox"  tvg-logo="https://i.ibb.co/MpYKLcC/Music-Box-BEARTV.png",Music Box 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="planetearthhd"  tvg-logo="https://i.imgur.com/L0EQrhp.png",Planetearth 1
-http://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/135/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="planetearthhd"  tvg-logo="https://i.imgur.com/L0EQrhp.png",Planetearth 2
+http://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="planetearthhd"  tvg-logo="https://i.imgur.com/L0EQrhp.png",Planetearth 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="drfithd"  tvg-logo="https://i.imgur.com/NDxtNe9.png",Drfit 1
-http://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/162/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="drfithd"  tvg-logo="https://i.imgur.com/NDxtNe9.png",Drfit 2
+http://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="drfithd"  tvg-logo="https://i.imgur.com/NDxtNe9.png",Drfit 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="woman"  tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman 1
-http://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/163/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="woman"  tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman 2
+http://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="woman"  tvg-logo="https://i.ibb.co/92YZhy8/Woman-BEARTV.png",Woman 3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="man"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_480_270.png",Man 1
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/237/index.m3u8
+#EXTINF:-1 group-title="Kênh In The Box" tvg-id="man"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_480_270.png",Man 2
 http://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="vinhlong1hd"  tvg-logo="https://i.imgur.com/gvPtTR2.png",Vĩnh Long 1 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
