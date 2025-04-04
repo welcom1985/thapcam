@@ -1068,8 +1068,10 @@ https://stream01.vnet.am/Kinosemya/mono.m3u8
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="cartoonhd"  tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network 2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="cartoonito"  tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito HD 1
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="cartoonito"  tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito HD 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=33
+#EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="cartoonito"  tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito HD 3
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd?cca73a006b4b39a595207ceb5ed9ca0a:b833d1f40c261ef78896f97e06f80cdc
 #EXTINF:-1 group-title="Kênh thiếu nhi" tvg-id="dreamworks"  tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",DISNEY JR 1
 https://fl2.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.m3u8
@@ -1266,6 +1268,8 @@ https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Kênh âm nhạc" tvg-id="pop"  tvg-logo="https://i.imgur.com/H1Aap4E.png",Vevo Rock 1
 https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bel4aqksrgol2-ssai-prd/playlist.m3u8
 #EXTINF:-1 group-title="Kênh âm nhạc" tvg-id="pop"  tvg-logo="https://i.imgur.com/IAMkya8.png",KPOP 1
+https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-1 group-title="Kênh âm nhạc" tvg-id="pop"  tvg-logo="https://i.imgur.com/IAMkya8.png",KPOP 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="lovenature"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature 1
 https://fl1.moveonjoy.com/LOVE_NATURE/tracks-v1a1/mono.m3u8
