@@ -319,6 +319,10 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/27YyYdMP/voh-610.png",VOH 610Khz 1
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://cloudcdnvod.tek4tv.vn//MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg",FM 90 | Hà Nội 1
+https://cloudcdnfm90.tek4tv.vn/HANOI90/stream.m3u8
+#EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://cloudcdnvod.tek4tv.vn//MAM/VNews/Image/Playlist/2024/01/16/logo/16012024162843/162842_fm96.jpg",FM 96 | Hà Nội 1
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/4Yn7ubH.jpg",Chạm 1
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/CBi2ZzC.jpg",Vpop 1
@@ -644,8 +648,10 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctv1hd"  tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png",SCTV 1 2
 https://cdn1.tvmienphi.xyz:8444/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/01.m3u8?token=lP_2pLWnaPN4UZF29u5gng&e=1736806032
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctv2hd"  tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png",SCTV 2 1
-https://e5.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+http://14.248.239.22:8889/ace/tv360mpd.php?id=201
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctv2hd"  tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png",SCTV 2 2
+https://e5.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8
+#EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctv2hd"  tvg-logo="https://i.ibb.co/cctcsNH/sctv2-hd-BEARTV.png",SCTV 2 3
 https://cdn1.tvmienphi.xyz:8444/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/01.m3u8?token=lP_2pLWnaPN4UZF29u5gng&e=1736806032
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctv3hd"  tvg-logo="https://i.ibb.co/bW9fKGv/sctv3-hd-BEARTV.png",SCTV 3 1
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv3/index.m3u8
