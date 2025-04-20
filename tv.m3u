@@ -1097,6 +1097,14 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd?086d09a40bf
 http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 group-title="Kênh giải trí" tvg-id="cinemaworldhd"  tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",CinemaWorld 2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd?ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4004.png",EuroSports 1 1
+https://32tech0steam0dp01.org/live/IT_Eurosport1FHD/chunks.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4004.png",EuroSports 1 2
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4009.png",EuroSports 2 1
+https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
+#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4009.png",EuroSports 2 2
+http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports Network 1
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/A8CnA8g.png",CBS Sports Network 2
@@ -1151,12 +1159,6 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/15947.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",Fox Sports 2 3
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/22525.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4004.png",EuroSports 1 1
-http://145.239.5.177:8080/529/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4004.png",EuroSports 1 2
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4009.png",EuroSports 2 1
-http://185.189.225.157/EuroSport2/index.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/iy5uxqP.png",SUPERSPORTS VARIETY 01 1
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47628.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/XOpIxRO.png",SUPERSPORTS VARIETY 02 1
