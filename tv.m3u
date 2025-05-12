@@ -900,12 +900,16 @@ https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="laocai"  tvg-logo="https://i.imgur.com/QAVSUBu.png",Lào Cai 2
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="langson"  tvg-logo="https://i.imgur.com/6FCXyrr.png",Lạng Sơn 1
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh địa phương" tvg-id="langson"  tvg-logo="https://i.imgur.com/6FCXyrr.png",Lạng Sơn 2
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="lamdong"  tvg-logo="https://i.imgur.com/Tv0fNk3.png",Lâm Đồng 1
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="lamdong"  tvg-logo="https://i.imgur.com/Tv0fNk3.png",Lâm Đồng 2
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="longan"  tvg-logo="https://i.imgur.com/jBWD3It.png",Long An 1
+https://live.fptplay53.net/epzsd1/longan_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh địa phương" tvg-id="longan"  tvg-logo="https://i.imgur.com/jBWD3It.png",Long An 2
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="dongthap1"  tvg-logo="https://i.imgur.com/UfOw13y.png",Đồng Tháp 1 1
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
