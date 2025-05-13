@@ -1209,6 +1209,10 @@ https://fl5.moveonjoy.com/Animal_Planet/index.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="tlc"  tvg-logo="https://i.imgur.com/3zrkpno.png",TLC 2
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/15969.m3u8
+#EXTINF:-1 group-title="Kênh khám phá" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/bbc-earth-rs.png",BBC Earth 1
+https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
+#EXTINF:-1 group-title="Kênh khám phá" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/bbc-lifestyle-pl.png",BBC Lifestyle 1
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png",SCI 1
 https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png",SCI 2
@@ -1261,9 +1265,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="fashionhd"  tvg-logo="https://i.ibb.co/y4WhpNb/FASHION-TV-BEARTV.png",Fashion TV 1
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="dmax"  tvg-logo="https://i.imgur.com/En2sLlW.png",DMAX 1
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="dmax"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png",DMAX 1
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/dmax.m3u8
-#EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="dmax"  tvg-logo="https://i.imgur.com/En2sLlW.png",DMAX 2
+#EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="dmax"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dmax-es.png",DMAX 2
 http://viettel.nekocdn.xyz/dmax/index.m3u8
 #EXTINF:-1 group-title="Kênh nước ngoài" tvg-id="afnhd"  tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network 1
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
