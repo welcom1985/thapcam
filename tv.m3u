@@ -359,7 +359,7 @@ https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/zUFSFCV.png",Bắc Ninh 1
 https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/9UZtJvv.png",Bến Tre 1
-http://sohoa.truyenthanhthongminh.vn/sohoabentre
+https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-bentre.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PubplK_0bzqAARm6UT_3avdGXd8YQc0AeKPfLfPOLg&s",Bình Dương 1
 https://s.net.vn/BTVbinhduong
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/DHWoGfP.png",Bình Phước 1
@@ -433,11 +433,11 @@ https://vncdn.mediatech.vn/qrtvlive/radio.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/QZT6GIh.png",Sơn La 1
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/29px2Qy.png",Thừa Thiên Huế 1
-http://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
+https://trtlive.f77de468.cdnviet.com/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/UBcqMiY.png",Thái Nguyên 1
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/0DU4cyg.png",Tây Ninh 1
-http://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
+https://202.43.109.142:1935/radio11/tnradio/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/gwOQBas.png",Thái Bình 1
 http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.imgur.com/UTSrapf.png",Tiền Giang 1
@@ -547,8 +547,6 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab23hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab23.png",ON GOLF 1
 https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab16hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab16.png",ON FOOTBALL HD 1
-https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab16hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab16.png",ON FOOTBALL HD 2
 https://xem.TruyenHinh.Click/BoSung/vtvcab16hd/TruyenHinh.Click
 #EXTINF:-1 group-title="Kênh VTVCAB" tvg-id="vtvcab3hd"  tvg-logo="https://xzenprox.github.io/cdn/images/vtvcab/vtvcab3.png",ON SPORT 1
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
@@ -897,6 +895,8 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="hanoi1"  tvg-logo="https://i.imgur.com/mwCTDMj.png",Hà Nội 1 2
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="hanoi2"  tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2 1
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh địa phương" tvg-id="hanoi2"  tvg-logo="https://i.imgur.com/HyiwlZV.png",Hà Nội 2 2
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh địa phương" tvg-id="hatinh"  tvg-logo="https://i.imgur.com/R4uthe7.png",Hà Tĩnh 1
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
