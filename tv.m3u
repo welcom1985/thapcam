@@ -1102,16 +1102,8 @@ http://kstv.us:8080/live/2qt65aetuZ/0527822179/47643.m3u8
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/23316.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",Fox Sports 1 1
 https://fl5.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",Fox Sports 1 2
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/15948.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png",Fox Sports 1 3
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/22526.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",Fox Sports 2 1
 https://fl5.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",Fox Sports 2 2
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/15947.m3u8
-#EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png",Fox Sports 2 3
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/22525.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/iy5uxqP.png",SUPERSPORTS VARIETY 01 1
 http://kstv.us:8080/live/2qt65aetuZ/0527822179/47628.m3u8
 #EXTINF:-1 group-title="Kênh thể thao" tvg-id="vtv1"  tvg-logo="https://i.imgur.com/XOpIxRO.png",SUPERSPORTS VARIETY 02 1
@@ -1164,12 +1156,10 @@ https://cdn2.skygo.mn/live/disk1/BBC_earth/HLS-FTA/BBC_earth.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLS-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png",SCI 1
 https://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-science-us.png",SCI 2
-http://kstv.us:8080/live/2qt65aetuZ/0527822179/15961.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryhd"  tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4003.png",Discovery 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Discovery_Channel_Live_TV/tracks-v1a1/mono.ts.m3u8
+https://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Discovery_Life_Live_TV/tracks-v1a1/mono.ts.m3u8
+https://fl3.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-id="discoveryasiahd"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery 1
 https://fl5.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="Kênh khám phá" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png",MotorTrend 1
