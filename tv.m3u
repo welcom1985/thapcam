@@ -676,8 +676,6 @@ https://liveh12.seenow.vn/hls/SCTV21/index.m3u8
 https://liveh12.seenow.vn/hls/SCTV22/index.m3u8
 #EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctvhdpth"  tvg-logo="https://i.ibb.co/G561126/SCTVTH-BEARTV.png",SCTV PHIM 1
 https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
-#EXTINF:-1 group-title="Kênh SCTV" tvg-id="sctvhdpth"  tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp",SCTV 4K 1
-https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="boxhits"  tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits 1
 https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Kênh In The Box" tvg-id="inthebox"  tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_480_270.png",In The Box 1
