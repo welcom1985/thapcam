@@ -1309,11 +1309,11 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTINF:-1 group-title="Thái Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TPTV_logo_2014.png/400px-TPTV_logo_2014.png",TPTV HD 1
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 #EXTINF:-1 group-title="TV360 Sự Kiện" tvg-id="tv360.sk1"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1 1
-https://xem.hoiquan.click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.hoiquan.click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TV360 Sự Kiện" tvg-id="tv360.sk2"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2 1
-https://xem.hoiquan.click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.hoiquan.click/CoBan2/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="TV360 Sự Kiện" tvg-id="tv360.sk3"  tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3 1
-https://xem.hoiquan.click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.hoiquan.click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 group-title="VCLIP" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1735798849/cmc_new/img.live_channel/0/0/0/0/2.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/tv/vclip?id=vtv1-hd
