@@ -289,13 +289,13 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
 
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/hMCfsH1/vov1.jpg",VOV1 1
-https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
+https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/GQtfjDP/vov2.jpg",VOV2 1
-https://stream-cdn.vov.vn/live/vov2-audio_only.m3u8
+https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/R06kX3q/vov3.jpg",VOV3 1
-https://stream-cdn.vov.vn/live/vov3-audio_only.m3u8
+https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/Q7D81bg5/vov4-tb.png",VOV4 1
-https://stream-cdn.vov.vn/live/vov4-audio_only.m3u8
+https://audio-lss.vov.vn/han/live/vov4/audio/manifest.m3u8
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/vCFGsbKK/vov4-tn.png",VOV4 Tây Nguyên 1
 https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1 group-title="Kênh Radio" tvg-logo="https://i.ibb.co/jk2MYLPz/vov4-db.png",VOV4 Đông Bắc 1
